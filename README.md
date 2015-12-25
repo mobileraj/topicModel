@@ -1,0 +1,3 @@
+# Understanding topic models
+
+More info to come as I learn more...
