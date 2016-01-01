@@ -1,0 +1,547 @@
+**berkshire hathaway inc.**
+    
+    
+    
+    _to the shareholders of berkshire hathaway inc.:_
+    
+         first, a few words about accounting.  the merger with 
+    diversified retailing company, inc. at yearend adds two new 
+    complications in the presentation of our financial results.  
+    after the merger, our ownership of blue chip stamps increased to 
+    approximately 58% and, therefore, the accounts of that company 
+    must be fully consolidated in the balance sheet and statement of 
+    earnings presentation of berkshire.  in previous reports, our 
+    share of the net earnings only of blue chip had been included as 
+    a single item on berkshires statement of earnings, and there had 
+    been a similar one-line inclusion on our balance sheet of our 
+    share of their net assets.
+    
+         this full consolidation of sales, expenses, receivables, 
+    inventories, debt, etc. produces an aggregation of figures from 
+    many diverse businesses - textiles, insurance, candy, newspapers, 
+    trading stamps - with dramatically different economic 
+    characteristics.  in some of these your ownership is 100% but, in 
+    those businesses which are owned by blue chip but fully 
+    consolidated, your ownership as a berkshire shareholder is only 
+    58%. (ownership by others of the balance of these businesses is 
+    accounted for by the large minority interest item on the 
+    liability side of the balance sheet.) such a grouping of balance 
+    sheet and earnings items - some wholly owned, some partly owned - 
+    tends to obscure economic reality more than illuminate it.  in 
+    fact, it represents a form of presentation that we never prepare 
+    for internal use during the year and which is of no value to us 
+    in any management activities.
+    
+         for that reason, throughout the report we provide much 
+    separate financial information and commentary on the various 
+    segments of the business to help you evaluate berkshires 
+    performance and prospects.  much of this segmented information is 
+    mandated by sec disclosure rules and covered in managements 
+    discussion on pages 29 to 34.  and in this letter we try to 
+    present to you a view of our various operating entities from the 
+    same perspective that we view them managerially.
+    
+         a second complication arising from the merger is that the 
+    1977 figures shown in this report are different from the 1977 
+    figures shown in the report we mailed to you last year.  
+    accounting convention requires that when two entities such as 
+    diversified and berkshire are merged, all financial data 
+    subsequently must be presented as if the companies had been 
+    merged at the time they were formed rather than just recently.  
+    so the enclosed financial statements, in effect, pretend that in 
+    1977 (and earlier years) the diversified-berkshire merger already 
+    had taken place, even though the actual merger date was december 
+    30, 1978.  this shifting base makes comparative commentary 
+    confusing and, from time to time in our narrative report, we will 
+    talk of figures and performance for berkshire shareholders as 
+    historically reported to you rather than as restated after the 
+    diversified merger.
+    
+         with that preamble it can be stated that, with or without 
+    restated figures, 1978 was a good year.  operating earnings, 
+    exclusive of capital gains, at 19.4% of beginning shareholders 
+    investment were within a fraction of our 1972 record.  while we 
+    believe it is improper to include capital gains or losses in 
+    evaluating the performance of a single year, they are an 
+    important component of the longer term record.  because of such 
+    gains, berkshires long-term growth in equity per share has been 
+    greater than would be indicated by compounding the returns from 
+    operating earnings that we have reported annually.
+    
+         for example, over the last three years - generally a bonanza 
+    period for the insurance industry, our largest profit producer - 
+    berkshires per share net worth virtually has doubled, thereby 
+    compounding at about 25% annually through a combination of good 
+    operating earnings and fairly substantial capital gains.  neither 
+    this 25% equity gain from all sources nor the 19.4% equity gain 
+    from operating earnings in 1978 is sustainable.  the insurance 
+    cycle has turned downward in 1979, and it is almost certain that 
+    operating earnings measured by return on equity will fall this 
+    year.  however, operating earnings measured in dollars are likely 
+    to increase on the much larger shareholders equity now employed 
+    in the business.
+    
+         in contrast to this cautious view about near term return 
+    from operations, we are optimistic about prospects for long term 
+    return from major equity investments held by our insurance 
+    companies.  we make no attempt to predict how security markets 
+    will behave; successfully forecasting short term stock price 
+    movements is something we think neither we nor anyone else can 
+    do.  in the longer run, however, we feel that many of our major 
+    equity holdings are going to be worth considerably more money 
+    than we paid, and that investment gains will add significantly to 
+    the operating returns of the insurance group.
+    
+    _sources of earnings_
+    
+         to give you a better picture of just where berkshires 
+    earnings are produced, we show below a table which requires a 
+    little explanation.  berkshire owns close to 58% of blue chip 
+    which, in addition to 100% ownership of several businesses, owns 
+    80% of wesco financial corporation.  thus, berkshires equity in 
+    wescos earnings is about 46%.  in aggregate, businesses that we 
+    control have about 7,000 full-time employees and generate 
+    revenues of over $500 million.
+    
+         the table shows the overall earnings of each major operating 
+    category on a pre-tax basis (several of the businesses have low 
+    tax rates because of significant amounts of tax-exempt interest 
+    and dividend income), as well as the share of those earnings 
+    belonging to berkshire both on a pre-tax and after-tax basis.  
+    significant capital gains or losses attributable to any of the 
+    businesses are not shown in the operating earnings figure, but 
+    are aggregated on the realized securities gain line at the 
+    bottom of the table.  because of various accounting and tax 
+    intricacies, the figures in the table should not be treated as 
+    holy writ, but rather viewed as close approximations of the 1977 
+    and 1978 earnings contributions of our constituent businesses.
+    
+    _
+                                                                             net earnings
+                                       earnings before income taxes            after tax
+                                  --------------------------------------  ------------------
+                                        total          berkshire share     berkshire share
+                                  ------------------  ------------------  ------------------
+    (in thousands of dollars)       1978      1977      1978      1977      1978      1977_
+                                  --------  --------  --------  --------  --------  --------
+    total - all entities ......... $66,180   $57,089   $54,350   $42,234   $39,242   $30,393
+                                  ========  ========  ========  ========  ========  ========
+    earnings from operations:
+      insurance group:
+        underwriting ............. $ 3,001   $ 5,802   $ 3,000   $ 5,802   $ 1,560   $ 3,017
+        net investment income ....  19,705    12,804    19,691    12,804    16,400    11,360
+      berkshire-waumbec textiles     2,916      (620)    2,916      (620)    1,342      (322)
+      associated retail 
+         stores, inc. ............   2,757     2,775     2,757     2,775     1,176     1,429
+      sees candies ..............  12,482    12,840     7,013     6,598     3,049     2,974
+      buffalo evening news .......  (2,913)      751    (1,637)      389      (738)      158
+      blue chip stamps - parent ..   2,133     1,091     1,198       566     1,382       892
+      illinois national bank
+         and trust company .......   4,822     3,800     4,710     3,706     4,262     3,288
+      wesco financial
+         corporation - parent ....   1,771     2,006       777       813       665       419
+      mutual savings and
+         loan association ........  10,556     6,779     4,638     2,747     3,042     1,946
+      interest on debt ...........  (5,566)   (5,302)   (4,546)   (4,255)   (2,349)   (2,129)
+      other ......................     720       165       438       102       261        48
+                                  --------  --------  --------  --------  --------  --------
+        total earnings from
+           operations ............ $52,384   $42,891   $40,955   $31,427   $30,052   $23,080
+    realized securities gain .....  13,796    14,198    13,395    10,807     9,190     7,313
+                                  --------  --------  --------  --------  --------  --------
+        total earnings ........... $66,180   $57,089   $54,350   $42,234   $39,242   $30,393
+                                  ========  ========  ========  ========  ========  ========
+    
+         blue chip and wesco are public companies with reporting 
+    requirements of their own.  later in this report we are 
+    reproducing the narrative reports of the principal executives of 
+    both companies, describing their 1978 operations.  some of the 
+    figures they utilize will not match to the penny the ones we use 
+    in this report, again because of accounting and tax complexities.  
+    but their comments should be helpful to you in understanding the 
+    underlying economic characteristics of these important partly-
+    owned businesses.  a copy of the full annual report of either 
+    company will be mailed to any shareholder of berkshire upon 
+    request to mr. robert h. bird for blue chips stamps, 5801 south 
+    eastern avenue, los angeles, california 90040, or to mrs. bette 
+    deckard for wesco financial corporation, 315 east colorado 
+    boulevard, pasadena, california 91109.
+    
+    _textiles_
+    
+         earnings of $1.3 million in 1978, while much improved from 
+    1977, still represent a low return on the $17 million of capital 
+    employed in this business.  textile plant and equipment are on 
+    the books for a very small fraction of what it would cost to 
+    replace such equipment today.  and, despite the age of the 
+    equipment, much of it is functionally similar to new equipment 
+    being installed by the industry.  but despite this bargain cost 
+    of fixed assets, capital turnover is relatively low reflecting 
+    required high investment levels in receivables and inventory 
+    compared to sales.  slow capital turnover, coupled with low 
+    profit margins on sales, inevitably produces inadequate returns 
+    on capital.  obvious approaches to improved profit margins 
+    involve differentiation of product, lowered manufacturing costs 
+    through more efficient equipment or better utilization of people, 
+    redirection toward fabrics enjoying stronger market trends, etc.  
+    our management is diligent in pursuing such objectives.  the 
+    problem, of course, is that our competitors are just as 
+    diligently doing the same thing.
+    
+         the textile industry illustrates in textbook style how 
+    producers of relatively undifferentiated goods in capital 
+    intensive businesses must earn inadequate returns except under 
+    conditions of tight supply or real shortage.  as long as excess 
+    productive capacity exists, prices tend to reflect direct 
+    operating costs rather than capital employed.  such a supply-
+    excess condition appears likely to prevail most of the time in 
+    the textile industry, and our expectations are for profits of 
+    relatively modest amounts in relation to capital.
+    
+         we hope we dont get into too many more businesses with such 
+    tough economic characteristics.  but, as we have stated before: 
+    (1) our textile businesses are very important employers in their 
+    communities, (2) management has been straightforward in reporting 
+    on problems and energetic in attacking them, (3) labor has been 
+    cooperative and understanding in facing our common problems, and 
+    (4) the business should average modest cash returns relative to 
+    investment.  as long as these conditions prevail - and we expect 
+    that they will - we intend to continue to support our textile 
+    business despite more attractive alternative uses for capital.
+    
+    _insurance underwriting_
+    
+         the number one contributor to berkshires overall excellent 
+    results in 1978 was the segment of national indemnity companys 
+    insurance operation run by phil liesche.  on about $90 million of 
+    earned premiums, an underwriting profit of approximately $11 
+    million was realized, a truly extraordinary achievement even 
+    against the background of excellent industry conditions.  under 
+    phils leadership, with outstanding assistance by roland miller 
+    in underwriting and bill lyons in claims, this segment of 
+    national indemnity (including national fire and marine insurance 
+    company, which operates as a running mate) had one of its best 
+    years in a long history of performances which, in aggregate, far 
+    outshine those of the industry.  present successes reflect credit 
+    not only upon present managers, but equally upon the business 
+    talents of jack ringwalt, founder of national indemnity, whose 
+    operating philosophy remains etched upon the company.
+    
+         home and automobile insurance company had its best year 
+    since john seward stepped in and straightened things out in 1975.  
+    its results are combined in this report with those of phil 
+    liesches operation under the insurance category entitled 
+    specialized auto and general liability.
+    
+         workers compensation was a mixed bag in 1978.  in its first 
+    year as a subsidiary, cypress insurance company, managed by milt 
+    thornton, turned in outstanding results.  the workers 
+    compensation line can cause large underwriting losses when rapid 
+    inflation interacts with changing social concepts, but milt has a 
+    cautious and highly professional staff to cope with these 
+    problems.  his performance in 1978 has reinforced our very good 
+    feelings about this purchase.
+    
+         frank denardo came with us in the spring of 1978 to 
+    straighten out national indemnitys california workers 
+    compensation business which, up to that point, had been a 
+    disaster.  frank has the experience and intellect needed to 
+    correct the major problems of the los angeles office.  our volume 
+    in this department now is running only about 25% of what it was 
+    eighteen months ago, and early indications are that frank is 
+    making good progress.
+    
+         george youngs reinsurance department continues to produce 
+    very large sums for investment relative to premium volume, and 
+    thus gives us reasonably satisfactory overall results.  however, 
+    underwriting results still are not what they should be and can 
+    be.  it is very easy to fool yourself regarding underwriting 
+    results in reinsurance (particularly in casualty lines involving 
+    long delays in settlement), and we believe this situation 
+    prevails with many of our competitors.  unfortunately, self-
+    delusion in company reserving almost always leads to inadequate 
+    industry rate levels.  if major factors in the market dont know 
+    their true costs, the competitive fall-out hits all - even 
+    those with adequate cost knowledge.  george is quite willing to 
+    reduce volume significantly, if needed, to achieve satisfactory 
+    underwriting, and we have a great deal of confidence in the long 
+    term soundness of this business under his direction.
+    
+         the homestate operation was disappointing in 1978.  our 
+    unsatisfactory underwriting, even though partially explained by 
+    an unusual incidence of midwestern storms, is particularly 
+    worrisome against the backdrop of very favorable industry results 
+    in the conventional lines written by our homestate group.  we 
+    have confidence in john ringwalts ability to correct this 
+    situation.  the bright spot in the group was the performance of 
+    kansas fire and casualty in its first full year of business.  
+    under floyd taylor, this subsidiary got off to a truly remarkable 
+    start.  of course, it takes at least several years to evaluate 
+    underwriting results, but the early signs are encouraging and 
+    floyds operation achieved the best loss ratio among the 
+    homestate companies in 1978.
+    
+         although some segments were disappointing, overall our 
+    insurance operation had an excellent year.  but of course we 
+    should expect a good year when the industry is flying high, as in 
+    1978.  it is a virtual certainty that in 1979 the combined ratio 
+    (see definition on page 31) for the industry will move up at 
+    least a few points, perhaps enough to throw the industry as a 
+    whole into an underwriting loss position.  for example, in the 
+    auto lines - by far the most important area for the industry and 
+    for us - cpi figures indicate rates overall were only 3% higher 
+    in january 1979 than a year ago.  but the items that make up loss 
+    costs - auto repair and medical care costs - were up over 9%.  
+    how different than yearend 1976 when rates had advanced over 22% 
+    in the preceding twelve months, but costs were up 8%.
+    
+         margins will remain steady only if rates rise as fast as 
+    costs.  this assuredly will not be the case in 1979, and 
+    conditions probably will worsen in 1980.  our present thinking is 
+    that our underwriting performance relative to the industry will 
+    improve somewhat in 1979, but every other insurance management 
+    probably views its relative prospects with similar optimism - 
+    someone is going to be disappointed.  even if we do improve 
+    relative to others, we may well have a higher combined ratio and 
+    lower underwriting profits in 1979 than we achieved last year.
+    
+         we continue to look for ways to expand our insurance 
+    operation.  but your reaction to this intent should not be 
+    unrestrained joy.  some of our expansion efforts - largely 
+    initiated by your chairman have been lackluster, others have been 
+    expensive failures.  we entered the business in 1967 through 
+    purchase of the segment which phil liesche now manages, and it 
+    still remains, by a large margin, the best portion of our 
+    insurance business.  it is not easy to buy a good insurance 
+    business, but our experience has been that it is easier to buy 
+    one than create one.  however, we will continue to try both 
+    approaches, since the rewards for success in this field can be 
+    exceptional.
+    
+    _insurance investments_
+    
+         we confess considerable optimism regarding our insurance 
+    equity investments.  of course, our enthusiasm for stocks is not 
+    unconditional.  under some circumstances, common stock 
+    investments by insurers make very little sense.
+    
+         we get excited enough to commit a big percentage of 
+    insurance company net worth to equities only when we find (1) 
+    businesses we can understand, (2) with favorable long-term 
+    prospects, (3) operated by honest and competent people, and (4) 
+    priced very attractively.  we usually can identify a small number 
+    of potential investments meeting requirements (1), (2) and (3), 
+    but (4) often prevents action.  for example, in 1971 our total 
+    common stock position at berkshires insurance subsidiaries 
+    amounted to only $10.7 million at cost, and $11.7 million at 
+    market.  there were equities of identifiably excellent companies 
+    available - but very few at interesting prices. (an irresistible 
+    footnote: in 1971, pension fund managers invested a record 122% 
+    of net funds available in equities - at full prices they couldnt 
+    buy enough of them.  in 1974, after the bottom had fallen out, 
+    they committed a then record low of 21% to stocks.)
+    
+         the past few years have been a different story for us.  at 
+    the end of 1975 our insurance subsidiaries held common equities 
+    with a market value exactly equal to cost of $39.3 million.  at 
+    the end of 1978 this position had been increased to equities 
+    (including a convertible preferred) with a cost of $129.1 million 
+    and a market value of $216.5 million.  during the intervening 
+    three years we also had realized pre-tax gains from common 
+    equities of approximately $24.7 million.  therefore, our overall 
+    unrealized and realized pre-tax gains in equities for the three 
+    year period came to approximately $112 million.  during this same 
+    interval the dow-jones industrial average declined from 852 to 
+    805.  it was a marvelous period for the value-oriented equity 
+    buyer.
+    
+         we continue to find for our insurance portfolios small 
+    portions of really outstanding businesses that are available, 
+    through the auction pricing mechanism of security markets, at 
+    prices dramatically cheaper than the valuations inferior 
+    businesses command on negotiated sales.
+    
+         this program of acquisition of small fractions of businesses 
+    (common stocks) at bargain prices, for which little enthusiasm 
+    exists, contrasts sharply with general corporate acquisition 
+    activity, for which much enthusiasm exists.  it seems quite clear 
+    to us that either corporations are making very significant 
+    mistakes in purchasing entire businesses at prices prevailing in 
+    negotiated transactions and takeover bids, or that we eventually 
+    are going to make considerable sums of money buying small 
+    portions of such businesses at the greatly discounted valuations 
+    prevailing in the stock market. (a second footnote: in 1978 
+    pension managers, a group that logically should maintain the 
+    longest of investment perspectives, put only 9% of net available 
+    funds into equities - breaking the record low figure set in 1974 
+    and tied in 1977.)
+    
+         we are not concerned with whether the market quickly 
+    revalues upward securities that we believe are selling at bargain 
+    prices.  in fact, we prefer just the opposite since, in most 
+    years, we expect to have funds available to be a net buyer of 
+    securities.  and consistent attractive purchasing is likely to 
+    prove to be of more eventual benefit to us than any selling 
+    opportunities provided by a short-term run up in stock prices to 
+    levels at which we are unwilling to continue buying.
+    
+         our policy is to concentrate holdings.  we try to avoid 
+    buying a little of this or that when we are only lukewarm about 
+    the business or its price.  when we are convinced as to 
+    attractiveness, we believe in buying worthwhile amounts.
+    
+    equity holdings of our insurance companies with a market value of 
+    over $8 million on december 31, 1978 were as follows:
+    _
+    no. of
+    shares      company                                     cost       market
+    ----------  -------                                  ----------  ----------
+                                                             (000s omitted)_
+      246,450   american broadcasting companies, inc. ... $  6,082    $  8,626
+    1,294,308   government employees insurance company
+                   common stock .........................    4,116       9,060
+    1,986,953   government employees insurance company 
+                   convertible preferred ................   19,417      28,314
+      592,650   interpublic group of companies, inc. ....    4,531      19,039
+    1,066,934   kaiser aluminum and chemical corporation    18,085      18,671
+      453,800   knight-ridder newspapers, inc. ..........    7,534      10,267
+      953,750   safeco corporation ......................   23,867      26,467
+      934,300   the washington post company .............   10,628      43,445
+                                                         ----------  ----------
+                total ................................... $ 94,260    $163,889
+                all other holdings ......................   39,506      57,040
+                                                         ----------  ----------
+                total equities .......................... $133,766    $220,929
+                                                         ==========  ==========
+    
+         in some cases our indirect interest in earning power is 
+    becoming quite substantial.  for example, note our holdings of 
+    953,750 shares of safeco corp. safeco probably is the best run 
+    large property and casualty insurance company in the united 
+    states.  their underwriting abilities are simply superb, their 
+    loss reserving is conservative, and their investment policies 
+    make great sense.
+    
+         safeco is a much better insurance operation than our own 
+    (although we believe certain segments of ours are much better 
+    than average), is better than one we could develop and, 
+    similarly, is far better than any in which we might negotiate 
+    purchase of a controlling interest.  yet our purchase of safeco 
+    was made at substantially under book value.  we paid less than 
+    100 cents on the dollar for the best company in the business, 
+    when far more than 100 cents on the dollar is being paid for 
+    mediocre companies in corporate transactions.  and there is no 
+    way to start a new operation - with necessarily uncertain 
+    prospects - at less than 100 cents on the dollar.
+    
+         of course, with a minor interest we do not have the right to 
+    direct or even influence management policies of safeco.  but why 
+    should we wish to do this?  the record would indicate that they 
+    do a better job of managing their operations than we could do 
+    ourselves.  while there may be less excitement and prestige in 
+    sitting back and letting others do the work, we think that is all 
+    one loses by accepting a passive participation in excellent 
+    management.  because, quite clearly, if one controlled a company 
+    run as well as safeco, the proper policy also would be to sit 
+    back and let management do its job.
+    
+         earnings attributable to the shares of safeco owned by 
+    berkshire at yearend amounted to $6.1 million during 1978, but 
+    only the dividends received (about 18% of earnings) are reflected 
+    in our operating earnings.  we believe the balance, although not 
+    reportable, to be just as real in terms of eventual benefit to us 
+    as the amount distributed.  in fact, safecos retained earnings 
+    (or those of other well-run companies if they have opportunities 
+    to employ additional capital advantageously) may well eventually 
+    have a value to shareholders greater than 100 cents on the 
+    dollar.
+    
+         we are not at all unhappy when our wholly-owned businesses 
+    retain all of their earnings if they can utilize internally those 
+    funds at attractive rates.  why should we feel differently about 
+    retention of earnings by companies in which we hold small equity 
+    interests, but where the record indicates even better prospects 
+    for profitable employment of capital? (this proposition cuts the 
+    other way, of course, in industries with low capital 
+    requirements, or if management has a record of plowing capital 
+    into projects of low profitability; then earnings should be paid 
+    out or used to repurchase shares - often by far the most 
+    attractive option for capital utilization.)
+    
+         the aggregate level of such retained earnings attributable 
+    to our equity interests in fine companies is becoming quite 
+    substantial.  it does not enter into our reported operating 
+    earnings, but we feel it well may have equal long-term 
+    significance to our shareholders.  our hope is that conditions 
+    continue to prevail in securities markets which allow our 
+    insurance companies to buy large amounts of underlying earning 
+    power for relatively modest outlays.  at some point market 
+    conditions undoubtedly will again preclude such bargain buying 
+    but, in the meantime, we will try to make the most of 
+    opportunities.
+    
+    _banking_
+    
+         under gene abegg and pete jeffrey, the illinois national 
+    bank and trust company in rockford continues to establish new 
+    records.  last years earnings amounted to approximately 2.1% of 
+    average assets, about three times the level averaged by major 
+    banks.  in our opinion, this extraordinary level of earnings is 
+    being achieved while maintaining significantly less asset risk 
+    than prevails at most of the larger banks.
+    
+         we purchased the illinois national bank in march 1969.  it 
+    was a first-class operation then, just as it had been ever since 
+    gene abegg opened the doors in 1931.  since 1968, consumer time 
+    deposits have quadrupled, net income has tripled and trust 
+    department income has more than doubled, while costs have been 
+    closely controlled.
+    
+         our experience has been that the manager of an already high-
+    cost operation frequently is uncommonly resourceful in finding 
+    new ways to add to overhead, while the manager of a tightly-run 
+    operation usually continues to find additional methods to curtail 
+    costs, even when his costs are already well below those of his 
+    competitors.  no one has demonstrated this latter ability better 
+    than gene abegg.
+    
+         we are required to divest our bank by december 31, 1980.  
+    the most likely approach is to spin it off to berkshire 
+    shareholders some time in the second half of 1980.
+    
+    _retailing_
+    
+         upon merging with diversified, we acquired 100% ownership of 
+    associated retail stores, inc., a chain of about 75 popular 
+    priced womens apparel stores.  associated was launched in 
+    chicago on march 7, 1931 with one store, $3200, and two 
+    extraordinary partners, ben rosner and leo simon.  after mr. 
+    simons death, the business was offered to diversified for cash 
+    in 1967.  ben was to continue running the business - and run it, 
+    he has.
+    
+         associateds business has not grown, and it consistently has 
+    faced adverse demographic and retailing trends.  but bens 
+    combination of merchandising, real estate and cost-containment 
+    skills has produced an outstanding record of profitability, with 
+    returns on capital necessarily employed in the business often in 
+    the 20% after-tax area.
+    
+         ben is now 75 and, like gene abegg, 81, at illinois national 
+    and louie vincenti, 73, at wesco, continues daily to bring an 
+    almost passionately proprietary attitude to the business.  this 
+    group of top managers must appear to an outsider to be an 
+    overreaction on our part to an oeo bulletin on age 
+    discrimination.  while unorthodox, these relationships have been 
+    exceptionally rewarding, both financially and personally.  it is 
+    a real pleasure to work with managers who enjoy coming to work 
+    each morning and, once there, instinctively and unerringly think 
+    like owners.  we are associated with some of the very best.
+    
+    
+                                        warren e. buffett, chairman
+    
+    march 26, 1979
+    
+    
+

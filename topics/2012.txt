@@ -1,0 +1,1537 @@
+berkshire’s corporate performance vs. the s&p 500
+annual percentage change
+in per-share
+in s&p 500
+book value of with dividends
+berkshire
+included
+(1)
+(2)
+
+year
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+........................................................
+
+compounded annual gain – 1965-2012 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+overall gain – 1964-2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23.8
+20.3
+11.0
+19.0
+16.2
+12.0
+16.4
+21.7
+4.7
+5.5
+21.9
+59.3
+31.9
+24.0
+35.7
+19.3
+31.4
+40.0
+32.3
+13.6
+48.2
+26.1
+19.5
+20.1
+44.4
+7.4
+39.6
+20.3
+14.3
+13.9
+43.1
+31.8
+34.1
+48.3
+0.5
+6.5
+(6.2)
+10.0
+21.0
+10.5
+6.4
+18.4
+11.0
+(9.6)
+19.8
+13.0
+4.6
+14.4
+19.7%
+586,817%
+
+relative
+results
+(1)-(2)
+
+10.0
+(11.7)
+30.9
+11.0
+(8.4)
+3.9
+14.6
+18.9
+(14.8)
+(26.4)
+37.2
+23.6
+(7.4)
+6.4
+18.2
+32.3
+(5.0)
+21.4
+22.4
+6.1
+31.6
+18.6
+5.1
+16.6
+31.7
+(3.1)
+30.5
+7.6
+10.1
+1.3
+37.6
+23.0
+33.4
+28.6
+21.0
+(9.1)
+(11.9)
+(22.1)
+28.7
+10.9
+4.9
+15.8
+5.5
+(37.0)
+26.5
+15.1
+2.1
+16.0
+
+13.8
+32.0
+(19.9)
+8.0
+24.6
+8.1
+1.8
+2.8
+19.5
+31.9
+(15.3)
+35.7
+39.3
+17.6
+17.5
+(13.0)
+36.4
+18.6
+9.9
+7.5
+16.6
+7.5
+14.4
+3.5
+12.7
+10.5
+9.1
+12.7
+4.2
+12.6
+5.5
+8.8
+0.7
+19.7
+(20.5)
+15.6
+5.7
+32.1
+(7.7)
+(0.4)
+1.5
+2.6
+5.5
+27.4
+(6.7)
+(2.1)
+2.5
+(1.6)
+
+9.4%
+7,433%
+
+10.3
+
+notes: data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended
+12/31. starting in 1979, accounting rules required insurance companies to value the equity securities they hold at
+market rather than at the lower of cost or market, which was previously the requirement. in this table, berkshire’s
+results through 1978 have been restated to conform to the changed rules. in all other respects, the results are calculated
+using the numbers originally reported. the s&p 500 numbers are pre-tax whereas the berkshire numbers are aftertax. if a corporation such as berkshire were simply to have owned the s&p 500 and accrued the appropriate taxes, its
+results would have lagged the s&p 500 in years when that index showed a positive return, but would have exceeded the
+s&p 500 in years when the index showed a negative return. over the years, the tax costs would have caused the
+aggregate lag to be substantial.
+
+2
+
+berkshire hathaway inc.
+
+to the shareholders of berkshire hathaway inc.:
+in 2012, berkshire achieved a total gain for its shareholders of $24.1 billion. we used $1.3 billion of that
+to repurchase our stock, which left us with an increase in net worth of $22.8 billion for the year. the per-share book
+value of both our class a and class b stock increased by 14.4%. over the last 48 years (that is, since present
+management took over), book value has grown from $19 to $114,214, a rate of 19.7% compounded annually.*
+a number of good things happened at berkshire last year, but let’s first get the bad news out of the way.
+Š
+
+when the partnership i ran took control of berkshire in 1965, i could never have dreamed that a year in
+which we had a gain of $24.1 billion would be subpar, in terms of the comparison we present on the facing
+page.
+but subpar it was. for the ninth time in 48 years, berkshire’s percentage increase in book value was less
+than the s&p’s percentage gain (a calculation that includes dividends as well as price appreciation). in
+eight of those nine years, it should be noted, the s&p had a gain of 15% or more. we do better when the
+wind is in our face.
+to date, we’ve never had a five-year period of underperformance, having managed 43 times to surpass the
+s&p over such a stretch. (the record is on page 103.) but the s&p has now had gains in each of the last
+four years, outpacing us over that period. if the market continues to advance in 2013, our streak of fiveyear wins will end.
+one thing of which you can be certain: whatever berkshire’s results, my partner charlie munger, the
+company’s vice chairman, and i will not change yardsticks. it’s our job to increase intrinsic business
+value – for which we use book value as a significantly understated proxy – at a faster rate than the market
+gains of the s&p. if we do so, berkshire’s share price, though unpredictable from year to year, will itself
+outpace the s&p over time. if we fail, however, our management will bring no value to our investors, who
+themselves can earn s&p returns by buying a low-cost index fund.
+charlie and i believe the gain in berkshire’s intrinsic value will over time likely surpass the s&p returns by
+a small margin. we’re confident of that because we have some outstanding businesses, a cadre of terrific
+operating managers and a shareholder-oriented culture. our relative performance, however, is almost
+certain to be better when the market is down or flat. in years when the market is particularly strong, expect
+us to fall short.
+
+Š
+
+the second disappointment in 2012 was my inability to make a major acquisition. i pursued a couple of
+elephants, but came up empty-handed.
+
+* all per-share figures used in this report apply to berkshire’s a shares. figures for the b shares are
+1/1500th of those shown for a.
+3
+
+our luck, however, changed early this year. in february, we agreed to buy 50% of a holding company that
+will own all of h. j. heinz. the other half will be owned by a small group of investors led by jorge paulo
+lemann, a renowned brazilian businessman and philanthropist.
+we couldn’t be in better company. jorge paulo is a long-time friend of mine and an extraordinary
+manager. his group and berkshire will each contribute about $4 billion for common equity in the holding
+company. berkshire will also invest $8 billion in preferred shares that pay a 9% dividend. the preferred
+has two other features that materially increase its value: at some point it will be redeemed at a significant
+premium price and the preferred also comes with warrants permitting us to buy 5% of the holding
+company’s common stock for a nominal sum.
+our total investment of about $12 billion soaks up much of what berkshire earned last year. but we still
+have plenty of cash and are generating more at a good clip. so it’s back to work; charlie and i have again
+donned our safari outfits and resumed our search for elephants.
+now to some good news from 2012:
+Š
+
+last year i told you that bnsf, iscar, lubrizol, marmon group and midamerican energy – our five most
+profitable non-insurance companies – were likely to earn more than $10 billion pre-tax in 2012. they
+delivered. despite tepid u.s. growth and weakening economies throughout much of the world, our
+“powerhouse five” had aggregate earnings of $10.1 billion, about $600 million more than in 2011.
+of this group, only midamerican, then earning $393 million pre-tax, was owned by berkshire eight years
+ago. subsequently, we purchased another three of the five on an all-cash basis. in acquiring the fifth,
+bnsf, we paid about 70% of the cost in cash, and for the remainder, issued shares that increased the
+amount outstanding by 6.1%. consequently, the $9.7 billion gain in annual earnings delivered berkshire
+by the five companies has been accompanied by only minor dilution. that satisfies our goal of not simply
+growing, but rather increasing per-share results.
+unless the u.s. economy tanks – which we don’t expect – our powerhouse five should again deliver higher
+earnings in 2013. the five outstanding ceos who run them will see to that.
+
+Š
+
+though i failed to land a major acquisition in 2012, the managers of our subsidiaries did far better. we had
+a record year for “bolt-on” purchases, spending about $2.3 billion for 26 companies that were melded into
+our existing businesses. these transactions were completed without berkshire issuing any shares.
+charlie and i love these acquisitions: usually they are low-risk, burden headquarters not at all, and expand
+the scope of our proven managers.
+
+Š
+
+our insurance operations shot the lights out last year. while giving berkshire $73 billion of free money to
+invest, they also delivered a $1.6 billion underwriting gain, the tenth consecutive year of profitable
+underwriting. this is truly having your cake and eating it too.
+geico led the way, continuing to gobble up market share without sacrificing underwriting discipline.
+since 1995, when we obtained control, geico’s share of the personal-auto market has grown from 2.5% to
+9.7%. premium volume meanwhile increased from $2.8 billion to $16.7 billion. much more growth lies
+ahead.
+the credit for geico’s extraordinary performance goes to tony nicely and his 27,000 associates. and to
+that cast, we should add our gecko. neither rain nor storm nor gloom of night can stop him; the little lizard
+just soldiers on, telling americans how they can save big money by going to geico.com.
+when i count my blessings, i count geico twice.
+
+4
+
+Š
+
+todd combs and ted weschler, our new investment managers, have proved to be smart, models of
+integrity, helpful to berkshire in many ways beyond portfolio management, and a perfect cultural fit. we
+hit the jackpot with these two. in 2012 each outperformed the s&p 500 by double-digit margins. they left me in
+the dust as well.
+consequently, we have increased the funds managed by each to almost $5 billion (some of this emanating
+from the pension funds of our subsidiaries). todd and ted are young and will be around to manage
+berkshire’s massive portfolio long after charlie and i have left the scene. you can rest easy when they
+take over.
+
+Š
+
+berkshire’s yearend employment totaled a record 288,462 (see page 106 for details), up 17,604 from last
+year. our headquarters crew, however, remained unchanged at 24. no sense going crazy.
+
+Š
+
+berkshire’s “big four” investments – american express, coca-cola, ibm and wells fargo – all had good
+years. our ownership interest in each of these companies increased during the year. we purchased
+additional shares of wells fargo (our ownership now is 8.7% versus 7.6% at yearend 2011) and ibm (6.0%
+versus 5.5%). meanwhile, stock repurchases at coca-cola and american express raised our percentage
+ownership. our equity in coca-cola grew from 8.8% to 8.9% and our interest at american express from
+13.0% to 13.7%.
+berkshire’s ownership interest in all four companies is likely to increase in the future. mae west had it
+right: “too much of a good thing can be wonderful.”
+the four companies possess marvelous businesses and are run by managers who are both talented and
+shareholder-oriented. at berkshire we much prefer owning a non-controlling but substantial portion of a
+wonderful business to owning 100% of a so-so business. our flexibility in capital allocation gives us a
+significant advantage over companies that limit themselves only to acquisitions they can operate.
+going by our yearend share count, our portion of the “big four’s” 2012 earnings amounted to $3.9 billion.
+in the earnings we report to you, however, we include only the dividends we receive – about $1.1 billion.
+but make no mistake: the $2.8 billion of earnings we do not report is every bit as valuable to us as what
+we record.
+the earnings that the four companies retain are often used for repurchases – which enhance our share of
+future earnings – and also for funding business opportunities that are usually advantageous. over time we
+expect substantially greater earnings from these four investees. if we are correct, dividends to berkshire
+will increase and, even more important, so will our unrealized capital gains (which, for the four, totaled
+$26.7 billion at yearend).
+
+Š
+
+there was a lot of hand-wringing last year among ceos who cried “uncertainty” when faced with capitalallocation decisions (despite many of their businesses having enjoyed record levels of both earnings and
+cash). at berkshire, we didn’t share their fears, instead spending a record $9.8 billion on plant and
+equipment in 2012, about 88% of it in the united states. that’s 19% more than we spent in 2011, our
+previous high. charlie and i love investing large sums in worthwhile projects, whatever the pundits are
+saying. we instead heed the words from gary allan’s new country song, “every storm runs out of rain.”
+we will keep our foot to the floor and will almost certainly set still another record for capital expenditures
+in 2013. opportunities abound in america.
+************
+a thought for my fellow ceos: of course, the immediate future is uncertain; america has faced the
+unknown since 1776. it’s just that sometimes people focus on the myriad of uncertainties that always exist
+while at other times they ignore them (usually because the recent past has been uneventful).
+
+5
+
+american business will do fine over time. and stocks will do well just as certainly, since their fate is tied
+to business performance. periodic setbacks will occur, yes, but investors and managers are in a game that
+is heavily stacked in their favor. (the dow jones industrials advanced from 66 to 11,497 in the 20th
+century, a staggering 17,320% increase that materialized despite four costly wars, a great depression and
+many recessions. and don’t forget that shareholders received substantial dividends throughout the century
+as well.)
+since the basic game is so favorable, charlie and i believe it’s a terrible mistake to try to dance in and out
+of it based upon the turn of tarot cards, the predictions of “experts,” or the ebb and flow of business
+activity. the risks of being out of the game are huge compared to the risks of being in it.
+my own history provides a dramatic example: i made my first stock purchase in the spring of 1942 when
+the u.s. was suffering major losses throughout the pacific war zone. each day’s headlines told of more
+setbacks. even so, there was no talk about uncertainty; every american i knew believed we would prevail.
+the country’s success since that perilous time boggles the mind: on an inflation-adjusted basis, gdp per
+capita more than quadrupled between 1941 and 2012. throughout that period, every tomorrow has been
+uncertain. america’s destiny, however, has always been clear: ever-increasing abundance.
+if you are a ceo who has some large, profitable project you are shelving because of short-term worries,
+call berkshire. let us unburden you.
+************
+in summary, charlie and i hope to build per-share intrinsic value by (1) improving the earning power of our
+many subsidiaries; (2) further increasing their earnings through bolt-on acquisitions; (3) participating in the growth
+of our investees; (4) repurchasing berkshire shares when they are available at a meaningful discount from intrinsic
+value; and (5) making an occasional large acquisition. we will also try to maximize results for you by rarely, if
+ever, issuing berkshire shares.
+those building blocks rest on a rock-solid foundation. a century hence, bnsf and midamerican energy
+will continue to play major roles in the american economy. insurance, moreover, will always be essential for both
+businesses and individuals – and no company brings greater resources to that arena than berkshire. as we view
+these and other strengths, charlie and i like your company’s prospects.
+intrinsic business value
+as much as charlie and i talk about intrinsic business value, we cannot tell you precisely what that number
+is for berkshire shares (or, for that matter, any other stock). in our 2010 annual report, however, we laid out the
+three elements – one of which was qualitative – that we believe are the keys to a sensible estimate of berkshire’s
+intrinsic value. that discussion is reproduced in full on pages 104-105.
+here is an update of the two quantitative factors: in 2012 our per-share investments increased 15.7% to
+$113,786, and our per-share pre-tax earnings from businesses other than insurance and investments also increased
+15.7% to $8,085.
+since 1970, our per-share investments have increased at a rate of 19.4% compounded annually, and our
+per-share earnings figure has grown at a 20.8% clip. it is no coincidence that the price of berkshire stock over the
+42-year period has increased at a rate very similar to that of our two measures of value. charlie and i like to see
+gains in both areas, but our strong emphasis will always be on building operating earnings.
+************
+now, let’s examine the four major sectors of our operations. each has vastly different balance sheet and
+income characteristics from the others. lumping them together therefore impedes analysis. so we’ll present them
+as four separate businesses, which is how charlie and i view them.
+
+6
+
+insurance
+let’s look first at insurance, berkshire’s core operation and the engine that has propelled our expansion
+over the years.
+property-casualty (“p/c”) insurers receive premiums upfront and pay claims later. in extreme cases, such
+as those arising from certain workers’ compensation accidents, payments can stretch over decades. this collectnow, pay-later model leaves us holding large sums – money we call “float” – that will eventually go to others.
+meanwhile, we get to invest this float for berkshire’s benefit. though individual policies and claims come and go,
+the amount of float we hold remains quite stable in relation to premium volume. consequently, as our business
+grows, so does our float. and how we have grown, as the following table shows:
+year
+
+float (in $ millions)
+
+1970
+1980
+1990
+2000
+2010
+2012
+
+$
+
+39
+237
+1,632
+27,871
+65,832
+73,125
+
+last year i told you that our float was likely to level off or even decline a bit in the future. our insurance
+ceos set out to prove me wrong and did, increasing float last year by $2.5 billion. i now expect a further increase
+in 2013. but further gains will be tough to achieve. on the plus side, geico’s float will almost certainly grow. in
+national indemnity’s reinsurance division, however, we have a number of run-off contracts whose float drifts
+downward. if we do experience a decline in float at some future time, it will be very gradual – at the outside no
+more than 2% in any year.
+if our premiums exceed the total of our expenses and eventual losses, we register an underwriting profit
+that adds to the investment income our float produces. when such a profit is earned, we enjoy the use of free money
+– and, better yet, get paid for holding it. that’s like your taking out a loan and having the bank pay you interest.
+unfortunately, the wish of all insurers to achieve this happy result creates intense competition, so vigorous
+in most years that it causes the p/c industry as a whole to operate at a significant underwriting loss. this loss, in
+effect, is what the industry pays to hold its float. for example, state farm, by far the country’s largest insurer and a
+well-managed company besides, incurred an underwriting loss in eight of the eleven years ending in 2011. (their
+financials for 2012 are not yet available.) there are a lot of ways to lose money in insurance, and the industry never
+ceases searching for new ones.
+as noted in the first section of this report, we have now operated at an underwriting profit for ten
+consecutive years, our pre-tax gain for the period having totaled $18.6 billion. looking ahead, i believe we will
+continue to underwrite profitably in most years. if we do, our float will be better than free money.
+so how does our attractive float affect the calculations of intrinsic value? when berkshire’s book value is
+calculated, the full amount of our float is deducted as a liability, just as if we had to pay it out tomorrow and were
+unable to replenish it. but that’s an incorrect way to look at float, which should instead be viewed as a revolving
+fund. if float is both costless and long-enduring, which i believe berkshire’s will be, the true value of this liability is
+dramatically less than the accounting liability.
+a partial offset to this overstated liability is $15.5 billion of “goodwill” that is attributable to our insurance
+companies and included in book value as an asset. in effect, this goodwill represents the price we paid for the floatgenerating capabilities of our insurance operations. the cost of the goodwill, however, has no bearing on its true
+value. for example, if an insurance business sustains large and prolonged underwriting losses, any goodwill asset
+carried on the books should be deemed valueless, whatever its original cost.
+
+7
+
+fortunately, that’s not the case at berkshire. charlie and i believe the true economic value of our insurance
+goodwill – what we would happily pay to purchase an insurance operation producing float of similar quality – to be
+far in excess of its historic carrying value. the value of our float is one reason – a huge reason – why we believe
+berkshire’s intrinsic business value substantially exceeds its book value.
+let me emphasize once again that cost-free float is not an outcome to be expected for the p/c industry as a
+whole: there is very little “berkshire-quality” float existing in the insurance world. in 37 of the 45 years ending in
+2011, the industry’s premiums have been inadequate to cover claims plus expenses. consequently, the industry’s
+overall return on tangible equity has for many decades fallen far short of the average return realized by american
+industry, a sorry performance almost certain to continue.
+a further unpleasant reality adds to the industry’s dim prospects: insurance earnings are now benefitting
+from “legacy” bond portfolios that deliver much higher yields than will be available when funds are reinvested
+during the next few years – and perhaps for many years beyond that. today’s bond portfolios are, in effect, wasting
+assets. earnings of insurers will be hurt in a significant way as bonds mature and are rolled over.
+************
+berkshire’s outstanding economics exist only because we have some terrific managers running some
+extraordinary insurance operations. let me tell you about the major units.
+first by float size is the berkshire hathaway reinsurance group, run by ajit jain. ajit insures risks that no
+one else has the desire or the capital to take on. his operation combines capacity, speed, decisiveness and, most
+important, brains in a manner unique in the insurance business. yet he never exposes berkshire to risks that are
+inappropriate in relation to our resources. indeed, we are far more conservative in avoiding risk than most large
+insurers. for example, if the insurance industry should experience a $250 billion loss from some mega-catastrophe
+– a loss about triple anything it has ever experienced – berkshire as a whole would likely record a significant profit
+for the year because it has so many streams of earnings. all other major insurers and reinsurers would meanwhile
+be far in the red, with some facing insolvency.
+from a standing start in 1985, ajit has created an insurance business with float of $35 billion and a
+significant cumulative underwriting profit, a feat that no other insurance ceo has come close to matching. he has
+thus added a great many billions of dollars to the value of berkshire. if you meet ajit at the annual meeting, bow
+deeply.
+************
+we have another reinsurance powerhouse in general re, managed by tad montross.
+at bottom, a sound insurance operation needs to adhere to four disciplines. it must (1) understand all
+exposures that might cause a policy to incur losses; (2) conservatively assess the likelihood of any exposure actually
+causing a loss and the probable cost if it does; (3) set a premium that, on average, will deliver a profit after both
+prospective loss costs and operating expenses are covered; and (4) be willing to walk away if the appropriate
+premium can’t be obtained.
+many insurers pass the first three tests and flunk the fourth. they simply can’t turn their back on business
+that is being eagerly written by their competitors. that old line, “the other guy is doing it, so we must as well,”
+spells trouble in any business, but none more so than insurance.
+
+8
+
+tad has observed all four of the insurance commandments, and it shows in his results. general re’s huge
+float has been better than cost-free under his leadership, and we expect that, on average, it will continue to be. we
+are particularly enthusiastic about general re’s international life reinsurance business, which has achieved
+consistent and profitable growth since we acquired the company in 1998.
+************
+finally, there is geico, the insurer on which i cut my teeth 62 years ago. geico is run by tony nicely,
+who joined the company at 18 and completed 51 years of service in 2012.
+i rub my eyes when i look at what tony has accomplished. last year, it should be noted, his record was
+considerably better than is indicated by geico’s gaap underwriting profit of $680 million. because of a change
+in accounting rules at the beginning of the year, we recorded a charge to geico’s underwriting earnings of
+$410 million. this item had nothing to do with 2012’s operating results, changing neither cash, revenues, expenses
+nor taxes. in effect, the writedown simply widened the already huge difference between geico’s intrinsic value
+and the value at which we carry it on our books.
+geico earned its underwriting profit, moreover, despite the company suffering its largest single loss in
+history. the cause was hurricane sandy, which cost geico more than three times the loss it sustained from
+katrina, the previous record-holder. we insured 46,906 vehicles that were destroyed or damaged in the storm, a
+staggering number reflecting geico’s leading market share in the new york metropolitan area.
+last year geico enjoyed a meaningful increase in both the renewal rate for existing policyholders
+(“persistency”) and in the percentage of rate quotations that resulted in sales (“closures”). big dollars ride on those
+two factors: a sustained gain in persistency of a bare one percentage point increases intrinsic value by more than
+$1 billion. geico’s gains in 2012 offer dramatic proof that when people check the company’s prices, they usually
+find they can save important sums. (give us a try at 1-800-847-7536 or geico.com. be sure to mention that you are a
+shareholder; that fact will usually result in a discount.)
+************
+in addition to our three major insurance operations, we own a group of smaller companies, most of them
+plying their trade in odd corners of the insurance world. in aggregate, these companies have consistently delivered
+an underwriting profit. moreover, as the table below shows, they also provide us with substantial float. charlie and
+i treasure these companies and their managers.
+late in 2012, we enlarged this group by acquiring guard insurance, a wilkes-barre company that writes
+workers compensation insurance, primarily for smaller businesses. guard’s annual premiums total about $300
+million. the company has excellent prospects for growth in both its traditional business and new lines it has begun
+to offer.
+
+insurance operations
+bh reinsurance . . . . . . . . .
+general re . . . . . . . . . . . . .
+geico . . . . . . . . . . . . . . . .
+other primary . . . . . . . . . .
+
+yearend float
+underwriting profit
+(in millions)
+2012
+2011
+2012
+2011
+$ 304
+$(714)
+$34,821
+$33,728
+355
+144
+20,128
+19,714
+680*
+576
+11,578
+11,169
+286
+242
+6,598
+5,960
+$1,625
+$ 248
+$73,125
+$70,571
+
+*after a $410 million charge against earnings arising from an industry-wide accounting change.
+among large insurance operations, berkshire’s impresses me as the best in the world. it was our lucky day
+when, in march 1967, jack ringwalt sold us his two property-casualty insurers for $8.6 million.
+
+9
+
+regulated, capital-intensive businesses
+we have two major operations, bnsf and midamerican energy, that have important common
+characteristics distinguishing them from our other businesses. consequently, we assign them their own section in
+this letter and split out their combined financial statistics in our gaap balance sheet and income statement.
+a key characteristic of both companies is their huge investment in very long-lived, regulated assets, with
+these partially funded by large amounts of long-term debt that is not guaranteed by berkshire. our credit is in fact
+not needed because each business has earning power that even under terrible conditions amply covers its interest
+requirements. in last year’s tepid economy, for example, bnsf’s interest coverage was 9.6x. (our definition of
+coverage is pre-tax earnings/interest, not ebitda/interest, a commonly-used measure we view as deeply flawed.)
+at midamerican, meanwhile, two key factors ensure its ability to service debt under all circumstances: the
+company’s recession-resistant earnings, which result from our exclusively offering an essential service, and its great
+diversity of earnings streams, which shield it from being seriously harmed by any single regulatory body.
+every day, our two subsidiaries power the american economy in major ways:
+Š
+
+bnsf carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by
+truck, rail, water, air, or pipeline. indeed, we move more ton-miles of goods than anyone else, a fact
+making bnsf the most important artery in our economy’s circulatory system.
+bnsf also moves its cargo in an extraordinarily fuel-efficient and environmentally friendly way, carrying a
+ton of freight about 500 miles on a single gallon of diesel fuel. trucks taking on the same job guzzle about
+four times as much fuel.
+
+Š
+
+midamerican’s electric utilities serve regulated retail customers in ten states. only one utility holding
+company serves more states. in addition, we are the leader in renewables: first, from a standing start nine
+years ago, we now account for 6% of the country’s wind generation capacity. second, when we complete
+three projects now under construction, we will own about 14% of u.s. solar-generation capacity.
+
+projects like these require huge capital investments. upon completion, indeed, our renewables portfolio
+will have cost $13 billion. we relish making such commitments if they promise reasonable returns – and on that
+front, we put a large amount of trust in future regulation.
+our confidence is justified both by our past experience and by the knowledge that society will forever need
+massive investment in both transportation and energy. it is in the self-interest of governments to treat capital
+providers in a manner that will ensure the continued flow of funds to essential projects. and it is in our self-interest
+to conduct our operations in a manner that earns the approval of our regulators and the people they represent.
+our managers must think today of what the country will need far down the road. energy and transportation
+projects can take many years to come to fruition; a growing country simply can’t afford to get behind the curve.
+we have been doing our part to make sure that doesn’t happen. whatever you may have heard about our
+country’s crumbling infrastructure in no way applies to bnsf or railroads generally. america’s rail system has
+never been in better shape, a consequence of huge investments by the industry. we are not, however, resting on our
+laurels: bnsf will spend about $4 billion on the railroad in 2013, roughly double its depreciation charge and more
+than any railroad has spent in a single year.
+
+10
+
+in matt rose, at bnsf, and greg abel, at midamerican, we have two outstanding ceos. they are
+extraordinary managers who have developed businesses that serve both their customers and owners well. each has
+my gratitude and each deserves yours. here are the key figures for their businesses:
+midamerican (89.8% owned)
+
+earnings (in millions)
+2012
+2011
+
+u.k. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+western utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+pipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+homeservices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+other (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+operating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . .
+interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$
+
+429
+236
+737
+383
+82
+91
+1,958
+314
+172
+$ 1,472
+
+$
+
+earnings applicable to berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 1,323
+
+$ 1,204
+
+bnsf
+
+469
+279
+771
+388
+39
+36
+1,982
+336
+315
+$ 1,331
+
+earnings (in millions)
+2012
+2011
+
+revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+operating earnings before interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . .
+interest (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$20,835
+14,835
+6,000
+623
+2,005
+$ 3,372
+
+$19,548
+14,247
+5,301
+560
+1,769
+$ 2,972
+
+sharp-eyed readers will notice an incongruity in the midamerican earnings tabulation. what in the world
+is homeservices, a real estate brokerage operation, doing in a section entitled “regulated, capital-intensive
+businesses?”
+well, its ownership came with midamerican when we bought control of that company in 2000. at that
+time, i focused on midamerican’s utility operations and barely noticed homeservices, which then owned only a
+few real estate brokerage companies.
+since then, however, the company has regularly added residential brokers – three in 2012 – and now has
+about 16,000 agents in a string of major u.s. cities. (our real estate brokerage companies are listed on page 107.)
+in 2012, our agents participated in $42 billion of home sales, up 33% from 2011.
+additionally, homeservices last year purchased 67% of the prudential and real living franchise
+operations, which together license 544 brokerage companies throughout the country and receive a small royalty on
+their sales. we have an arrangement to purchase the balance of those operations within five years. in the coming
+years, we will gradually rebrand both our franchisees and the franchise firms we own as berkshire hathaway
+homeservices.
+ron peltier has done an outstanding job in managing homeservices during a depressed period. now, as
+the housing market continues to strengthen, we expect earnings to rise significantly.
+
+11
+
+manufacturing, service and retailing operations
+our activities in this part of berkshire cover the waterfront. let’s look, though, at a summary balance sheet
+and earnings statement for the entire group.
+balance sheet 12/31/12 (in millions)
+assets
+cash and equivalents . . . . . . . . . . . . . .
+accounts and notes receivable . . . . . . .
+inventory . . . . . . . . . . . . . . . . . . . . . . .
+other current assets . . . . . . . . . . . . . . .
+total current assets . . . . . . . . . . . . . . . .
+goodwill and other intangibles . . . . . .
+fixed assets . . . . . . . . . . . . . . . . . . . . .
+other assets . . . . . . . . . . . . . . . . . . . . .
+
+$ 5,338
+7,382
+9,675
+734
+23,129
+26,017
+18,871
+3,416
+$71,433
+
+liabilities and equity
+notes payable . . . . . . . . . . . . . . .
+other current liabilities . . . . . . . .
+total current liabilities . . . . . . . .
+
+deferred taxes . . . . . . . . . . . . . . .
+term debt and other liabilities . .
+non-controlling interests . . . . . .
+berkshire equity . . . . . . . . . . . . .
+
+$ 1,454
+8,527
+9,981
+
+4,907
+5,826
+2,062
+48,657
+$71,433
+
+earnings statement (in millions)
+2012
+revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $83,255
+operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76,978
+interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+146
+pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,131
+income taxes and non-controlling interests . . . . . . . . . . . . . . . . . .
+2,432
+net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,699
+*includes earnings of lubrizol from september 16.
+
+2011*
+
+2010
+
+$72,406
+67,239
+130
+5,037
+1,998
+$ 3,039
+
+$66,610
+62,225
+111
+4,274
+1,812
+$ 2,462
+
+our income and expense data conforming to generally accepted accounting principles (“gaap”) is on
+page 29. in contrast, the operating expense figures above are non-gaap. in particular, they exclude some
+purchase-accounting items, primarily the amortization of certain intangible assets. we present the data in this
+manner because charlie and i believe the adjusted numbers more accurately reflect the real expenses and profits of
+the businesses aggregated in the table.
+i won’t explain all of the adjustments – some are small and arcane – but serious investors should
+understand the disparate nature of intangible assets: some truly deplete over time while others never lose value.
+with software, for example, amortization charges are very real expenses. charges against other intangibles such as
+the amortization of customer relationships, however, arise through purchase-accounting rules and are clearly not real
+expenses. gaap accounting draws no distinction between the two types of charges. both, that is, are recorded as
+expenses when calculating earnings – even though from an investor’s viewpoint they could not be more different.
+in the gaap-compliant figures we show on page 29, amortization charges of $600 million for the
+companies included in this section are deducted as expenses. we would call about 20% of these “real” – and indeed
+that is the portion we have included in the table above – and the rest not. this difference has become significant
+because of the many acquisitions we have made.
+“non-real” amortization expense also looms large at some of our major investees. ibm has made many
+small acquisitions in recent years and now regularly reports “adjusted operating earnings,” a non-gaap figure that
+excludes certain purchase-accounting adjustments. analysts focus on this number, as they should.
+
+12
+
+a “non-real” amortization charge at wells fargo, however, is not highlighted by the company and never, to
+my knowledge, has been noted in analyst reports. the earnings that wells fargo reports are heavily burdened by an
+“amortization of core deposits” charge, the implication being that these deposits are disappearing at a fairly rapid
+clip. yet core deposits regularly increase. the charge last year was about $1.5 billion. in no sense, except gaap
+accounting, is this whopping charge an expense.
+and that ends today’s accounting lecture. why is no one shouting “more, more?”
+************
+the crowd of companies in this section sell products ranging from lollipops to jet airplanes. some of the
+businesses enjoy terrific economics, measured by earnings on unleveraged net tangible assets that run from 25%
+after-tax to more than 100%. others produce good returns in the area of 12-20%. a few, however, have very poor
+returns, a result of some serious mistakes i made in my job of capital allocation.
+more than 50 years ago, charlie told me that it was far better to buy a wonderful business at a fair price
+than to buy a fair business at a wonderful price. despite the compelling logic of his position, i have sometimes
+reverted to my old habit of bargain-hunting, with results ranging from tolerable to terrible. fortunately, my mistakes
+have usually occurred when i made smaller purchases. our large acquisitions have generally worked out well and,
+in a few cases, more than well.
+viewed as a single entity, therefore, the companies in this group are an excellent business. they employ
+$22.6 billion of net tangible assets and, on that base, earned 16.3% after-tax.
+of course, a business with terrific economics can be a bad investment if the price paid is excessive. we
+have paid substantial premiums to net tangible assets for most of our businesses, a cost that is reflected in the large
+figure we show for intangible assets. overall, however, we are getting a decent return on the capital we have
+deployed in this sector. furthermore, the intrinsic value of the businesses, in aggregate, exceeds their carrying value
+by a good margin. even so, the difference between intrinsic value and carrying value in the insurance and regulatedindustry segments is far greater. it is there that the huge winners reside.
+************
+marmon provides an example of a clear and substantial gap existing between book value and intrinsic
+value. let me explain the odd origin of this differential.
+last year i told you that we had purchased additional shares in marmon, raising our ownership to 80% (up
+from the 64% we acquired in 2008). i also told you that gaap accounting required us to immediately record the
+2011 purchase on our books at far less than what we paid. i’ve now had a year to think about this weird accounting
+rule, but i’ve yet to find an explanation that makes any sense – nor can charlie or marc hamburg, our cfo, come
+up with one. my confusion increases when i am told that if we hadn’t already owned 64%, the 16% we purchased
+in 2011 would have been entered on our books at our cost.
+in 2012 (and in early 2013, retroactive to yearend 2012) we acquired an additional 10% of marmon and the
+same bizarre accounting treatment was required. the $700 million write-off we immediately incurred had no effect
+on earnings but did reduce book value and, therefore, 2012’s gain in net worth.
+the cost of our recent 10% purchase implies a $12.6 billion value for the 90% of marmon we now own.
+our balance-sheet carrying value for the 90%, however, is $8 billion. charlie and i believe our current purchase
+represents excellent value. if we are correct, our marmon holding is worth at least $4.6 billion more than its
+carrying value.
+marmon is a diverse enterprise, comprised of about 150 companies operating in a wide variety of
+industries. its largest business involves the ownership of tank cars that are leased to a variety of shippers, such as oil
+and chemical companies. marmon conducts this business through two subsidiaries, union tank car in the u.s. and
+procor in canada.
+
+13
+
+union tank car has been around a long time, having been owned by the standard oil trust until that
+empire was broken up in 1911. look for its utlx logo on tank cars when you watch trains roll by. as a berkshire
+shareholder, you own the cars with that insignia. when you spot a utlx car, puff out your chest a bit and enjoy the
+same satisfaction that john d. rockefeller undoubtedly experienced as he viewed his fleet a century ago.
+tank cars are owned by either shippers or lessors, not by railroads. at yearend union tank car and procor
+together owned 97,000 cars having a net book value of $4 billion. a new car, it should be noted, costs upwards of
+$100,000. union tank car is also a major manufacturer of tank cars – some of them to be sold but most to be
+owned by it and leased out. today, its order book extends well into 2014.
+at both bnsf and marmon, we are benefitting from the resurgence of u.s. oil production. in fact, our
+railroad is now transporting about 500,000 barrels of oil daily, roughly 10% of the total produced in the “lower 48”
+(i.e. not counting alaska and offshore). all indications are that bnsf’s oil shipments will grow substantially in
+coming years.
+************
+space precludes us from going into detail about the many other businesses in this segment. companyspecific information about the 2012 operations of some of the larger units appears on pages 76 to 79.
+finance and financial products
+this sector, our smallest, includes two rental companies, xtra (trailers) and cort (furniture), as well as
+clayton homes, the country’s leading producer and financer of manufactured homes. aside from these 100%owned subsidiaries, we also include in this category a collection of financial assets and our 50% interest in berkadia
+commercial mortgage.
+we include clayton in this sector because it owns and services 332,000 mortgages, totaling $13.7 billion.
+in large part, these loans have been made to lower and middle-income families. nevertheless, the loans have
+performed well throughout the housing collapse, thereby validating our conviction that a reasonable down payment
+and a sensible payments-to-income ratio will ward off outsized foreclosure losses, even during stressful times.
+clayton also produced 25,872 manufactured homes last year, up 13.5% from 2011. that output accounted
+for about 4.8% of all single-family residences built in the country, a share that makes clayton america’s number
+one homebuilder.
+cort and xtra are leaders in their industries as well. our expenditures for new rental equipment at
+xtra totaled $256 million in 2012, more than double its depreciation expense. while competitors fret about
+today’s uncertainties, xtra is preparing for tomorrow.
+berkadia continues to do well. our partners at leucadia do most of the work in this venture, an
+arrangement that charlie and i happily embrace.
+here’s the pre-tax earnings recap for this sector:
+2012
+
+2011
+(in millions)
+
+berkadia . . . . . . . . . . . . . . . . . . . . . . . .
+clayton . . . . . . . . . . . . . . . . . . . . . . . . .
+cort . . . . . . . . . . . . . . . . . . . . . . . . . .
+xtra . . . . . . . . . . . . . . . . . . . . . . . . . .
+net financial income* . . . . . . . . . . . . .
+
+*excludes capital gains or losses
+
+14
+
+$ 35
+255
+42
+106
+410
+$848
+
+$ 25
+154
+29
+126
+440
+$774
+
+investments
+below we show our common stock investments that at yearend had a market value of more than $1 billion.
+12/31/12
+shares
+
+percentage of
+company
+owned
+
+company
+
+cost*
+
+market
+
+(in millions)
+151,610,700
+400,000,000
+24,123,911
+22,999,600
+68,115,484
+28,415,250
+20,060,390
+20,668,118
+3,947,555
+52,477,678
+25,848,838
+415,510,889
+78,060,769
+54,823,433
+456,170,061
+
+american express company . . . . . . . . . . . . . .
+the coca-cola company . . . . . . . . . . . . . . . . .
+conocophillips . . . . . . . . . . . . . . . . . . . . . . . . .
+directv . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+international business machines corp. . . . . . .
+moody’s corporation . . . . . . . . . . . . . . . . . . . .
+munich re . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+phillips 66 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+posco . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+the procter & gamble company . . . . . . . . . . .
+sanofi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+u.s. bancorp . . . . . . . . . . . . . . . . . . . . . . . . . .
+wal-mart stores, inc. . . . . . . . . . . . . . . . . . . . .
+wells fargo & company . . . . . . . . . . . . . . . . .
+others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+total common stocks carried at market . . . .
+
+13.7
+8.9
+2.0
+3.8
+6.0
+12.7
+11.3
+3.3
+5.1
+1.9
+2.0
+5.2
+4.2
+1.6
+8.7
+
+$ 1,287
+1,299
+1,219
+1,057
+11,680
+287
+2,990
+660
+768
+336
+2,073
+2,350
+2,401
+2,837
+10,906
+7,646
+$49,796
+
+$ 8,715
+14,500
+1,399
+1,154
+13,048
+1,430
+3,599
+1,097
+1,295
+3,563
+2,438
+2,268
+2,493
+3,741
+15,592
+11,330
+$87,662
+
+*this is our actual purchase price and also our tax basis; gaap “cost” differs in a few cases because of
+write-ups or write-downs that have been required.
+one point about the composition of this list deserves mention. in berkshire’s past annual reports, every
+stock itemized in this space has been bought by me, in the sense that i made the decision to buy it for berkshire. but
+starting with this list, any investment made by todd combs or ted weschler – or a combined purchase by them –
+that meets the dollar threshold for the list ($1 billion this year) will be included. above is the first such stock,
+directv, which both todd and ted hold in their portfolios and whose combined holdings at the end of 2012 were
+valued at the $1.15 billion shown.
+todd and ted also manage the pension funds of certain berkshire subsidiaries, while others, for regulatory
+reasons, are managed by outside advisers. we do not include holdings of the pension funds in our annual report
+tabulations, though their portfolios often overlap berkshire’s.
+************
+we continue to wind down the part of our derivatives portfolio that involved the assumption by berkshire
+of insurance-like risks. (our electric and gas utility businesses, however, will continue to use derivatives for
+operational purposes.) new commitments would require us to post collateral and, with minor exceptions, we are
+unwilling to do that. markets can behave in extraordinary ways, and we have no interest in exposing berkshire to
+some out-of-the-blue event in the financial world that might require our posting mountains of cash on a moment’s
+notice.
+charlie and i believe in operating with many redundant layers of liquidity, and we avoid any sort of
+obligation that could drain our cash in a material way. that reduces our returns in 99 years out of 100. but we will
+survive in the 100th while many others fail. and we will sleep well in all 100.
+
+15
+
+the derivatives we have sold that provide credit protection for corporate bonds will all expire in the next
+year. it’s now almost certain that our profit from these contracts will approximate $1 billion pre-tax. we also
+received very substantial sums upfront on these derivatives, and the “float” attributable to them has averaged about
+$2 billion over their five-year lives. all told, these derivatives have provided a more-than-satisfactory result,
+especially considering the fact that we were guaranteeing corporate credits – mostly of the high-yield variety –
+throughout the financial panic and subsequent recession.
+in our other major derivatives commitment, we sold long-term puts on four leading stock indices in the
+u.s., u.k., europe and japan. these contracts were initiated between 2004 and 2008 and even under the worst of
+circumstances have only minor collateral requirements. in 2010 we unwound about 10% of our exposure at a profit
+of $222 million. the remaining contracts expire between 2018 and 2026. only the index value at expiration date
+counts; our counterparties have no right to early termination.
+berkshire received premiums of $4.2 billion when we wrote the contracts that remain outstanding. if all of
+these contracts had come due at yearend 2011, we would have had to pay $6.2 billion; the corresponding figure at
+yearend 2012 was $3.9 billion. with this large drop in immediate settlement liability, we reduced our gaap
+liability at yearend 2012 to $7.5 billion from $8.5 billion at the end of 2011. though it’s no sure thing, charlie and i
+believe it likely that the final liability will be considerably less than the amount we currently carry on our books. in
+the meantime, we can invest the $4.2 billion of float derived from these contracts as we see fit.
+we buy some newspapers . . . newspapers?
+during the past fifteen months, we acquired 28 daily newspapers at a cost of $344 million. this may
+puzzle you for two reasons. first, i have long told you in these letters and at our annual meetings that the
+circulation, advertising and profits of the newspaper industry overall are certain to decline. that prediction still
+holds. second, the properties we purchased fell far short of meeting our oft-stated size requirements for
+acquisitions.
+we can address the second point easily. charlie and i love newspapers and, if their economics make sense,
+will buy them even when they fall far short of the size threshold we would require for the purchase of, say, a widget
+company. addressing the first point requires me to provide a more elaborate explanation, including some history.
+news, to put it simply, is what people don’t know that they want to know. and people will seek their news
+– what’s important to them – from whatever sources provide the best combination of immediacy, ease of access,
+reliability, comprehensiveness and low cost. the relative importance of these factors varies with the nature of the
+news and the person wanting it.
+before television and the internet, newspapers were the primary source for an incredible variety of news, a
+fact that made them indispensable to a very high percentage of the population. whether your interests were
+international, national, local, sports or financial quotations, your newspaper usually was first to tell you the latest
+information. indeed, your paper contained so much you wanted to learn that you received your money’s worth, even
+if only a small number of its pages spoke to your specific interests. better yet, advertisers typically paid almost all
+of the product’s cost, and readers rode their coattails.
+additionally, the ads themselves delivered information of vital interest to hordes of readers, in effect
+providing even more “news.” editors would cringe at the thought, but for many readers learning what jobs or
+apartments were available, what supermarkets were carrying which weekend specials, or what movies were showing
+where and when was far more important than the views expressed on the editorial page.
+
+16
+
+in turn, the local paper was indispensable to advertisers. if sears or safeway built stores in omaha, they
+required a “megaphone” to tell the city’s residents why their stores should be visited today. indeed, big department
+stores and grocers vied to outshout their competition with multi-page spreads, knowing that the goods they
+advertised would fly off the shelves. with no other megaphone remotely comparable to that of the newspaper, ads
+sold themselves.
+as long as a newspaper was the only one in its community, its profits were certain to be extraordinary;
+whether it was managed well or poorly made little difference. (as one southern publisher famously confessed, “i
+owe my exalted position in life to two great american institutions – nepotism and monopoly.”)
+over the years, almost all cities became one-newspaper towns (or harbored two competing papers that
+joined forces to operate as a single economic unit). this contraction was inevitable because most people wished to
+read and pay for only one paper. when competition existed, the paper that gained a significant lead in circulation
+almost automatically received the most ads. that left ads drawing readers and readers drawing ads. this symbiotic
+process spelled doom for the weaker paper and became known as “survival of the fattest.”
+now the world has changed. stock market quotes and the details of national sports events are old news
+long before the presses begin to roll. the internet offers extensive information about both available jobs and homes.
+television bombards viewers with political, national and international news. in one area of interest after another,
+newspapers have therefore lost their “primacy.” and, as their audiences have fallen, so has advertising. (revenues
+from “help wanted” classified ads – long a huge source of income for newspapers – have plunged more than 90% in
+the past 12 years.)
+newspapers continue to reign supreme, however, in the delivery of local news. if you want to know what’s
+going on in your town – whether the news is about the mayor or taxes or high school football – there is no substitute
+for a local newspaper that is doing its job. a reader’s eyes may glaze over after they take in a couple of paragraphs
+about canadian tariffs or political developments in pakistan; a story about the reader himself or his neighbors will
+be read to the end. wherever there is a pervasive sense of community, a paper that serves the special informational
+needs of that community will remain indispensable to a significant portion of its residents.
+even a valuable product, however, can self-destruct from a faulty business strategy. and that process has
+been underway during the past decade at almost all papers of size. publishers – including berkshire in buffalo –
+have offered their paper free on the internet while charging meaningful sums for the physical specimen. how could
+this lead to anything other than a sharp and steady drop in sales of the printed product? falling circulation,
+moreover, makes a paper less essential to advertisers. under these conditions, the “virtuous circle” of the past
+reverses.
+the wall street journal went to a pay model early. but the main exemplar for local newspapers is the
+arkansas democrat-gazette, published by walter hussman, jr. walter also adopted a pay format early, and over
+the past decade his paper has retained its circulation far better than any other large paper in the country. despite
+walter’s powerful example, it’s only been in the last year or so that other papers, including berkshire’s, have
+explored pay arrangements. whatever works best – and the answer is not yet clear – will be copied widely.
+************
+charlie and i believe that papers delivering comprehensive and reliable information to tightly-bound
+communities and having a sensible internet strategy will remain viable for a long time. we do not believe that
+success will come from cutting either the news content or frequency of publication. indeed, skimpy news coverage
+will almost certainly lead to skimpy readership. and the less-than-daily publication that is now being tried in some
+large towns or cities – while it may improve profits in the short term – seems certain to diminish the papers’
+relevance over time. our goal is to keep our papers loaded with content of interest to our readers and to be paid
+appropriately by those who find us useful, whether the product they view is in their hands or on the internet.
+
+17
+
+our confidence is buttressed by the availability of terry kroeger’s outstanding management group at the
+omaha world-herald, a team that has the ability to oversee a large group of papers. the individual papers,
+however, will be independent in their news coverage and editorial opinions. (i voted for obama; of our 12 dailies
+that endorsed a presidential candidate, 10 opted for romney.)
+our newspapers are certainly not insulated from the forces that have been driving revenues downward.
+still, the six small dailies we owned throughout 2012 had unchanged revenues for the year, a result far superior to
+that experienced by big-city dailies. moreover, the two large papers we operated throughout the year – the buffalo
+news and the omaha world-herald – held their revenue loss to 3%, which was also an above-average outcome.
+among newspapers in america’s 50 largest metropolitan areas, our buffalo and omaha papers rank near the top in
+circulation penetration of their home territories.
+this popularity is no accident: credit the editors of those papers – margaret sullivan at the news and mike
+reilly at the world-herald — for delivering information that has made their publications indispensable to
+community-interested readers. (margaret, i regret to say, recently left us to join the new york times, whose job
+offers are tough to turn down. that paper made a great hire, and we wish her the best.)
+berkshire’s cash earnings from its papers will almost certainly trend downward over time. even a sensible
+internet strategy will not be able to prevent modest erosion. at our cost, however, i believe these papers will meet
+or exceed our economic test for acquisitions. results to date support that belief.
+charlie and i, however, still operate under economic principle 11 (detailed on page 99) and will not
+continue the operation of any business doomed to unending losses. one daily paper that we acquired in a bulk
+purchase from media general was significantly unprofitable under that company’s ownership. after analyzing the
+paper’s results, we saw no remedy for the losses and reluctantly shut it down. all of our remaining dailies, however,
+should be profitable for a long time to come. (they are listed on page 108.) at appropriate prices – and that
+means at a very low multiple of current earnings – we will purchase more papers of the type we like.
+************
+a milestone in berkshire’s newspaper operations occurred at yearend when stan lipsey retired as publisher
+of the buffalo news. it’s no exaggeration for me to say that the news might now be extinct were it not for stan.
+charlie and i acquired the news in april 1977. it was an evening paper, dominant on weekdays but lacking
+a sunday edition. throughout the country, the circulation trend was toward morning papers. moreover, sunday
+was becoming ever more critical to the profitability of metropolitan dailies. without a sunday paper, the news was
+destined to lose out to its morning competitor, which had a fat and entrenched sunday product.
+we therefore began to print a sunday edition late in 1977. and then all hell broke loose. our competitor
+sued us, and district judge charles brieant, jr. authored a harsh ruling that crippled the introduction of our paper.
+his ruling was later reversed – after 17 long months – in a 3-0 sharp rebuke by the second circuit court of appeals.
+while the appeal was pending, we lost circulation, hemorrhaged money and stood in constant danger of going out of
+business.
+enter stan lipsey, a friend of mine from the 1960s, who, with his wife, had sold berkshire a small omaha
+weekly. i found stan to be an extraordinary newspaperman, knowledgeable about every aspect of circulation,
+production, sales and editorial. (he was a key person in gaining that small weekly a pulitzer prize in 1973.) so
+when i was in big trouble at the news, i asked stan to leave his comfortable way of life in omaha to take over in
+buffalo.
+he never hesitated. along with murray light, our editor, stan persevered through four years of very dark
+days until the news won the competitive struggle in 1982. ever since, despite a difficult buffalo economy, the
+performance of the news has been exceptional. as both a friend and as a manager, stan is simply the best.
+
+18
+
+dividends
+a number of berkshire shareholders – including some of my good friends – would like berkshire to pay a
+cash dividend. it puzzles them that we relish the dividends we receive from most of the stocks that berkshire owns,
+but pay out nothing ourselves. so let’s examine when dividends do and don’t make sense for shareholders.
+a profitable company can allocate its earnings in various ways (which are not mutually exclusive). a
+company’s management should first examine reinvestment possibilities offered by its current business – projects to
+become more efficient, expand territorially, extend and improve product lines or to otherwise widen the economic
+moat separating the company from its competitors.
+i ask the managers of our subsidiaries to unendingly focus on moat-widening opportunities, and they find
+many that make economic sense. but sometimes our managers misfire. the usual cause of failure is that they start
+with the answer they want and then work backwards to find a supporting rationale. of course, the process is
+subconscious; that’s what makes it so dangerous.
+your chairman has not been free of this sin. in berkshire’s 1986 annual report, i described how twenty
+years of management effort and capital improvements in our original textile business were an exercise in futility. i
+wanted the business to succeed and wished my way into a series of bad decisions. (i even bought another new
+england textile company.) but wishing makes dreams come true only in disney movies; it’s poison in business.
+despite such past miscues, our first priority with available funds will always be to examine whether they
+can be intelligently deployed in our various businesses. our record $12.1 billion of fixed-asset investments and bolton acquisitions in 2012 demonstrate that this is a fertile field for capital allocation at berkshire. and here we have
+an advantage: because we operate in so many areas of the economy, we enjoy a range of choices far wider than that
+open to most corporations. in deciding what to do, we can water the flowers and skip over the weeds.
+even after we deploy hefty amounts of capital in our current operations, berkshire will regularly generate a
+lot of additional cash. our next step, therefore, is to search for acquisitions unrelated to our current businesses.
+here our test is simple: do charlie and i think we can effect a transaction that is likely to leave our shareholders
+wealthier on a per-share basis than they were prior to the acquisition?
+i have made plenty of mistakes in acquisitions and will make more. overall, however, our record is
+satisfactory, which means that our shareholders are far wealthier today than they would be if the funds we used for
+acquisitions had instead been devoted to share repurchases or dividends.
+but, to use the standard disclaimer, past performance is no guarantee of future results. that’s particularly
+true at berkshire: because of our present size, making acquisitions that are both meaningful and sensible is now
+more difficult than it has been during most of our years.
+nevertheless, a large deal still offers us possibilities to add materially to per-share intrinsic value. bnsf is
+a case in point: it is now worth considerably more than our carrying value. had we instead allocated the funds
+required for this purchase to dividends or repurchases, you and i would have been worse off. though large
+transactions of the bnsf kind will be rare, there are still some whales in the ocean.
+the third use of funds – repurchases – is sensible for a company when its shares sell at a meaningful
+discount to conservatively calculated intrinsic value. indeed, disciplined repurchases are the surest way to use funds
+intelligently: it’s hard to go wrong when you’re buying dollar bills for 80¢ or less. we explained our criteria for
+repurchases in last year’s report and, if the opportunity presents itself, we will buy large quantities of our stock. we
+originally said we would not pay more than 110% of book value, but that proved unrealistic. therefore, we
+increased the limit to 120% in december when a large block became available at about 116% of book value.
+
+19
+
+but never forget: in repurchase decisions, price is all-important. value is destroyed when purchases are
+made above intrinsic value. the directors and i believe that continuing shareholders are benefitted in a meaningful
+way by purchases up to our 120% limit.
+and that brings us to dividends. here we have to make a few assumptions and use some math. the
+numbers will require careful reading, but they are essential to understanding the case for and against dividends. so
+bear with me.
+we’ll start by assuming that you and i are the equal owners of a business with $2 million of net worth. the
+business earns 12% on tangible net worth – $240,000 – and can reasonably expect to earn the same 12% on
+reinvested earnings. furthermore, there are outsiders who always wish to buy into our business at 125% of net
+worth. therefore, the value of what we each own is now $1.25 million.
+you would like to have the two of us shareholders receive one-third of our company’s annual earnings and
+have two-thirds be reinvested. that plan, you feel, will nicely balance your needs for both current income and
+capital growth. so you suggest that we pay out $80,000 of current earnings and retain $160,000 to increase the
+future earnings of the business. in the first year, your dividend would be $40,000, and as earnings grew and the onethird payout was maintained, so too would your dividend. in total, dividends and stock value would increase 8%
+each year (12% earned on net worth less 4% of net worth paid out).
+after ten years our company would have a net worth of $4,317,850 (the original $2 million compounded at
+8%) and your dividend in the upcoming year would be $86,357. each of us would have shares worth $2,698,656
+(125% of our half of the company’s net worth). and we would live happily ever after – with dividends and the
+value of our stock continuing to grow at 8% annually.
+there is an alternative approach, however, that would leave us even happier. under this scenario, we
+would leave all earnings in the company and each sell 3.2% of our shares annually. since the shares would be sold
+at 125% of book value, this approach would produce the same $40,000 of cash initially, a sum that would grow
+annually. call this option the “sell-off” approach.
+under this “sell-off” scenario, the net worth of our company increases to $6,211,696 after ten years
+($2 million compounded at 12%). because we would be selling shares each year, our percentage ownership would
+have declined, and, after ten years, we would each own 36.12% of the business. even so, your share of the net
+worth of the company at that time would be $2,243,540. and, remember, every dollar of net worth attributable to
+each of us can be sold for $1.25. therefore, the market value of your remaining shares would be $2,804,425, about
+4% greater than the value of your shares if we had followed the dividend approach.
+moreover, your annual cash receipts from the sell-off policy would now be running 4% more than you
+would have received under the dividend scenario. voila! – you would have both more cash to spend annually and
+more capital value.
+this calculation, of course, assumes that our hypothetical company can earn an average of 12% annually on
+net worth and that its shareholders can sell their shares for an average of 125% of book value. to that point, the
+s&p 500 earns considerably more than 12% on net worth and sells at a price far above 125% of that net worth.
+both assumptions also seem reasonable for berkshire, though certainly not assured.
+moreover, on the plus side, there also is a possibility that the assumptions will be exceeded. if they are, the
+argument for the sell-off policy becomes even stronger. over berkshire’s history – admittedly one that won’t come
+close to being repeated – the sell-off policy would have produced results for shareholders dramatically superior to
+the dividend policy.
+aside from the favorable math, there are two further – and important – arguments for a sell-off policy.
+first, dividends impose a specific cash-out policy upon all shareholders. if, say, 40% of earnings is the policy, those
+who wish 30% or 50% will be thwarted. our 600,000 shareholders cover the waterfront in their desires for cash. it
+is safe to say, however, that a great many of them – perhaps even most of them – are in a net-savings mode and
+logically should prefer no payment at all.
+
+20
+
+the sell-off alternative, on the other hand, lets each shareholder make his own choice between cash receipts
+and capital build-up. one shareholder can elect to cash out, say, 60% of annual earnings while other shareholders
+elect 20% or nothing at all. of course, a shareholder in our dividend-paying scenario could turn around and use his
+dividends to purchase more shares. but he would take a beating in doing so: he would both incur taxes and also pay
+a 25% premium to get his dividend reinvested. (keep remembering, open-market purchases of the stock take place
+at 125% of book value.)
+the second disadvantage of the dividend approach is of equal importance: the tax consequences for all
+taxpaying shareholders are inferior – usually far inferior – to those under the sell-off program. under the dividend
+program, all of the cash received by shareholders each year is taxed whereas the sell-off program results in tax on
+only the gain portion of the cash receipts.
+let me end this math exercise – and i can hear you cheering as i put away the dentist drill – by using my
+own case to illustrate how a shareholder’s regular disposals of shares can be accompanied by an increased
+investment in his or her business. for the last seven years, i have annually given away about 4 1⁄ 4% of my berkshire
+shares. through this process, my original position of 712,497,000 b-equivalent shares (split-adjusted) has
+decreased to 528,525,623 shares. clearly my ownership percentage of the company has significantly decreased.
+yet my investment in the business has actually increased: the book value of my current interest in
+berkshire considerably exceeds the book value attributable to my holdings of seven years ago. (the actual figures
+are $28.2 billion for 2005 and $40.2 billion for 2012.) in other words, i now have far more money working for me
+at berkshire even though my ownership of the company has materially decreased. it’s also true that my share of
+both berkshire’s intrinsic business value and the company’s normal earning power is far greater than it was in 2005.
+over time, i expect this accretion of value to continue – albeit in a decidedly irregular fashion – even as i now
+annually give away more than 4 1⁄ 2% of my shares (the increase having occurred because i’ve recently doubled my
+lifetime pledges to certain foundations).
+************
+above all, dividend policy should always be clear, consistent and rational. a capricious policy will
+confuse owners and drive away would-be investors. phil fisher put it wonderfully 54 years ago in chapter 7 of his
+common stocks and uncommon profits, a book that ranks behind only the intelligent investor and the 1940 edition
+of security analysis in the all-time-best list for the serious investor. phil explained that you can successfully run a
+restaurant that serves hamburgers or, alternatively, one that features chinese food. but you can’t switch
+capriciously between the two and retain the fans of either.
+most companies pay consistent dividends, generally trying to increase them annually and cutting them very
+reluctantly. our “big four” portfolio companies follow this sensible and understandable approach and, in certain
+cases, also repurchase shares quite aggressively.
+we applaud their actions and hope they continue on their present paths. we like increased dividends, and
+we love repurchases at appropriate prices.
+at berkshire, however, we have consistently followed a different approach that we know has been sensible
+and that we hope has been made understandable by the paragraphs you have just read. we will stick with this policy
+as long as we believe our assumptions about the book-value buildup and the market-price premium seem reasonable.
+if the prospects for either factor change materially for the worse, we will reexamine our actions.
+the annual meeting
+the annual meeting will be held on saturday, may 4th at the centurylink center. carrie sova will be in
+charge. (though that’s a new name, it’s the same wonderful carrie as last year; she got married in june to a very
+lucky guy.) all of our headquarters group pitches in to help her; the whole affair is a homemade production, and i
+couldn’t be more proud of those who put it together.
+
+21
+
+the doors will open at 7 a.m., and at 7:30 we will have our second international newspaper tossing
+challenge. the target will be the porch of a clayton home, precisely 35 feet from the throwing line. last year i
+successfully fought off all challengers. but now berkshire has acquired a large number of newspapers and with
+them came much tossing talent (or so the throwers claim). come see whether their talent matches their talk. better
+yet, join in. the papers will be 36 to 42 pages and you must fold them yourself (no rubber bands).
+at 8:30, a new berkshire movie will be shown. an hour later, we will start the question-and-answer
+period, which (with a break for lunch at the centurylink’s stands) will last until 3:30. after a short recess, charlie
+and i will convene the annual meeting at 3:45. if you decide to leave during the day’s question periods, please do so
+while charlie is talking.
+the best reason to exit, of course, is to shop. we will help you do so by filling the 194,300-square-foot hall
+that adjoins the meeting area with products from dozens of berkshire subsidiaries. last year, you did your part, and
+most locations racked up record sales. in a nine-hour period, we sold 1,090 pairs of justin boots, (that’s a pair every
+30 seconds), 10,010 pounds of see’s candy, 12,879 quikut knives (24 knives per minute) and 5,784 pairs of wells
+lamont gloves, always a hot item. but you can do better. remember: anyone who says money can’t buy happiness
+simply hasn’t shopped at our meeting.
+last year, brooks, our running shoe company, exhibited for the first time and ran up sales of $150,000.
+brooks is on fire: its volume in 2012 grew 34%, and that was on top of a similar 34% gain in 2011. the company’s
+management expects another jump of 23% in 2013. we will again have a special commemorative shoe to offer at
+the meeting.
+on sunday at 8 a.m., we will initiate the “berkshire 5k,” a race starting at the centurylink. full details for
+participating will be included in the visitor’s guide that you will receive with your credentials for the meeting. we
+will have plenty of categories for competition, including one for the media. (it will be fun to report on their
+performance.) regretfully, i will forego running; someone has to man the starting gun.
+i should warn you that we have a lot of home-grown talent. ted weschler has run the marathon in 3:01.
+jim weber, brooks’ dynamic ceo, is another speedster with a 3:31 best. todd combs specializes in the triathlon,
+but has been clocked at 22 minutes in the 5k.
+that, however, is just the beginning: our directors are also fleet of foot (that is, some of our directors are).
+steve burke has run an amazing 2:39 boston marathon. (it’s a family thing; his wife, gretchen, finished the new
+york marathon in 3:25.) charlotte guyman’s best is 3:37, and sue decker crossed the tape in new york in 3:36.
+charlie did not return his questionnaire.
+geico will have a booth in the shopping area, staffed by a number of its top counselors from around the
+country. stop by for a quote. in most cases, geico will be able to give you a shareholder discount (usually 8%).
+this special offer is permitted by 44 of the 51 jurisdictions in which we operate. (one supplemental point: the
+discount is not additive if you qualify for another, such as that given certain groups.) bring the details of your
+existing insurance and check out whether we can save you money. for at least half of you, i believe we can.
+be sure to visit the bookworm. it will carry about 35 books and dvds, including a couple of new ones.
+carol loomis, who has been invaluable to me in editing this letter since 1977, has recently authored tap dancing to
+work: warren buffett on practically everything. she and i have cosigned 500 copies, available exclusively at the
+meeting.
+the outsiders, by william thorndike, jr., is an outstanding book about ceos who excelled at capital
+allocation. it has an insightful chapter on our director, tom murphy, overall the best business manager i’ve ever
+met. i also recommend the clash of the cultures by jack bogle and laura rittenhouse’s investing between the
+lines. should you need to ship your book purchases, a shipping service will be available nearby.
+the omaha world-herald will again have a booth, offering a few books it has recently published. redblooded husker fans – is there any nebraskan who isn’t one? – will surely want to purchase unbeatable. it tells the
+story of nebraska football during 1993-97, a golden era in which tom osborne’s teams went 60-3.
+
+22
+
+if you are a big spender – or aspire to become one – visit signature aviation on the east side of the omaha
+airport between noon and 5:00 p.m. on saturday. there we will have a fleet of netjets aircraft that will get your
+pulse racing. come by bus; leave by private jet. live a little.
+an attachment to the proxy material that is enclosed with this report explains how you can obtain the
+credential you will need for admission to the meeting and other events. airlines have sometimes jacked up prices
+for the berkshire weekend. if you are coming from far away, compare the cost of flying to kansas city versus
+omaha. the drive between the two cities is about 2 1⁄ 2 hours, and it may be that you can save significant money,
+particularly if you had planned to rent a car in omaha. spend the savings with us.
+at nebraska furniture mart, located on a 77-acre site on 72nd street between dodge and pacific, we will
+again be having “berkshire weekend” discount pricing. last year the store did $35.9 million of business during its
+annual meeting sale, an all-time record that makes other retailers turn green. to obtain the berkshire discount, you
+must make your purchases between tuesday, april 30th and monday, may 6th inclusive, and also present your
+meeting credential. the period’s special pricing will even apply to the products of several prestigious manufacturers
+that normally have ironclad rules against discounting but which, in the spirit of our shareholder weekend, have made
+an exception for you. we appreciate their cooperation. nfm is open from 10 a.m. to 9 p.m. monday through
+saturday, and 10 a.m. to 6 p.m. on sunday. on saturday this year, from 5:30 p.m. to 8 p.m., nfm is having a picnic
+to which you are all invited.
+at borsheims, we will again have two shareholder-only events. the first will be a cocktail reception from
+6 p.m. to 9 p.m. on friday, may 3rd. the second, the main gala, will be held on sunday, may 5th, from 9 a.m. to 4 p.m.
+on saturday, we will be open until 6 p.m. in recent years, our three-day volume has far exceeded sales in all of
+december, normally a jeweler’s best month.
+around 1 p.m. on sunday, i will begin clerking at borsheims. last year my sales totaled $1.5 million.
+this year i won’t quit until i hit $2 million. because i need to leave well before sundown, i will be desperate to do
+business. come take advantage of me. ask for my “crazy warren” price.
+we will have huge crowds at borsheims throughout the weekend. for your convenience, therefore,
+shareholder prices will be available from monday, april 29th through saturday, may 11th. during that period, please
+identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that shows you
+are a berkshire holder.
+on sunday, in the mall outside of borsheims, a blindfolded patrick wolff, twice u.s. chess champion, will
+take on all comers – who will have their eyes wide open – in groups of six. nearby, norman beck, a remarkable
+magician from dallas, will bewilder onlookers. additionally, we will have bob hamman and sharon osberg, two
+of the world’s top bridge experts, available to play bridge with our shareholders on sunday afternoon. don’t play
+them for money.
+gorat’s and piccolo’s will again be open exclusively for berkshire shareholders on sunday, may 5th. both
+will be serving until 10 p.m., with gorat’s opening at 1 p.m. and piccolo’s opening at 4 p.m. these restaurants are
+my favorites, and i will eat at both of them on sunday evening. remember: to make a reservation at gorat’s, call
+402-551-3733 on april 1st (but not before) and at piccolo’s call 402-342-9038. at piccolo’s, order a giant root beer
+float for dessert. only sissies get the small one. (i once saw bill gates polish off two of the giant variety after a
+full-course dinner; that’s when i knew he would make a great director.)
+we will again have the same three financial journalists lead the question-and-answer period at the meeting,
+asking charlie and me questions that shareholders have submitted to them by e-mail. the journalists and their e-mail
+addresses are: carol loomis, of fortune, who may be emailed at cloomis@fortunemail.com; becky quick, of cnbc,
+at berkshirequestions@cnbc.com, and andrew ross sorkin, of the new york times, at arsorkin@nytimes.com.
+
+23
+
+from the questions submitted, each journalist will choose the six he or she decides are the most interesting
+and important. the journalists have told me your question has the best chance of being selected if you keep it
+concise, avoid sending it in at the last moment, make it berkshire-related and include no more than two questions in
+any email you send them. (in your email, let the journalist know if you would like your name mentioned if your
+question is selected.)
+last year we had a second panel of three analysts who follow berkshire. all were insurance specialists,
+and shareholders subsequently indicated they wanted a little more variety. therefore, this year we will have one
+insurance analyst, cliff gallant of nomura securities. jonathan brandt of ruane, cunniff & goldfarb will join the
+analyst panel to ask questions that deal with our non-insurance operations.
+finally – to spice things up – we would like to add to the panel a credentialed bear on berkshire, preferably
+one who is short the stock. not yet having a bear identified, we would like to hear from applicants. the only
+requirement is that you be an investment professional and negative on berkshire. the three analysts will bring their
+own berkshire-specific questions and alternate with the journalists and the audience in asking them.
+charlie and i believe that all shareholders should have access to new berkshire information simultaneously
+and should also have adequate time to analyze it, which is why we try to issue financial information after the market
+close on a friday and why our annual meeting is held on saturdays. we do not talk one-on-one to large institutional
+investors or analysts. our hope is that the journalists and analysts will ask questions that will further educate
+shareholders about their investment.
+neither charlie nor i will get so much as a clue about the questions to be asked. we know the journalists
+and analysts will come up with some tough ones, and that’s the way we like it. all told, we expect at least 54
+questions, which will allow for six from each analyst and journalist and 18 from the audience. if there is some extra
+time, we will take more from the audience. audience questioners will be determined by drawings that will take
+place at 8:15 a.m. at each of the 11 microphones located in the arena and main overflow room.
+************
+for good reason, i regularly extol the accomplishments of our operating managers. they are truly allstars, who run their businesses as if they were the only asset owned by their families. i believe their mindset to be
+as shareholder-oriented as can be found in the universe of large publicly-owned companies. most have no financial
+need to work; the joy of hitting business “home runs” means as much to them as their paycheck.
+equally important, however, are the 23 men and women who work with me at our corporate office (all on
+one floor, which is the way we intend to keep it!).
+this group efficiently deals with a multitude of sec and other regulatory requirements, files a 21,500-page
+federal income tax return as well as state and foreign returns, responds to countless shareholder and media inquiries,
+gets out the annual report, prepares for the country’s largest annual meeting, coordinates the board’s activities – and
+the list goes on and on.
+they handle all of these business tasks cheerfully and with unbelievable efficiency, making my life easy
+and pleasant. their efforts go beyond activities strictly related to berkshire: last year they dealt with 48 universities
+(selected from 200 applicants) who sent students to omaha for a q&a day with me. they also handle all kinds of
+requests that i receive, arrange my travel, and even get me hamburgers for lunch. no ceo has it better; i truly do
+feel like tap dancing to work every day.
+this home office crew, along with our operating managers, has my deepest thanks and deserves yours as
+well. come to omaha – the cradle of capitalism – on may 4th and chime in.
+
+march 1, 2013
+
+warren e. buffett
+chairman of the board
+
+24
+
+

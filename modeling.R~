@@ -1,0 +1,55 @@
+library(tm)
+setwd("/home/raj/projects/topicModels/topics")
+fi <- list.files(getwd(),pattern="*.txt")
+foo <- lapply(fi,readLines)
+docs<-Corpus(VectorSource(foo))
+writeLines(as.character(docs[[3]]))
+docs<-tm_map(docs,content_transformer(tolower))
+toSpace<- content_transformer(function(x,pattern) { return (gsub(pattern," ",x))})
+docs<-tm_map(docs,toSpace,"-")
+docs<-tm_map(docs,toSpace,"'")
+docs<-tm_map(docs,toSpace,".")
+docs <- tm_map(docs, removePunctuation)
+docs <- tm_map(docs, removeNumbers)
+docs <- tm_map(docs, removeWords, stopwords(“english”))
+docs <- tm_map(docs, stripWhitespace)
+writeLines(as.character(docs[[30]]))
+docs <- tm_map(docs,stemDocument)
+myStopwords <- c('can', "will","berkshire",'say','one','way','use','berkshire',"hathaway","berkshires",'also','howev','tell','business')
+docs <- tm_map(docs, removeWords, myStopwords)
+writeLines(as.character(docs[[30]]))
+dtm <- DocumentTermMatrix(docs)
+rownames(dtm) <- filenames
+freq <- colSums(as.matrix(dtm))
+length(freq)
+ord <- order(freq,decreasing=TRUE)
+freq[ord]
+write.csv(freq[ord],”word_freq.csv”)
+
+
+### visualizing ###
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+
+setwd("/home/raj/projects/topicModels/topics")
+fi <- list.files(getwd(),pattern="*.txt")
+foo <- lapply(fi,readLines)
+docs<-Corpus(VectorSource(foo))
+
+docs <- tm_map(docs, removeNumbers)
+## docs <- tm_map(docs, removeWords, stopwords("english"))
+docs <- tm_map(docs, removePunctuation)
+docs <- tm_map(docs, stripWhitespace)
+
+dtm <- TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+head(d, 10)
+
+set.seed(1234)
+wordcloud(words = d$word, freq = d$freq, min.freq = 1,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"))

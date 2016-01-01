@@ -1,0 +1,1251 @@
+note: the following table appears in the printed annual report on the facing page of the
+chairman's letter and is referred to in that letter.
+berkshire’s corporate performance vs. the s&p 500
+
+year
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+..................................................
+
+average annual gain – 1965-2001
+overall gain – 1964-2001
+
+annual percentage change
+in per-share
+in s&p 500
+book value of
+with dividends
+berkshire
+included
+(1)
+(2)
+23.8
+10.0
+20.3
+(11.7)
+11.0
+30.9
+19.0
+11.0
+16.2
+(8.4)
+12.0
+3.9
+16.4
+14.6
+21.7
+18.9
+4.7
+(14.8)
+(26.4)
+5.5
+21.9
+37.2
+59.3
+23.6
+31.9
+(7.4)
+24.0
+6.4
+35.7
+18.2
+19.3
+32.3
+31.4
+(5.0)
+40.0
+21.4
+32.3
+22.4
+13.6
+6.1
+48.2
+31.6
+26.1
+18.6
+19.5
+5.1
+20.1
+16.6
+44.4
+31.7
+7.4
+(3.1)
+39.6
+30.5
+20.3
+7.6
+14.3
+10.1
+13.9
+1.3
+43.1
+37.6
+31.8
+23.0
+34.1
+33.4
+48.3
+28.6
+.5
+21.0
+6.5
+(9.1)
+(6.2)
+(11.9)
+22.6%
+194,936%
+
+11.0%
+4,742%
+
+relative
+results
+(1)-(2)
+13.8
+32.0
+(19.9)
+8.0
+24.6
+8.1
+1.8
+2.8
+19.5
+31.9
+(15.3)
+35.7
+39.3
+17.6
+17.5
+(13.0)
+36.4
+18.6
+9.9
+7.5
+16.6
+7.5
+14.4
+3.5
+12.7
+10.5
+9.1
+12.7
+4.2
+12.6
+5.5
+8.8
+.7
+19.7
+(20.5)
+15.6
+5.7
+11.6%
+190,194%
+
+notes: data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
+starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market
+rather than at the lower of cost or market, which was previously the requirement. in this table, berkshire's results
+through 1978 have been restated to conform to the changed rules. in all other respects, the results are calculated using
+the numbers originally reported.
+the s&p 500 numbers are pre-tax whereas the berkshire numbers are after-tax. if a corporation such as berkshire
+were simply to have owned the s&p 500 and accrued the appropriate taxes, its results would have lagged the s&p 500
+in years when that index showed a positive return, but would have exceeded the s&p in years when the index showed a
+negative return. over the years, the tax costs would have caused the aggregate lag to be substantial.
+
+2
+
+berkshire hathaway inc.
+
+to the shareholders of berkshire hathaway inc.:
+berkshire’s loss in net worth during 2001 was $3.77 billion, which decreased the per-share book value of
+both our class a and class b stock by 6.2%. over the last 37 years (that is, since present management took over)
+per-share book value has grown from $19 to $37,920, a rate of 22.6% compounded annually.∗
+per-share intrinsic grew somewhat faster than book value during these 37 years, and in 2001 it probably
+decreased a bit less. we explain intrinsic value in our owner’s manual, which begins on page 62. i urge new
+shareholders to read this manual to become familiar with berkshire’s key economic principles.
+two years ago, reporting on 1999, i said that we had experienced both the worst absolute and relative
+performance in our history. i added that “relative results are what concern us,” a viewpoint i’ve had since forming
+my first investment partnership on may 5, 1956. meeting with my seven founding limited partners that evening, i
+gave them a short paper titled “the ground rules” that included this sentence: “whether we do a good job or a
+poor job is to be measured against the general experience in securities.” we initially used the dow jones industrials
+as our benchmark, but shifted to the s&p 500 when that index became widely used. our comparative record since
+1965 is chronicled on the facing page; last year berkshire’s advantage was 5.7 percentage points.
+some people disagree with our focus on relative figures, arguing that “you can’t eat relative performance.”
+but if you expect – as charlie munger, berkshire’s vice chairman, and i do – that owning the s&p 500 will
+produce reasonably satisfactory results over time, it follows that, for long-term investors, gaining small advantages
+annually over that index must prove rewarding. just as you can eat well throughout the year if you own a profitable,
+but highly seasonal, business such as see’s (which loses considerable money during the summer months) so, too,
+can you regularly feast on investment returns that beat the averages, however variable the absolute numbers may be.
+though our corporate performance last year was satisfactory, my performance was anything but. i manage
+most of berkshire’s equity portfolio, and my results were poor, just as they have been for several years. of even
+more importance, i allowed general re to take on business without a safeguard i knew was important, and on
+september 11th, this error caught up with us. i’ll tell you more about my mistake later and what we are doing to
+correct it.
+another of my 1956 ground rules remains applicable: “i cannot promise results to partners.” but charlie
+and i can promise that your economic result from berkshire will parallel ours during the period of your ownership:
+we will not take cash compensation, restricted stock or option grants that would make our results superior to yours.
+additionally, i will keep well over 99% of my net worth in berkshire. my wife and i have never sold a
+share nor do we intend to. charlie and i are disgusted by the situation, so common in the last few years, in which
+shareholders have suffered billions in losses while the ceos, promoters, and other higher-ups who fathered these
+disasters have walked away with extraordinary wealth. indeed, many of these people were urging investors to buy
+shares while concurrently dumping their own, sometimes using methods that hid their actions. to their shame, these
+business leaders view shareholders as patsies, not partners.
+though enron has become the symbol for shareholder abuse, there is no shortage of egregious conduct
+elsewhere in corporate america. one story i’ve heard illustrates the all-too-common attitude of managers toward
+∗
+
+all figures used in this report apply to berkshire's a shares, the successor to the only stock that the
+company had outstanding before 1996. the b shares have an ec onomic interest equal to 1/30th that of the a.
+
+3
+
+owners: a gorgeous woman slinks up to a ceo at a party and through moist lips purrs, “i’ll do anything – anything
+– you want. just tell me what you would like.” with no hesitation, he replies, “reprice my options.”
+one final thought about berkshire: in the future we won’t come close to replicating our past record. to be
+sure, charlie and i will strive for above-average performance and will not be satisfied with less. but two conditions
+at berkshire are far different from what they once were: then, we could often buy businesses and securities at much
+lower valuations than now prevail; and more important, we were then working with far less money than we now
+have. some years back, a good $10 million idea could do wonders for us (witness our investment in washington
+post in 1973 or geico in 1976). today, the combination of ten such ideas and a triple in the value of each would
+increase the net worth of berkshire by only ¼ of 1%. we need “elephants” to make significant gains now – and
+they are hard to find.
+on the positive side, we have as fine an array of operating managers as exists at any company. (you can
+read about many of them in a new book by robert p. miles: the warren buffett ceo.) in large part, moreover, they
+are running businesses with economic characteristics ranging from good to superb. the ability, energy and loyalty
+of these managers is simply extraordinary. we now have completed 37 berkshire years without having a ceo of
+an operating business elect to leave us to work elsewhere.
+our star-studded group grew in 2001. first, we completed the purchases of two businesses that we had
+agreed to buy in 2000 – shaw and johns manville. then we acquired two others, mitek and xtra, and
+contracted to buy two more: larson-juhl, an acquisition that has just closed, and fruit of the loom, which will close
+shortly if creditors approve our offer. all of these businesses are led by smart, seasoned and trustworthy ceos.
+additionally, all of our purchases last year were for cash, which means our shareholders became owners of
+these additional businesses without relinquishing any interest in the fine companies they already owned. we will
+continue to follow our familiar formula, striving to increase the value of the excellent businesses we have, adding
+new businesses of similar quality, and issuing shares only grudgingly.
+acquisitions of 2001
+a few days before last year’s annual meeting, i received a heavy package from st. louis, containing an
+unprepossessing chunk of metal whose function i couldn’t imagine. there was a letter in the package, though, from
+gene toombs, ceo of a company called mitek. he explained that mitek is the world’s leading producer of this
+thing i’d received, a “connector plate,” which is used in making roofing trusses. gene also said that the u.k. parent
+of mitek wished to sell the company and that berkshire seemed to him the ideal buyer. liking the sound of his
+letter, i gave gene a call. it took me only a minute to realize that he was our kind of manager and mitek our kind
+of business. we made a cash offer to the u.k. owner and before long had a deal.
+gene’s managerial crew is exceptionally enthusiastic about the company and wanted to participate in the
+purchase. therefore, we arranged for 55 members of the mitek team to buy 10% of the company, with each
+putting up a minimum of $100,000 in cash. many borrowed money so they could participate.
+as they would not be if they had options, all of these managers are true owners. they face the downside of
+decisions as well as the upside. they incur a cost of capital. and they can’t “reprice” their stakes: what they paid
+is what they live with.
+charlie and i love the high-grade, truly entrepreneurial attitude that exists at mitek, and we predict it will
+be a winner for all involved.
+************
+in early 2000, my friend, julian robertson, announced that he would terminate his investment partnership,
+tiger fund, and that he would liquidate it entirely except for four large holdings. one of these was xtra, a
+leading lessor of truck trailers. i then called julian, asking whether he might consider selling his xtra block or
+whether, for that matter, the company’s management might entertain an offer for the entire company. julian
+referred me to lew rubin, xtra’s ceo. he and i had a nice conversation, but it was apparent that no deal was to
+be done.
+then in june 2001, julian called to say that he had decided to sell his xtra shares, and i resumed
+conversations with lew. the xtra board accepted a proposal we made, which was to be effectuated through a
+tender offer expiring on september 11th. the tender conditions included the usual “out,” allowing us to withdraw if
+
+4
+
+the stock market were to close before the offer’s expiration. throughout much of the 11th, lew went through a
+particularly wrenching experience: first, he had a son-in-law working in the world trade center who couldn’t be
+located; and second, he knew we had the option of backing away from our purchase. the story ended happily:
+lew’s son-in-law escaped serious harm, and berkshire completed the transaction.
+trailer leasing is a cyclical business but one in which we should earn decent returns over time. lew brings
+a new talent to berkshire, and we hope to expand in leasing.
+************
+on december 3rd, i received a call from craig ponzio, owner of larson-juhl, the u.s. leader in custommade picture frames. craig had bought the company in 1981 (after first working at its manufacturing plant while
+attending college) and thereafter increased its sales from $3 million to $300 million. though i had never heard of
+larson-juhl before craig’s call, a few minutes talk with him made me think we would strike a deal. he was
+straightforward in describing the business, cared about who bought it, and was realistic as to price. two days later,
+craig and steve mckenzie, his ceo, came to omaha and in ninety minutes we reached an agreement. in ten days
+we had signed a contract.
+larson-juhl serves about 18,000 framing shops in the u.s. and is also the industry leader in canada and
+much of europe. we expect to see opportunities for making complementary acquisitions in the future.
+***********
+as i write this letter, creditors are considering an offer we have made for fruit of the loom. the company
+entered bankruptcy a few years back, a victim both of too much debt and poor management. and, a good many
+years before that, i had some fruit of the loom experience of my own.
+in august 1955, i was one of five employees, including two secretaries, working for the three managers of
+graham-newman corporation, a new york investment company. graham-newman controlled philadelphia and
+reading coal and iron (“p&r”), an anthracite producer that had excess cash, a tax loss carryforward, and a
+declining business. at the time, i had a significant portion of my limited net worth invested in p&r shares,
+reflecting my faith in the business talents of my bosses, ben graham, jerry newman and howard (micky) newman.
+this faith was rewarded when p&r purchased the union underwear company from jack goldfarb for $15
+million. union (though it was then only a licensee of the name) produced fruit of the loom underwear. the
+company possessed $5 million in cash – $2.5 million of which p&r used for the purchase – and was earning about
+$3 million pre-tax, earnings that could be sheltered by the tax position of p&r. and, oh yes: fully $9 million of the
+remaining $12.5 million due was satisfied by non-interest-bearing notes, payable from 50% of any earnings union
+had in excess of $1 million. (those were the days; i get goosebumps just thinking about such deals.)
+subsequently, union bought the licensor of the fruit of the loom name and, along with p&r, was merged
+into northwest industries. fruit went on to achieve annual pre-tax earnings exceeding $200 million.
+john holland was responsible for fruit’s operations in its most bountiful years. in 1996, however, john
+retired, and management loaded the company with debt, in part to make a series of acquisitions that proved
+disappointing. bankruptcy followed. john was then rehired, and he undertook a major reworking of operations.
+before john’s return, deliveries were chaotic, costs soared and relations with key customers deteriorated. while
+correcting these problems, john also reduced employment from a bloated 40,000 to 23,000. in short, he’s been
+restoring the old fruit of the loom, albeit in a much more competitive environment.
+stepping into fruit’s bankruptcy proceedings, we made a proposal to creditors to which we attached no
+financing conditions, even though our offer had to remain outstanding for many months. we did, however, insist on
+a very unusual proviso: john had to be available to continue serving as ceo after we took over. to us, john and
+the brand are fruit’s key assets.
+i was helped in this transaction by my friend and former boss, micky newman, now 81. what goes around
+truly does come around.
+************
+
+5
+
+our operating companies made several “bolt-on” acquisitions during the year, and i can’t resist telling you
+about one. in december, frank rooney called to tell me h.h. brown was buying the inventory and trademarks of
+acme boot for $700,000.
+that sounds like small potatoes. but – would you believe it? – acme was the second purchase of p&r, an
+acquisition that took place just before i left graham-newman in the spring of 1956. the price was $3.2 million,
+part of it again paid with non-interest bearing notes, for a business with sales of $7 million.
+after p&r merged with northwest, acme grew to be the world’s largest bootmaker, delivering annual
+profits many multiples of what the company had cost p&r. but the business eventually hit the skids and never
+recovered, and that resulted in our purchasing acme’s remnants.
+in the frontispiece to security analysis, ben graham and dave dodd quoted horace: “many shall be
+restored that now are fallen and many shall fall that are now in honor.” fifty-two years after i first read those lines,
+my appreciation for what they say about business and investments continues to grow.
+************
+in addition to bolt-on acquisitions, our managers continually look for ways to grow internally. in that
+regard, here’s a postscript to a story i told you two years ago about r.c. willey’s move to boise. as you may
+remember, bill child, r.c. willey’s chairman, wanted to extend his home-furnishings operation beyond utah, a
+state in which his company does more than $300 million of business (up, it should be noted, from $250,000 when
+bill took over 48 years ago). the company achieved this dominant position, moreover, with a “closed on sunday”
+policy that defied conventional retailing wisdom. i was skeptical that this policy could succeed in boise or, for that
+matter, anyplace outside of utah. after all, sunday is the day many consumers most like to shop.
+bill then insisted on something extraordinary: he would invest $11 million of his own money to build the
+boise store and would sell it to berkshire at cost (without interest!) if the venture succeeded. if it failed, bill would
+keep the store and eat the loss on its disposal. as i told you in the 1999 annual report, the store immediately
+became a huge success ― and it has since grown.
+shortly after the boise opening, bill suggested we try las vegas, and this time i was even more skeptical.
+how could we do business in a metropolis of that size and be closed on sundays, a day that all of our competitors
+would be exploiting? buoyed by the boise experience, however, we proceeded to locate in henderson, a
+mushrooming city adjacent to las vegas.
+the result: this store outsells all others in the r.c. willey chain, doing a volume of business that far
+exceeds the volume of any competitor and that is twice what i had anticipated. i cut the ribbon at the grand opening
+in october – this was after a “soft” opening and a few weeks of exceptional sales – and, just as i did at boise, i
+suggested to the crowd that the new store was my idea.
+it didn’t work. today, when i pontificate about retailing, berkshire people just say, “what does bill
+think?” (i’m going to draw the line, however, if he suggests that we also close on saturdays.)
+the economics of property/casualty insurance
+our main business — though we have others of great importance — is insurance. to understand
+berkshire, therefore, it is necessary that you understand how to evaluate an insurance company. the key
+determinants are: (1) the amount of float that the business generates; (2) its cost; and (3) most critical of all, the
+long-term outlook for both of these factors.
+to begin with, float is money we hold but don't own. in an insurance operation, float arises because
+premiums are received before losses are paid, an interval that sometimes extends over many years. during that
+time, the insurer invests the money. this pleasant activity typically carries with it a downside: the premiums that
+an insurer takes in usually do not cover the losses and expenses it eventually must pay. that leaves it running an
+"underwriting loss," which is the cost of float. an insurance business has value if its cost of float over time is less
+than the cost the company would otherwise incur to obtain funds. but the business is a lemon if its cost of float is
+higher than market rates for money.
+
+6
+
+historically, berkshire has obtained its float at a very low cost. indeed, our cost has been less than zero in
+about half of the years in which we’ve operated; that is, we’ve actually been paid for holding other people’s money.
+over the last few years, however, our cost has been too high, and in 2001 it was terrible.
+the table that follows shows (at intervals) the float generated by the various segments of berkshire’s
+insurance operations since we entered the business 35 years ago upon acquiring national indemnity company
+(whose traditional lines are included in the segment “other primary”). for the table we have calculated our float —
+which we generate in large amounts relative to our premium volume — by adding net loss reserves, loss adjustment
+reserves, funds held under reinsurance assumed and unearned premium reserves, and then subtracting insurancerelated receivables, prepaid acquisition costs, prepaid taxes and deferred charges applicable to assumed reinsurance.
+(got that?)
+yearend float (in $ millions)
+year
+1967
+1977
+1987
+1997
+1998
+1999
+2000
+2001
+
+geico
+
+2,917
+3,125
+3,444
+3,943
+4,251
+
+general re
+
+14,909
+15,166
+15,525
+19,310
+
+other
+reinsurance
+40
+701
+4,014
+4,305
+6,285
+7,805
+11,262
+
+other
+primary
+20
+131
+807
+455
+415
+403
+598
+685
+
+total
+20
+171
+1,508
+7,386
+22,754
+25,298
+27,871
+35,508
+
+last year i told you that, barring a mega-catastrophe, our cost of float would probably drop from its 2000
+level of 6%. i had in mind natural catastrophes when i said that, but instead we were hit by a man-made catastrophe
+on september 11th – an event that delivered the insurance industry its largest loss in history. our float cost therefore
+came in at a staggering 12.8%. it was our worst year in float cost since 1984, and a result that to a significant
+degree, as i will explain in the next section, we brought upon ourselves.
+if no mega-catastrophe occurs, i – once again – expect the cost of our float to be low in the coming year.
+we will indeed need a low cost, as will all insurers. some years back, float costing, say, 4% was tolerable because
+government bonds yielded twice as much, and stocks prospectively offered still loftier returns. today, fat returns
+are nowhere to be found (at least we can’t find them) and short-term funds earn less than 2%. under these
+conditions, each of our insurance operations, save one, must deliver an underwriting profit if it is to be judged a
+good business. the exception is our retroactive reinsurance operation (a business we explained in last year’s annual
+report), which has desirable economics even though it currently hits us with an annual underwriting loss of about
+$425 million.
+principles of insurance underwriting
+when property/casualty companies are judged by their cost of float, very few stack up as satisfactory
+businesses. and interestingly – unlike the situation prevailing in many other industries – neither size nor brand
+name determines an insurer’s profitability. indeed, many of the biggest and best-known companies regularly
+deliver mediocre results. what counts in this business is underwriting discipline. the winners are those that
+unfailingly stick to three key principles:
+1.
+
+they accept only those risks that they are able to properly evaluate (staying within their circle of
+competence) and that, after they have evaluated all relevant factors including remote loss
+scenarios, carry the expectancy of profit. these insurers ignore market-share considerations and
+are sanguine about losing business to competitors that are offering foolish prices or policy
+conditions.
+
+2.
+
+they limit the business they accept in a manner that guarantees they will suffer no aggregation of
+losses from a single event or from related events that will threaten their solvency. they
+ceaselessly search for possible correlation among seemingly-unrelated risks.
+
+7
+
+3.
+
+they avoid business involving moral risk: no matter what the rate, trying to write good contracts
+with bad people doesn’t work. while most policyholders and clients are honorable and ethical,
+doing business with the few exceptions is usually expensive, sometimes extraordinarily so.
+
+the events of september 11th made it clear that our implementation of rules 1 and 2 at general re had been
+dangerously weak. in setting prices and also in evaluating aggregation risk, we had either overlooked or dismissed
+the possibility of large-scale terrorism losses. that was a relevant underwriting factor, and we ignored it.
+in pricing property coverages, for example, we had looked to the past and taken into account only costs we
+might expect to incur from windstorm, fire, explosion and earthquake. but what will be the largest insured property
+loss in history (after adding related business-interruption claims) originated from none of these forces. in short, all
+of us in the industry made a fundamental underwriting mistake by focusing on experience, rather than exposure,
+thereby assuming a huge terrorism risk for which we received no premium.
+experience, of course, is a highly useful starting point in underwriting most coverages. for example, it’s
+important for insurers writing california earthquake policies to know how many quakes in the state during the past
+century have registered 6.0 or greater on the richter scale. this information will not tell you the exact probability
+of a big quake next year, or where in the state it might happen. but the statistic has utility, particularly if you are
+writing a huge statewide policy, as national indemnity has done in recent years.
+at certain times, however, using experience as a guide to pricing is not only useless, but actually
+dangerous. late in a bull market, for example, large losses from directors and officers liability insurance (“d&o”)
+are likely to be relatively rare. when stocks are rising, there are a scarcity of targets to sue, and both questionable
+accounting and management chicanery often go undetected. at that juncture, experience on high-limit d&o may
+look great.
+but that’s just when exposure is likely to be exploding, by way of ridiculous public offerings, earnings
+manipulation, chain-letter-like stock promotions and a potpourri of other unsavory activities. when stocks fall,
+these sins surface, hammering investors with losses that can run into the hundreds of billions. juries deciding
+whether those losses should be borne by small investors or big insurance companies can be expected to hit insurers
+with verdicts that bear little relation to those delivered in bull-market days. even one jumbo judgment, moreover,
+can cause settlement costs in later cases to mushroom. consequently, the correct rate for d&o “excess” (meaning
+the insurer or reinsurer will pay losses above a high threshold) might well, if based on exposure, be five or more
+times the premium dictated by experience.
+insurers have always found it costly to ignore new exposures. doing that in the case of terrorism,
+however, could literally bankrupt the industry. no one knows the probability of a nuclear detonation in a major
+metropolis this year (or even multiple detonations, given that a terrorist organization able to construct one bomb
+might not stop there). nor can anyone, with assurance, assess the probability in this year, or another, of deadly
+biological or chemical agents being introduced simultaneously (say, through ventilation systems) into multiple
+office buildings and manufacturing plants. an attack like that would produce astronomical workers’ compensation
+claims.
+here’s what we do know:
+(a)
+
+the probability of such mind-boggling disasters, though likely very low at present, is not zero.
+
+(b)
+
+the probabilities are increasing, in an irregular and immeasurable manner, as knowledge and
+materials become available to those who wish us ill. fear may recede with time, but the danger
+won’t – the war against terrorism can never be won. the best the nation can achieve is a long
+succession of stalemates. there can be no checkmate against hydra-headed foes.
+
+(c)
+
+until now, insurers and reinsurers have blithely assumed the financial consequences from the
+incalculable risks i have described.
+
+(d)
+
+under a “close-to-worst-case” scenario, which could conceivably involve $1 trillion of damage,
+the insurance industry would be destroyed unless it manages in some manner to dramatically limit
+its assumption of terrorism risks. only the u.s. government has the resources to absorb such a
+blow. if it is unwilling to do so on a prospective basis, the general citizenry must bear its own
+risks and count on the government to come to its rescue after a disaster occurs.
+
+8
+
+why, you might ask, didn’t i recognize the above facts before september 11th? the answer, sadly, is that i
+did – but i didn’t convert thought into action. i violated the noah rule: predicting rain doesn’t count; building arks
+does. i consequently let berkshire operate with a dangerous level of risk – at general re in particular. i’m sorry to
+say that much risk for which we haven’t been compensated remains on our books, but it is running off by the day.
+at berkshire, it should be noted, we have for some years been willing to assume more risk than any other
+insurer has knowingly taken on. that’s still the case. we are perfectly willing to lose $2 billion to $2½ billion in a
+single event (as we did on september 11th) if we have been paid properly for assuming the risk that caused the loss
+(which on that occasion we weren’t).
+indeed, we have a major competitive advantage because of our tolerance for huge losses. berkshire has
+massive liquid resources, substantial non-insurance earnings, a favorable tax position and a knowledgeable
+shareholder constituency willing to accept volatility in earnings. this unique combination enables us to assume
+risks that far exceed the appetite of even our largest competitors. over time, insuring these jumbo risks should be
+profitable, though periodically they will bring on a terrible year.
+the bottom-line today is that we will write some coverage for terrorist-related losses, including a few noncorrelated policies with very large limits. but we will not knowingly expose berkshire to losses beyond what we
+can comfortably handle. we will control our total exposure, no matter what the competition does.
+insurance operations in 2001
+over the years, our insurance business has provided ever-growing, low-cost funds that have fueled much
+of berkshire’s growth. charlie and i believe this will continue to be the case. but we stumbled in a big way in
+2001, largely because of underwriting losses at general re.
+in the past i have assured you that general re was underwriting with discipline – and i have been proven
+wrong. though its managers’ intentions were good, the company broke each of the three underwriting rules i set
+forth in the last section and has paid a huge price for doing so. one obvious cause for its failure is that it did not
+reserve correctly – more about this in the next section – and therefore severely miscalculated the cost of the product
+it was selling. not knowing your costs will cause problems in any business. in long-tail reinsurance, where years
+of unawareness will promote and prolong severe underpricing, ignorance of true costs is dynamite.
+additionally, general re was overly-competitive in going after, and retaining, business. while all
+concerned may intend to underwrite with care, it is nonetheless difficult for able, hard-driving professionals to curb
+their urge to prevail over competitors. if “winning,” however, is equated with market share rather than profits,
+trouble awaits. “no” must be an important part of any underwriter’s vocabulary.
+at the risk of sounding pollyannaish, i now assure you that underwriting discipline is being restored at
+general re (and its cologne re subsidiary) with appropriate urgency. joe brandon was appointed general re’s
+ceo in september and, along with tad montross, its new president, is committed to producing underwriting
+profits. last fall, charlie and i read jack welch’s terrific book, jack, straight from the gut (get a copy!). in
+discussing it, we agreed that joe has many of jack’s characteristics: he is smart, energetic, hands-on, and expects
+much of both himself and his organization.
+when it was an independent company, general re often shone, and now it also has the considerable
+strengths berkshire brings to the table. with that added advantage and with underwriting discipline restored,
+general re should be a huge asset for berkshire. i predict that joe and tad will make it so.
+************
+at the national indemnity reinsurance operation, ajit jain continues to add enormous value to berkshire.
+working with only 18 associates, ajit manages one of the world’s largest reinsurance operations measured by
+assets, and the largest, based upon the size of individual risks assumed.
+i have known the details of almost every policy that ajit has written since he came with us in 1986, and
+never on even a single occasion have i seen him break any of our three underwriting rules. his extraordinary
+discipline, of course, does not eliminate losses; it does, however, prevent foolish losses. and that’s the key: just as
+is the case in investing, insurers produce outstanding long-term results primarily by avoiding dumb decisions, rather
+than by making brilliant ones.
+
+9
+
+since september 11th, ajit has been particularly busy. among the policies we have written and retained
+entirely for our own account are (1) $578 million of property coverage for a south american refinery once a loss
+there exceeds $1 billion; (2) $1 billion of non-cancelable third-party liability coverage for losses arising from acts of
+terrorism at several large international airlines; (3) £500 million of property coverage on a large north sea oil
+platform, covering losses from terrorism and sabotage, above £600 million that the insured retained or reinsured
+elsewhere; and (4) significant coverage on the sears tower, including losses caused by terrorism, above a $500
+million threshold. we have written many other jumbo risks as well, such as protection for the world cup soccer
+tournament and the 2002 winter olympics. in all cases, however, we have attempted to avoid writing groups of
+policies from which losses might seriously aggregate. we will not, for example, write coverages on a large number
+of office and apartment towers in a single metropolis without excluding losses from both a nuclear explosion and
+the fires that would follow it.
+no one can match the speed with which ajit can offer huge policies. after september 11th, his quickness
+to respond, always important, has become a major competitive advantage. so, too, has our unsurpassed financial
+strength. some reinsurers – particularly those who, in turn, are accustomed to laying off much of their business on a
+second layer of reinsurers known as retrocessionaires – are in a weakened condition and would have difficulty
+surviving a second mega-cat. when a daisy chain of retrocessionaires exists, a single weak link can pose trouble for
+all. in assessing the soundness of their reinsurance protection, insurers must therefore apply a stress test to all
+participants in the chain, and must contemplate a catastrophe loss occurring during a very unfavorable economic
+environment. after all, you only find out who is swimming naked when the tide goes out. at berkshire, we retain
+our risks and depend on no one. and whatever the world’s problems, our checks will clear.
+ajit’s business will ebb and flow – but his underwriting principles won’t waver. it’s impossible to
+overstate his value to berkshire.
+************
+geico, by far our largest primary insurer, made major progress in 2001, thanks to tony nicely, its ceo,
+and his associates. quite simply, tony is an owner’s dream.
+geico’s premium volume grew 6.6% last year, its float grew $308 million, and it achieved an
+underwriting profit of $221 million. this means we were actually paid that amount last year to hold the $4.25
+billion in float, which of course doesn’t belong to berkshire but can be used by us for investment.
+the only disappointment at geico in 2001 – and it’s an important one – was our inability to add
+policyholders. our preferred customers (81% of our total) grew by 1.6% but our standard and non-standard policies
+fell by 10.1%. overall, policies in force fell .8%.
+new business has improved in recent months. our closure rate from telephone inquiries has climbed, and
+our internet business continues its steady growth. we, therefore, expect at least a modest gain in policy count
+during 2002. tony and i are eager to commit much more to marketing than the $219 million we spent last year, but
+at the moment we cannot see how to do so effectively. in the meantime, our operating costs are low and far below
+those of our major competitors; our prices are attractive; and our float is cost-free and growing.
+************
+our other primary insurers delivered their usual fine results last year. these operations, run by rod
+eldred, john kizer, tom nerney, michael stearns, don towle and don wurster had combined premium volume of
+$579 million, up 40% over 2000. their float increased 14.5% to $685 million, and they recorded an underwriting
+profit of $30 million. in aggregate, these companies are one of the finest insurance operations in the country, and
+their 2002 prospects look excellent.
+“loss development” and insurance accounting
+bad terminology is the enemy of good thinking. when companies or investment professionals use terms
+such as “ebitda” and “pro forma,” they want you to unthinkingly accept concepts that are dangerously flawed.
+(in golf, my score is frequently below par on a pro forma basis: i have firm plans to “restructure” my putting stroke
+and therefore only count the swings i take before reaching the green.)
+
+10
+
+in insurance reporting, “loss development” is a widely used term – and one that is seriously misleading.
+first, a definition: loss reserves at an insurer are not funds tucked away for a rainy day, but rather a liability
+account. if properly calculated, the liability states the amount that an insurer will have to pay for all losses
+(including associated costs) that have occurred prior to the reporting date but have not yet been paid. when
+calculating the reserve, the insurer will have been notified of many of the losses it is destined to pay, but others will
+not yet have been reported to it. these losses are called ibnr, for incurred but not reported. indeed, in some cases
+(involving, say, product liability or embezzlement) the insured itself will not yet be aware that a loss has occurred.
+it’s clearly difficult for an insurer to put a figure on the ultimate cost of all such reported and unreported
+events. but the ability to do so with reasonable accuracy is vital. otherwise the insurer’s managers won’t know
+what its actual loss costs are and how these compare to the premiums being charged. geico got into huge trouble
+in the early 1970s because for several years it severely underreserved, and therefore believed its product (insurance
+protection) was costing considerably less than was truly the case. consequently, the company sailed blissfully
+along, underpricing its product and selling more and more policies at ever-larger losses.
+when it becomes evident that reserves at past reporting dates understated the liability that truly existed at
+the time, companies speak of “loss development.” in the year discovered, these shortfalls penalize reported
+earnings because the “catch-up” costs from prior years must be added to current-year costs when results are
+calculated. this is what happened at general re in 2001: a staggering $800 million of loss costs that actually
+occurred in earlier years, but that were not then recorded, were belatedly recognized last year and charged against
+current earnings. the mistake was an honest one, i can assure you of that. nevertheless, for several years, this
+underreserving caused us to believe that our costs were much lower than they truly were, an error that contributed to
+woefully inadequate pricing. additionally, the overstated profit figures led us to pay substantial incentive
+compensation that we should not have and to incur income taxes far earlier than was necessary.
+we recommend scrapping the term “loss development” and its equally ugly twin, “reserve strengthening.”
+(can you imagine an insurer, upon finding its reserves excessive, describing the reduction that follows as “reserve
+weakening”?) “loss development” suggests to investors that some natural, uncontrollable event has occurred in the
+current year, and “reserve strengthening” implies that adequate amounts have been further buttressed. the truth,
+however, is that management made an error in estimation that in turn produced an error in the earnings previously
+reported. the losses didn’t “develop” – they were there all along. what developed was management’s
+understanding of the losses (or, in the instances of chicanery, management’s willingness to finally fess up).
+a more forthright label for the phenomenon at issue would be “loss costs we failed to recognize when they
+occurred” (or maybe just “oops”). underreserving, it should be noted, is a common – and serious – problem
+throughout the property/casualty insurance industry. at berkshire we told you of our own problems with
+underestimation in 1984 and 1986. generally, however, our reserving has been conservative.
+major underreserving is common in cases of companies struggling for survival. in effect, insurance
+accounting is a self-graded exam, in that the insurer gives some figures to its auditing firm and generally doesn’t get
+an argument. (what the auditor gets, however, is a letter from management that is designed to take his firm off the
+hook if the numbers later look silly.) a company experiencing financial difficulties – of a kind that, if truly faced,
+could put it out of business – seldom proves to be a tough grader. who, after all, wants to prepare his own
+execution papers?
+even when companies have the best of intentions, it’s not easy to reserve properly. i’ve told the story in
+the past about the fellow traveling abroad whose sister called to tell him that their dad had died. the brother replied
+that it was impossible for him to get home for the funeral; he volunteered, however, to shoulder its cost. upon
+returning, the brother received a bill from the mortuary for $4,500, which he promptly paid. a month later, and a
+month after that also, he paid $10 pursuant to an add-on invoice. when a third $10 invoice came, he called his
+sister for an explanation. “oh,” she replied, “i forgot to tell you. we buried dad in a rented suit.”
+there are a lot of “rented suits” buried in the past operations of insurance companies. sometimes the
+problems they signify lie dormant for decades, as was the case with asbestos liability, before virulently manifesting
+themselves. difficult as the job may be, it’s management’s responsibility to adequately account for all possibilities.
+conservatism is essential. when a claims manager walks into the ceo’s office and says “guess what just
+happened,” his boss, if a veteran, does not expect to hear it’s good news. surprises in the insurance world have
+been far from symmetrical in their effect on earnings.
+
+11
+
+because of this one-sided experience, it is folly to suggest, as some are doing, that all property/casualty
+insurance reserves be discounted, an approach reflecting the fact that they will be paid in the future and that
+therefore their present value is less than the stated liability for them. discounting might be acceptable if reserves
+could be precisely established. they can’t, however, because a myriad of forces – judicial broadening of policy
+language and medical inflation, to name just two chronic problems – are constantly working to make reserves
+inadequate. discounting would exacerbate this already-serious situation and, additionally, would provide a new
+tool for the companies that are inclined to fudge.
+i’d say that the effects from telling a profit-challenged insurance ceo to lower reserves through
+discounting would be comparable to those that would ensue if a father told his 16-year-old son to have a normal sex
+life. neither party needs that kind of push.
+sources of reported earnings
+the table that follows shows the main sources of berkshire's reported earnings. in this presentation,
+purchase-accounting adjustments (primarily relating to “goodwill”) are not assigned to the specific businesses to
+which they apply, but are instead aggregated and shown separately. this procedure lets you view the earnings of
+our businesses as they would have been reported had we not purchased them. in recent years, our “expense” for
+goodwill amortization has been large. going forward, generally accepted accounting principles (“gaap”) will no
+longer require amortization of goodwill. this change will increase our reported earnings (though not our true
+economic earnings) and simplify this section of the report.
+(in millions)
+berkshire’s share
+of net earnings
+(after taxes and
+minority interests)
+pre-tax earnings
+2001
+2000
+2001
+2000
+operating earnings:
+insurance group:
+underwriting – reinsurance...................................
+underwriting – geico ..........................................
+underwriting – other primary ...............................
+net investment income ..........................................
+building products(1) ...................................................
+finance and financial products business .................
+flight services...........................................................
+midamerican energy (76% owned) .........................
+retail operations.......................................................
+scott fetzer (excluding finance operation) ...............
+shaw industries(2) ......................................................
+other businesses .......................................................
+purchase-accounting adjustments ...........................
+corporate interest expense .......................................
+shareholder-designated contributions .....................
+other .........................................................................
+operating earnings ......................................................
+capital gains from investments...................................
+total earnings – all entities........................................
+(1)
+
+(2)
+
+$(4,318)
+221
+30
+2,824
+461
+519
+186
+600
+175
+129
+292
+179
+(726)
+(92)
+(17)
+25
+488
+1,320
+$1,808
+
+$(1,416)
+(224)
+25
+2,773
+34
+530
+213
+197
+175
+122
+-221
+(881)
+(92)
+(17)
+39
+1,699
+3,955
+$5,654
+
+$(2,824)
+144
+18
+1,968
+287
+336
+105
+230
+101
+83
+156
+103
+(699)
+(60)
+(11)
+16
+(47)
+842
+$ 795
+
+$(911)
+(146)
+16
+1,946
+21
+343
+126
+109
+104
+80
+-133
+(843)
+(61)
+(11)
+30
+936
+2,392
+$3,328
+
+includes acme brick from august 1, 2000; benjamin moore from december 18, 2000; johns manville from february 27,
+2001; and mitek from july 31, 2001.
+from date of acquisition, january 8, 2001.
+
+12
+
+here are some highlights (and lowlights) from 2001 relating to our non-insurance activities:
+•
+
+our shoe operations (included in “other businesses”) lost $46.2 million pre-tax, with profits at h.h. brown
+and justin swamped by losses at dexter.
+i’ve made three decisions relating to dexter that have hurt you in a major way: (1) buying it in the first place;
+(2) paying for it with stock and (3) procrastinating when the need for changes in its operations was obvious. i
+would like to lay these mistakes on charlie (or anyone else, for that matter) but they were mine. dexter, prior
+to our purchase – and indeed for a few years after – prospered despite low-cost foreign competition that was
+brutal. i concluded that dexter could continue to cope with that problem, and i was wrong.
+we have now placed the dexter operation – which is still substantial in size – under the management of frank
+rooney and jim issler at h.h. brown. these men have performed outstandingly for berkshire, skillfully
+contending with the extraordinary changes that have bedeviled the footwear industry. during part of 2002,
+dexter will be hurt by unprofitable sales commitments it made last year. after that, we believe our shoe
+business will be reasonably profitable.
+
+•
+
+midamerican energy, of which we own 76% on a fully-diluted basis, had a good year in 2001. its reported
+earnings should also increase considerably in 2002 given that the company has been shouldering a large
+charge for the amortization of goodwill and that this “cost” will disappear under the new gaap rules.
+last year midamerican swapped some properties in england, adding yorkshire electric, with its 2.1 million
+customers. we are now serving 3.6 million customers in the u.k. and are its 2nd largest electric utility. we
+have an equally important operation in iowa as well as major generating facilities in california and the
+philippines.
+at midamerican – this may surprise you – we also own the second-largest residential real estate brokerage
+business in the country. we are market-share leaders in a number of large cities, primarily in the midwest, and
+have recently acquired important firms in atlanta and southern california. last year, operating under various
+names that are locally familiar, we handled about 106,000 transactions involving properties worth nearly $20
+billion. ron peltier has built this business for us, and it’s likely he will make more acquisitions in 2002 and
+the years to come.
+
+•
+
+considering the recessionary environment plaguing them, our retailing operations did well in 2001. in
+jewelry, same-store sales fell 7.6% and pre-tax margins were 8.9% versus 10.7% in 2000. return on invested
+capital remains high.
+same-store sales at our home-furnishings retailers were unchanged and so was the margin – 9.1% pre-tax –
+these operations earned. here, too, return on invested capital is excellent.
+we continue to expand in both jewelry and home-furnishings. of particular note, nebraska furniture mart is
+constructing a mammoth 450,000 square foot store that will serve the greater kansas city area beginning in
+the fall of 2003. despite bill child’s counter-successes, we will keep this store open on sundays.
+
+•
+
+the large acquisitions we initiated in late 2000 – shaw, johns manville and benjamin moore – all came
+through their first year with us in great fashion. charlie and i knew at the time of our purchases that we were
+in good hands with bob shaw, jerry henry and yvan dupuy, respectively – and we admire their work even
+more now. together these businesses earned about $659 million pre-tax.
+shortly after yearend we exchanged 4,740 berkshire a shares (or their equivalent in b shares) for the 12.7%
+minority interest in shaw, which means we now own 100% of the company. shaw is our largest noninsurance operation and will play a big part in berkshire’s future.
+
+•
+
+all of the income shown for flight services in 2001 – and a bit more – came from flightsafety, our pilottraining subsidiary. its earnings increased 2.5%, though return on invested capital fell slightly because of the
+$258 million investment we made last year in simulators and other fixed assets. my 84-year-old friend, al
+ueltschi, continues to run flightsafety with the same enthusiasm and competitive spirit that he has exhibited
+since 1951, when he invested $10,000 to start the company. if i line al up with a bunch of 60-year-olds at the
+annual meeting, you will not be able to pick him out.
+
+13
+
+after september 11th, training for commercial airlines fell, and today it remains depressed. however, training
+for business and general aviation, our main activity, is at near-normal levels and should continue to grow. in
+2002, we expect to spend $162 million for 27 simulators, a sum far in excess of our annual depreciation charge
+of $95 million. those who believe that ebitda is in any way equivalent to true earnings are welcome to pick
+up the tab.
+our netjets® fractional ownership program sold a record number of planes last year and also showed a gain of
+21.9% in service income from management fees and hourly charges. nevertheless, it operated at a small loss,
+versus a small profit in 2000. we made a little money in the u.s., but these earnings were more than offset by
+european losses. measured by the value of our customers’ planes, netjets accounts for about half of the
+industry. we believe the other participants, in aggregate, lost significant money.
+maintaining a premier level of safety, security and service was always expensive, and the cost of sticking to
+those standards was exacerbated by september 11th. no matter how much the cost, we will continue to be the
+industry leader in all three respects. an uncompromising insistence on delivering only the best to his
+customers is embedded in the dna of rich santulli, ceo of the company and the inventor of fractional
+ownership. i’m delighted with his fanaticism on these matters for both the company’s sake and my family’s: i
+believe the buffetts fly more fractional-ownership hours – we log in excess of 800 annually – than does any
+other family. in case you’re wondering, we use exactly the same planes and crews that serve netjet’s other
+customers.
+netjets experienced a spurt in new orders shortly after september 11th, but its sales pace has since returned to
+normal. per-customer usage declined somewhat during the year, probably because of the recession.
+both we and our customers derive significant operational benefits from our being the runaway leader in the
+fractional ownership business. we have more than 300 planes constantly on the go in the u.s. and can
+therefore be wherever a customer needs us on very short notice. the ubiquity of our fleet also reduces our
+“positioning” costs below those incurred by operators with smaller fleets.
+these advantages of scale, and others we have, give netjets a significant economic edge over competition.
+under the competitive conditions likely to prevail for a few years, however, our advantage will at best produce
+modest profits.
+•
+
+our finance and financial products line of business now includes xtra, general re securities (which is in a
+run-off mode that will continue for an extended period) and a few other relatively small operations. the bulk
+of the assets and liabilities in this segment, however, arise from a few fixed-income strategies, involving
+highly-liquid aaa securities, that i manage. this activity, which only makes sense when certain market
+relationships exist, has produced good returns in the past and has reasonable prospects for continuing to do so
+over the next year or two.
+
+investments
+below we present our common stock investments. those that had a market value of more than $500
+million at the end of 2001 are itemized.
+shares
+151,610,700
+200,000,000
+96,000,000
+15,999,200
+24,000,000
+1,727,765
+53,265,080
+
+company
+american express company.....................................................................
+the coca-cola company ..........................................................................
+the gillette company ...............................................................................
+h&r block, inc. .......................................................................................
+moody’s corporation ................................................................................
+the washington post company................................................................
+wells fargo & company ..........................................................................
+others ........................................................................................................
+total common stocks...............................................................................
+
+14
+
+12/31/01
+cost
+market
+(dollars in millions)
+$ 1,470
+$ 5,410
+1,299
+9,430
+600
+3,206
+255
+715
+499
+957
+11
+916
+306
+2,315
+4,103
+5,726
+$8,543
+$28,675
+
+we made few changes in our portfolio during 2001. as a group, our larger holdings have performed
+poorly in the last few years, some because of disappointing operating results. charlie and i still like the basic
+businesses of all the companies we own. but we do not believe berkshire’s equity holdings as a group are
+undervalued.
+our restrained enthusiasm for these securities is matched by decidedly lukewarm feelings about the
+prospects for stocks in general over the next decade or so. i expressed my views about equity returns in a speech i
+gave at an allen and company meeting in july (which was a follow-up to a similar presentation i had made two
+years earlier) and an edited version of my comments appeared in a december 10th fortune article. i’m enclosing a
+copy of that article.
+you can also view the fortune version of my 1999 talk at our website
+www.berkshirehathaway.com.
+charlie and i believe that american business will do fine over time but think that today’s equity prices
+presage only moderate returns for investors. the market outperformed business for a very long period, and that
+phenomenon had to end. a market that no more than parallels business progress, however, is likely to leave many
+investors disappointed, particularly those relatively new to the game.
+here’s one for those who enjoy an odd coincidence: the great bubble ended on march 10, 2000 (though
+we didn’t realize that fact until some months later). on that day, the nasdaq (recently 1,731) hit its all-time high
+of 5,132. that same day, berkshire shares traded at $40,800, their lowest price since mid-1997.
+************
+during 2001, we were somewhat more active than usual in “junk” bonds. these are not, we should
+emphasize, suitable investments for the general public, because too often these securities live up to their name. we
+have never purchased a newly-issued junk bond, which is the only kind most investors are urged to buy. when
+losses occur in this field, furthermore, they are often disastrous: many issues end up at a small fraction of their
+original offering price and some become entirely worthless.
+despite these dangers, we periodically find a few – a very few – junk securities that are interesting to us.
+and, so far, our 50-year experience in distressed debt has proven rewarding. in our 1984 annual report, we
+described our purchases of washington public power system bonds when that issuer fell into disrepute. we’ve
+also, over the years, stepped into other apparent calamities such as chrysler financial, texaco and rjr nabisco –
+all of which returned to grace. still, if we stay active in junk bonds, you can expect us to have losses from time to
+time.
+occasionally, a purchase of distressed bonds leads us into something bigger. early in the fruit of the
+loom bankruptcy, we purchased the company’s public and bank debt at about 50% of face value. this was an
+unusual bankruptcy in that interest payments on senior debt were continued without interruption, which meant we
+earned about a 15% current return. our holdings grew to 10% of fruit’s senior debt, which will probably end up
+returning us about 70% of face value. through this investment, we indirectly reduced our purchase price for the
+whole company by a small amount.
+in late 2000, we began purchasing the obligations of finova group, a troubled finance company, and
+that, too, led to our making a major transaction. finova then had about $11 billion of debt outstanding, of which
+we purchased 13% at about two-thirds of face value. we expected the company to go into bankruptcy, but believed
+that liquidation of its assets would produce a payoff for creditors that would be well above our cost. as default
+loomed in early 2001, we joined forces with leucadia national corporation to present the company with a
+prepackaged plan for bankruptcy.
+the plan as subsequently modified (and i’m simplifying here) provided that creditors would be paid 70%
+of face value (along with full interest) and that they would receive a newly-issued 7½% note for the 30% of their
+claims not satisfied by cash. to fund finova’s 70% distribution, leucadia and berkshire formed a jointly-owned
+entity – mellifluently christened berkadia – that borrowed $5.6 billion through fleetboston and, in turn, re-lent this
+sum to finova, concurrently obtaining a priority claim on its assets. berkshire guaranteed 90% of the berkadia
+borrowing and also has a secondary guarantee on the 10% for which leucadia has primary responsibility. (did i
+mention that i am simplifying?).
+
+15
+
+there is a spread of about two percentage points between what berkadia pays on its borrowing and what it
+receives from finova, with this spread flowing 90% to berkshire and 10% to leucadia. as i write this, each loan
+has been paid down to $3.9 billion.
+as part of the bankruptcy plan, which was approved on august 10, 2001, berkshire also agreed to offer
+70% of face value for up to $500 million principal amount of the $3.25 billion of new 7½% bonds that were issued
+by finova. (of these, we had already received $426.8 million in principal amount because of our 13% ownership
+of the original debt.) our offer, which was to run until september 26, 2001, could be withdrawn under a variety of
+conditions, one of which became operative if the new york stock exchange closed during the offering period.
+when that indeed occurred in the week of september 11th, we promptly terminated the offer.
+many of finova’s loans involve aircraft assets whose values were significantly diminished by the events
+of september 11th. other receivables held by the company also were imperiled by the economic consequences of
+the attack that day. finova’s prospects, therefore, are not as good as when we made our proposal to the
+bankruptcy court. nevertheless we feel that overall the transaction will prove satisfactory for berkshire. leucadia
+has day-to-day operating responsibility for finova, and we have long been impressed with the business acumen
+and managerial talent of its key executives.
+************
+it’s déjà vu time again: in early 1965, when the investment partnership i ran took control of berkshire, that
+company had its main banking relationships with first national bank of boston and a large new york city bank.
+previously, i had done no business with either.
+fast forward to 1969, when i wanted berkshire to buy the illinois national bank and trust of rockford.
+we needed $10 million, and i contacted both banks. there was no response from new york. however, two
+representatives of the boston bank immediately came to omaha. they told me they would supply the money for
+our purchase and that we would work out the details later.
+for the next three decades, we borrowed almost nothing from banks. (debt is a four-letter word around
+berkshire.) then, in february, when we were structuring the finova transaction, i again called boston, where
+first national had morphed into fleetboston. chad gifford, the company’s president, responded just as bill brown
+and ira stepanian had back in 1969 – “you’ve got the money and we’ll work out the details later.”
+and that’s just what happened. fleetboston syndicated a loan for $6 billion (as it turned out, we didn’t
+need $400 million of it), and it was quickly oversubscribed by 17 banks throughout the world. sooooo . . . if you
+ever need $6 billion, just give chad a call – assuming, that is, your credit is aaa.
+************
+one more point about our investments: the media often report that “buffett is buying” this or that security,
+having picked up the “fact” from reports that berkshire files. these accounts are sometimes correct, but at other
+times the transactions berkshire reports are actually being made by lou simpson, who runs a $2 billion portfolio for
+geico that is quite independent of me. normally, lou does not tell me what he is buying or selling, and i learn of
+his activities only when i look at a geico portfolio summary that i receive a few days after the end of each month.
+lou’s thinking, of course, is quite similar to mine, but we usually end up in different securities. that’s largely
+because he’s working with less money and can therefore invest in smaller companies than i. oh, yes, there’s also
+another minor difference between us: in recent years, lou’s performance has been far better than mine.
+
+16
+
+charitable contributions
+berkshire follows a highly unusual policy in respect to charitable contributions – but it’s one that charlie
+and i believe is both rational and fair to owners.
+first, we let our operating subsidiaries make their own charitable decisions, requesting only that the
+owners/managers who once ran these as independent companies make all donations to their personal charities from
+their own funds, instead of using company money. when our managers are using company funds, we trust them to
+make gifts in a manner that delivers commensurate tangible or intangible benefits to the operations they manage.
+last year contributions from berkshire subsidiaries totaled $19.2 million.
+at the parent company level, we make no contributions except those designated by shareholders. we do
+not match contributions made by directors or employees, nor do we give to the favorite charities of the buffetts or
+the mungers. however, prior to our purchasing them, a few of our subsidiaries had employee-match programs and
+we feel fine about their continuing them: it’s not our style to tamper with successful business cultures.
+to implement our owners’ charitable desires, each year we notify registered holders of a shares (a’s
+represent 86.6% of our equity capital) of a per-share amount that they can instruct us to contribute to as many as
+three charities. shareholders name the charity; berkshire writes the check. any organization that qualifies under
+the internal revenue code can be designated by shareholders. last year berkshire made contributions of $16.7
+million at the direction of 5,700 shareholders, who named 3,550 charities as recipients. since we started this
+program, our shareholders’ gifts have totaled $181 million.
+most public corporations eschew gifts to religious institutions. these, however, are favorite charities of
+our shareholders, who last year named 437 churches and synagogues to receive gifts. additionally, 790 schools
+were recipients. a few of our larger shareholders, including charlie and me, designate their personal foundations to
+get gifts, so that those entities can, in turn, disburse their funds widely.
+i get a few letters every week criticizing berkshire for contributing to planned parenthood. these letters
+are usually prompted by an organization that wishes to see boycotts of berkshire products. the letters are
+invariably polite and sincere, but their writers are unaware of a key point: it’s not berkshire, but rather its owners
+who are making charitable decisions – and these owners are about as diverse in their opinions as you can imagine.
+for example, they are probably on both sides of the abortion issue in roughly the same proportion as the american
+population. we’ll follow their instructions, whether they designate planned parenthood or metro right to life, just
+as long as the charity possesses 501(c)(3) status. it’s as if we paid a dividend, which the shareholder then donated.
+our form of disbursement, however, is more tax-efficient.
+in neither the purchase of goods nor the hiring of personnel, do we ever consider the religious views, the
+gender, the race or the sexual orientation of the persons we are dealing with. it would not only be wrong to do so, it
+would be idiotic. we need all of the talent we can find, and we have learned that able and trustworthy managers,
+employees and suppliers come from a very wide spectrum of humanity.
+***********
+to participate in our future charitable contribution programs, you must own class a shares that are
+registered in the name of the actual owner, not the nominee name of a broker, bank or depository. shares not so
+registered on august 31, 2002 will be ineligible for the 2002 program. when you get the contributions form from
+us, return it promptly. designations received after the due date will not be honored.
+
+17
+
+the annual meeting
+this year’s annual meeting will be on saturday, may 4, and we will again be at the civic auditorium. the
+doors will open at 7 a.m., the movie will begin at 8:30, and the meeting itself will commence at 9:30. there will be
+a short break at noon for food. (sandwiches can be bought at the civic’s concession stands.) except for that
+interlude, charlie and i will answer questions until 3:30. give us your best shot.
+for at least the next year, the civic, located downtown, is the only site available to us. we must therefore
+hold the meeting on either saturday or sunday to avoid the traffic and parking nightmare sure to occur on a
+weekday. shortly, however, omaha will have a new convention center with plenty of parking facilities. assuming
+that we then head for the center, i will poll shareholders to see whether you wish to return to the monday meeting
+that was standard until 2000. we will decide that vote based on a count of shareholders, not shares. (this is not a
+system, however, we will ever institute to decide who should be ceo.)
+an attachment to the proxy material that is enclosed with this report explains how you can obtain the
+credential you will need for admission to the meeting and other events. as for plane, hotel and car reservations, we
+have again signed up american express (800-799-6634) to give you special help. they do a terrific job for us each
+year, and i thank them for it.
+in our usual fashion, we will run buses from the larger hotels to the meeting. afterwards, the buses will
+make trips back to the hotels and to nebraska furniture mart, borsheim’s and the airport. even so, you are likely to
+find a car useful.
+we have added so many new companies to berkshire this year that i’m not going to detail all of the
+products that we will be selling at the meeting. but come prepared to carry home everything from bricks to candy.
+and underwear, of course. assuming our fruit of the loom purchase has closed by may 4, we will be selling
+fruit’s latest styles, which will make you your neighborhood’s fashion leader. buy a lifetime supply.
+geico will have a booth staffed by a number of its top counselors from around the country, all of them
+ready to supply you with auto insurance quotes. in most cases, geico will be able to give you a special
+shareholder discount (usually 8%). this special offer is permitted by 41 of the 49 jurisdictions in which we operate.
+bring the details of your existing insurance and check out whether we can save you money.
+at the omaha airport on saturday, we will have the usual array of aircraft from netjets® available for your
+inspection. just ask a representative at the civic about viewing any of these planes. if you buy what we consider an
+appropriate number of items during the weekend, you may well need your own plane to take them home. and, if
+you buy a fraction of a plane, we might even throw in a three-pack of briefs or boxers.
+at nebraska furniture mart, located on a 75-acre site on 72nd street between dodge and pacific, we will
+again be having “berkshire weekend” pricing, which means we will be offering our shareholders a discount that is
+customarily given only to employees. we initiated this special pricing at nfm five years ago, and sales during the
+“weekend” grew from $5.3 million in 1997 to $11.5 million in 2001.
+to get the discount, you must make your purchases on thursday, may 2 through monday, may 6 and also
+present your meeting credential. the period’s special pricing will even apply to the products of several prestigious
+manufacturers that normally have ironclad rules against discounting but that, in the spirit of our shareholder
+weekend, have made an exception for you. we appreciate their cooperation. nfm is open from 10 a.m. to 9 p.m.
+on weekdays and 10 a.m. to 6 p.m. on saturdays and sundays.
+borsheim’s  the largest jewelry store in the country except for tiffany’s manhattan store  will have
+two shareholder-only events. the first will be a cocktail reception from 6 p.m. to 10 p.m. on friday, may 3. the
+second, the main gala, will be from 9 a.m. to 5 p.m. on sunday, may 5. shareholder prices will be available
+thursday through monday, so if you wish to avoid the large crowds that will assemble on friday evening and
+sunday, come at other times and identify yourself as a shareholder. on saturday, we will be open until 6 p.m.
+borsheim’s operates on a gross margin that is fully twenty percentage points below that of its major rivals, so the
+more you buy, the more you save (or at least that’s what my wife and daughter tell me). come by and let us
+perform a walletectomy on you.
+in the mall outside of borsheim’s, we will have some of the world’s top bridge experts available to play
+with our shareholders on sunday afternoon. we expect bob and petra hamman along with sharon osberg to host
+tables. patrick wolff, twice u.s. chess champion, will also be in the mall, taking on all comers  blindfolded!
+18
+
+last year, patrick played as many as six games simultaneously  with his blindfold securely in place  and this
+year will try for seven. finally, bill robertie, one of only two players who have twice won the backgammon world
+championship, will be on hand to test your skill at that game. come to the mall on sunday for the mensa olympics.
+gorat’s  my favorite steakhouse  will again be open exclusively for berkshire shareholders on sunday,
+may 5, and will be serving from 4 p.m. until 10 p.m. please remember that to come to gorat’s on sunday, you must
+have a reservation. to make one, call 402-551-3733 on april 1 (but not before). if sunday is sold out, try gorat’s
+on one of the other evenings you will be in town. show your sophistication by ordering a rare t-bone with a double
+order of hash browns.
+the usual baseball game will be held at rosenblatt stadium at 7 p.m. on saturday night. this year the
+omaha royals will play the oklahoma redhawks. last year, in an attempt to emulate the career switch of babe
+ruth, i gave up pitching and tried batting. bob gibson, an omaha native, was on the mound and i was terrified,
+fearing bob’s famous brush-back pitch. instead, he delivered a fast ball in the strike zone, and with a mark
+mcgwire-like swing, i managed to connect for a hard grounder, which inexplicably died in the infield. i didn’t run
+it out: at my age, i get winded playing a hand of bridge.
+i’m not sure what will take place at the ballpark this year, but come out and be surprised. our proxy
+statement contains instructions for obtaining tickets to the game. those people ordering tickets to the annual
+meeting will receive a booklet containing all manner of information that should help you enjoy your visit in omaha.
+there will be plenty of action in town. so come for woodstock weekend and join our celebration of capitalism at
+the civic.
+************
+finally, i would like to thank the wonderful and incredibly productive crew at world headquarters (all
+5,246.5 square feet of it) who make my job so easy. berkshire added about 40,000 employees last year, bringing
+our workforce to 110,000. at headquarters we added one employee and now have 14.8. (i’ve tried in vain to get
+joellen rieck to change her workweek from four days to five; i think she likes the national recognition she gains by
+being .8.)
+the smooth handling of the array of duties that come with our current size and scope – as well as some
+additional activities almost unique to berkshire, such as our shareholder gala and designated-gifts program – takes a
+very special group of people. and that we most definitely have.
+
+february 28, 2002
+
+warren e. buffett
+chairman of the board
+
+19
+
+

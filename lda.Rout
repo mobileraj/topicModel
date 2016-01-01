@@ -1,0 +1,65 @@
+
+R version 3.2.2 (2015-08-14) -- "Fire Safety"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(tm)
+Loading required package: NLP
+> setwd("/home/raj/projects/topicModels/topics")
+> fi <- list.files(getwd(),pattern="*.txt")
+> foo <- lapply(fi,readLines)
+There were 17 warnings (use warnings() to see them)
+> docs<-Corpus(VectorSource(foo))
+> docs<-tm_map(docs,content_transformer(tolower))
+> toSpace<- content_transformer(function(x,pattern) { return (gsub(pattern," ",x))})
+> docs<-tm_map(docs,toSpace,"-")
+> docs<-tm_map(docs,toSpace,"'")
+> docs<-tm_map(docs,toSpace,".")
+> docs <- tm_map(docs, removePunctuation)
+> docs <- tm_map(docs, removeNumbers)
+> docs <- tm_map(docs, removeWords, stopwords('english'))
+> docs <- tm_map(docs, stripWhitespace)
+> docs <- tm_map(docs,stemDocument)
+> myStopwords <- c('can', 'now','will','berkshire','say','one','way','use','berkshire','hathaway','berkshires','also','howev','tell','business','from','the','that','and','for','have','berkshir','year','years','company','last','however','many','every','made','next')
+> docs <- tm_map(docs, removeWords, myStopwords)
+> dtm <- DocumentTermMatrix(docs)
+> rownames(dtm) <- fi
+> freq <- colSums(as.matrix(dtm))
+> length(freq)
+[1] 0
+> ord <- order(freq,decreasing=TRUE)
+> freq[ord]
+numeric(0)
+> write.csv(freq[ord],'word_freq.csv')
+> 
+> library(topicmodels)
+> burnin <- 4000
+> iter <- 2000
+> thin <- 500
+> seed <-list(2003,5,63,100001,765)
+> nstart <- 5
+> best <- TRUE
+> k <- 5
+> 
+> rowTotals <- apply(dtm , 1, sum) #Find the sum of words in each Document
+> dtm   <- dtm[rowTotals> 0, ]
+> 
+> ldaOut <-LDA(dtm,k, method='Gibbs', control=list(nstart=nstart, seed = seed, best=best, burnin = burnin, iter = iter, thin=thin))
+Error in obj[[i]][[which.max(sapply(obj[[i]], logLik))]] : 
+  attempt to select less than one element
+Calls: LDA -> method
+Execution halted

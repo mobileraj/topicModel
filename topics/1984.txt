@@ -1,0 +1,1518 @@
+**berkshire hathaway inc.**
+    
+    
+    
+    
+    **to the shareholders of berkshire hathaway inc.:**
+    
+         our gain in net worth during 1984 was $152.6 million, or 
+    $133 per share.  this sounds pretty good but actually its 
+    mediocre.  economic gains must be evaluated by comparison with 
+    the capital that produces them.  our twenty-year compounded 
+    annual gain in book value has been 22.1% (from $19.46 in 1964 to 
+    $1108.77 in 1984), but our gain in 1984 was only 13.6%.
+    
+         as we discussed last year, the gain in per-share intrinsic 
+    business value is the economic measurement that really counts.  
+    but calculations of intrinsic business value are subjective.  in 
+    our case, book value serves as a useful, although somewhat 
+    understated, proxy.  in my judgment, intrinsic business value and 
+    book value increased during 1984 at about the same rate.
+    
+         using my academic voice, i have told you in the past of the 
+    drag that a mushrooming capital base exerts upon rates of return. 
+    unfortunately, my academic voice is now giving way to a 
+    reportorial voice.  our historical 22% rate is just that - 
+    history.  to earn even 15% annually over the next decade 
+    (assuming we continue to follow our present dividend policy, 
+    about which more will be said later in this letter) we would need 
+    profits aggregating about $3.9 billion.  accomplishing this will 
+    require a few big ideas - small ones just wont do.  charlie 
+    munger, my partner in general management, and i do not have any 
+    such ideas at present, but our experience has been that they pop 
+    up occasionally. (hows that for a strategic plan?)
+    
+    **sources of reported earnings**
+    
+         the table on the following page shows the sources of 
+    berkshires reported earnings.  berkshires net ownership 
+    interest in many of the constituent businesses changed at midyear 
+    1983 when the blue chip merger took place.  because of these 
+    changes, the first two columns of the table provide the best 
+    measure of underlying business performance.
+    
+         all of the significant gains and losses attributable to 
+    unusual sales of assets by any of the business entities are 
+    aggregated with securities transactions on the line near the 
+    bottom of the table, and are not included in operating earnings. 
+    (we regard any annual figure for realized capital gains or losses 
+    as meaningless, but we regard the aggregate realized and 
+    unrealized capital gains over a period of years as very 
+    important.) 
+    
+         furthermore, amortization of goodwill is not charged against 
+    the specific businesses but, for reasons outlined in the appendix 
+    to my letter in the 1983 annual report, is set forth as a 
+    separate item.
+    _
+                                                        (000s omitted)
+                                  ----------------------------------------------------------
+                                                                             net earnings
+                                       earnings before income taxes            after tax
+                                  --------------------------------------  ------------------
+                                        total          berkshire share     berkshire share
+                                  ------------------  ------------------  ------------------
+                                    1984      1983      1984      1983      1984      1983_
+                                  --------  --------  --------  --------  --------  --------
+    operating earnings:
+      insurance group:  
+        underwriting ............ $(48,060) $(33,872) $(48,060) $(33,872) $(25,955) $(18,400)
+        net investment income ...   68,903    43,810    68,903    43,810    62,059    39,114
+      buffalo news ..............   27,328    19,352    27,328    16,547    13,317     8,832
+      nebraska furniture mart(1)    14,511     3,812    11,609     3,049     5,917     1,521
+      sees candies .............   26,644    27,411    26,644    24,526    13,380    12,212
+      associated retail stores ..   (1,072)      697    (1,072)      697      (579)      355
+      blue chip stamps(2)           (1,843)   (1,422)   (1,843)   (1,876)     (899)     (353)
+      mutual savings and loan ...    1,456      (798)    1,166      (467)    3,151     1,917
+      precision steel ...........    4,092     3,241     3,278     2,102     1,696     1,136
+      textiles ..................      418      (100)      418      (100)      226       (63)
+      wesco financial ...........    9,777     7,493     7,831     4,844     4,828     3,448
+      amortization of goodwill ..   (1,434)     (532)   (1,434)     (563)   (1,434)     (563)
+      interest on debt ..........  (14,734)  (15,104)  (14,097)  (13,844)   (7,452)   (7,346)
+      shareholder-designated
+         contributions ..........   (3,179)   (3,066)   (3,179)   (3,066)   (1,716)   (1,656)
+      other .....................    4,932    10,121     4,529     9,623     3,476     8,490
+                                  --------  --------  --------  --------  --------  --------
+    operating earnings ..........   87,739    61,043    82,021    51,410    70,015    48,644
+    special geico distribution ..     --      19,575      --      19,575      --      18,224
+    special gen. foods distribution  8,111      --       7,896      --       7,294      --
+    sales of securities and
+       unusual sales of assets ..  104,699    67,260   101,376    65,089    71,587    45,298
+                                  --------  --------  --------  --------  --------  --------
+    total earnings - all entities $200,549  $147,878  $191,293  $136,074  $148,896  $112,166
+                                  ========  ========  ========  ========  ========  ========
+    
+    _(1) 1983 figures are those for october through december.
+    (2) 1984 and 1983 are not comparable; major assets were                       
+        transferred in the mid-year 1983 merger of blue chip stamps._
+    
+         sharp-eyed shareholders will notice that the amount of the 
+    special geico distribution and its location in the table have 
+    been changed from the presentation of last year.  though they 
+    reclassify and reduce accounting earnings, the changes are 
+    entirely of form, not of substance.  the story behind the 
+    changes, however, is interesting.
+    
+         as reported last year: (1) in mid-1983 geico made a tender 
+    offer to buy its own shares; (2) at the same time, we agreed by 
+    written contract to sell geico an amount of its shares that would 
+    be proportionately related to the aggregate number of shares 
+    geico repurchased via the tender from all other shareholders; (3) 
+    at completion of the tender, we delivered 350,000 shares to 
+    geico, received $21 million cash, and were left owning exactly 
+    the same percentage of geico that we owned before the tender; (4) 
+    geicos transaction with us amounted to a proportionate 
+    redemption, an opinion rendered us, without qualification, by a 
+    leading law firm; (5) the tax code logically regards such 
+    proportionate redemptions as substantially equivalent to 
+    dividends and, therefore, the $21 million we received was taxed 
+    at only the 6.9% inter-corporate dividend rate; (6) importantly, 
+    that $21 million was far less than the previously-undistributed 
+    earnings that had inured to our ownership in geico and, thus, 
+    from the standpoint of economic substance, was in our view 
+    equivalent to a dividend.
+    
+         because it was material and unusual, we highlighted the 
+    geico distribution last year to you, both in the applicable 
+    quarterly report and in this section of the annual report.  
+    additionally, we emphasized the transaction to our auditors, 
+    peat, marwick, mitchell & co. both the omaha office of peat 
+    marwick and the reviewing chicago partner, without objection, 
+    concurred with our dividend presentation.
+    
+         in 1984, we had a virtually identical transaction with 
+    general foods.  the only difference was that general foods 
+    repurchased its stock over a period of time in the open market, 
+    whereas geico had made a one-shot tender offer.  in the general 
+    foods case we sold to the company, on each day that it 
+    repurchased shares, a quantity of shares that left our ownership 
+    percentage precisely unchanged.  again our transaction was 
+    pursuant to a written contract executed before repurchases began.  
+    and again the money we received was far less than the retained 
+    earnings that had inured to our ownership interest since our 
+    purchase.  overall we received $21,843,601 in cash from general 
+    foods, and our ownership remained at exactly 8.75%.
+    
+         at this point the new york office of peat marwick came into 
+    the picture.  late in 1984 it indicated that it disagreed with 
+    the conclusions of the firms omaha office and chicago reviewing 
+    partner.  the new york view was that the geico and general foods 
+    transactions should be treated as sales of stock by berkshire 
+    rather than as the receipt of dividends.  under this accounting 
+    approach, a portion of the cost of our investment in the stock of 
+    each company would be charged against the redemption payment and 
+    any gain would be shown as a capital gain, not as dividend 
+    income.  this is an accounting approach only, having no bearing 
+    on taxes: peat marwick agrees that the transactions were 
+    dividends for irs purposes.
+    
+         we disagree with the new york position from both the 
+    viewpoint of economic substance and proper accounting.  but, to 
+    avoid a qualified auditors opinion, we have adopted herein peat 
+    marwicks 1984 view and restated 1983 accordingly.  none of this, 
+    however, has any effect on intrinsic business value: our 
+    ownership interests in geico and general foods, our cash, our 
+    taxes, and the market value and tax basis of our holdings all 
+    remain the same.
+    
+         this year we have again entered into a contract with general 
+    foods whereby we will sell them shares concurrently with open 
+    market purchases that they make.  the arrangement provides that 
+    our ownership interest will remain unchanged at all times.  by 
+    keeping it so, we will insure ourselves dividend treatment for 
+    tax purposes.  in our view also, the economic substance of this 
+    transaction again is the creation of dividend income.  however, 
+    we will account for the redemptions as sales of stock rather than 
+    dividend income unless accounting rules are adopted that speak 
+    directly to this point.  we will continue to prominently identify 
+    any such special transactions in our reports to you.
+    
+         while we enjoy a low tax charge on these proportionate 
+    redemptions, and have participated in several of them, we view 
+    such repurchases as at least equally favorable for shareholders 
+    who do not sell.  when companies with outstanding businesses and 
+    comfortable financial positions find their shares selling far 
+    below intrinsic value in the marketplace, no alternative action 
+    can benefit shareholders as surely as repurchases.
+    
+         (our endorsement of repurchases is limited to those dictated 
+    by price/value relationships and does not extend to the 
+    greenmail repurchase - a practice we find odious and repugnant.  
+    in these transactions, two parties achieve their personal ends by 
+    exploitation of an innocent and unconsulted third party.  the 
+    players are: (1) the shareholder extortionist who, even before 
+    the ink on his stock certificate dries, delivers his your-
+    money-or-your-life message to managers; (2) the corporate 
+    insiders who quickly seek peace at any price - as long as the 
+    price is paid by someone else; and (3) the shareholders whose 
+    money is used by (2) to make (1) go away.  as the dust settles, 
+    the mugging, transient shareholder gives his speech on free 
+    enterprise, the muggee management gives its speech on the best 
+    interests of the company, and the innocent shareholder standing 
+    by mutely funds the payoff.)
+    
+         the companies in which we have our largest investments have 
+    all engaged in significant stock repurhases at times when wide 
+    discrepancies existed between price and value.  as shareholders, 
+    we find this encouraging and rewarding for two important reasons 
+    - one that is obvious, and one that is subtle and not always 
+    understood.  the obvious point involves basic arithmetic: major 
+    repurchases at prices well below per-share intrinsic business 
+    value immediately increase, in a highly significant way, that 
+    value.  when companies purchase their own stock, they often find 
+    it easy to get $2 of present value for $1.  corporate acquisition 
+    programs almost never do as well and, in a discouragingly large 
+    number of cases, fail to get anything close to $1 of value for 
+    each $1 expended.
+    
+         the other benefit of repurchases is less subject to precise 
+    measurement but can be fully as important over time.  by making 
+    repurchases when a companys market value is well below its 
+    business value, management clearly demonstrates that it is given 
+    to actions that enhance the wealth of shareholders, rather than 
+    to actions that expand managements domain but that do nothing 
+    for (or even harm) shareholders.  seeing this, shareholders and 
+    potential shareholders increase their estimates of future returns 
+    from the business.  this upward revision, in turn, produces 
+    market prices more in line with intrinsic business value.  these 
+    prices are entirely rational.  investors should pay more for a 
+    business that is lodged in the hands of a manager with 
+    demonstrated pro-shareholder leanings than for one in the hands 
+    of a self-interested manager marching to a different drummer. (to 
+    make the point extreme, how much would you pay to be a minority 
+    shareholder of a company controlled by robert wesco?)
+    
+         the key word is demonstrated.  a manager who consistently 
+    turns his back on repurchases, when these clearly are in the 
+    interests of owners, reveals more than he knows of his 
+    motivations.  no matter how often or how eloquently he mouths 
+    some public relations-inspired phrase such as maximizing 
+    shareholder wealth (this seasons favorite), the market 
+    correctly discounts assets lodged with him.  his heart is not 
+    listening to his mouth - and, after a while, neither will the 
+    market.
+    
+         we have prospered in a very major way - as have other 
+    shareholders - by the large share repurchases of geico, 
+    washington post, and general foods, our three largest holdings. 
+    (exxon, in which we have our fourth largest holding, has also 
+    wisely and aggressively repurchased shares but, in this case, we 
+    have only recently established our position.) in each of these 
+    companies, shareholders have had their interests in outstanding 
+    businesses materially enhanced by repurchases made at bargain 
+    prices.  we feel very comfortable owning interests in businesses 
+    such as these that offer excellent economics combined with 
+    shareholder-conscious managements.
+    
+         the following table shows our 1984 yearend net holdings in 
+    marketable equities.  all numbers exclude the interests 
+    attributable to minority shareholders of wesco and nebraska 
+    furniture mart.
+    
+    _
+    no. of shares                                           cost       market
+    -------------                                        ----------  ----------
+                                                             (000s omitted)_
+        690,975    affiliated publications, inc. .......  $  3,516    $  32,908
+        740,400    american broadcasting companies, inc.    44,416       46,738
+      3,895,710    exxon corporation ...................   173,401      175,307
+      4,047,191    general foods corporation ...........   149,870      226,137
+      6,850,000    geico corporation ...................    45,713      397,300
+      2,379,200    handy & harman ......................    27,318       38,662
+        818,872    interpublic group of companies, inc.      2,570       28,149
+        555,949    northwest industries                     26,581       27,242
+      2,553,488    time, inc. ..........................    89,327      109,162
+      1,868,600    the washington post company .........    10,628      149,955
+                                                         ----------  ----------
+                                                          $573,340   $1,231,560
+                   all other common stockholdings           11,634       37,326
+                                                         ----------  ----------
+                   total common stocks                    $584,974   $1,268,886
+                                                         ==========  ==========
+    
+         its been over ten years since it has been as difficult as 
+    now to find equity investments that meet both our qualitative 
+    standards and our quantitative standards of value versus price.  
+    we try to avoid compromise of these standards, although we find 
+    doing nothing the most difficult task of all. (one english 
+    statesman attributed his countrys greatness in the nineteenth 
+    century to a policy of masterly inactivity.  this is a strategy 
+    that is far easier for historians to commend than for 
+    participants to follow.)
+    
+         in addition to the figures supplied at the beginning of this 
+    section, information regarding the businesses we own appears in 
+    managements discussion on pages 42-47.  an amplified discussion 
+    of wescos businesses appears in charlie mungers report on pages 
+    50-59.  you will find particularly interesting his comments about 
+    conditions in the thrift industry.  our other major controlled 
+    businesses are nebraska furniture mart, sees, buffalo evening 
+    news, and the insurance group, to which we will give some special 
+    attention here.
+    
+    **nebraska furniture mart**
+    
+         last year i introduced you to mrs. b (rose blumkin) and her 
+    family.  i told you they were terrific, and i understated the 
+    case.  after another year of observing their remarkable talents 
+    and character, i can honestly say that i never have seen a 
+    managerial group that either functions or behaves better than the 
+    blumkin family.
+    
+         mrs. b, chairman of the board, is now 91, and recently was 
+    quoted in the local newspaper as saying, i come home to eat and 
+    sleep, and thats about it.  i cant wait until it gets daylight 
+    so i can get back to the business.  mrs. b is at the store seven 
+    days a week, from opening to close, and probably makes more 
+    decisions in a day than most ceos do in a year (better ones, 
+    too).
+    
+         in may mrs. b was granted an honorary doctorate in 
+    commercial science by new york university. (shes a fast track 
+    student: not one day in her life was spent in a school room prior 
+    to her receipt of the doctorate.) previous recipients of honorary 
+    degrees in business from nyu include clifton garvin, jr., ceo of 
+    exxon corp.; walter wriston, then ceo of citicorp; frank cary, 
+    then ceo of ibm; tom murphy, then ceo of general motors; and, 
+    most recently, paul volcker. (they are in good company.)
+    
+         the blumkin blood did not run thin.  louie, mrs. bs son, 
+    and his three boys, ron, irv, and steve, all contribute in full 
+    measure to nfms amazing success.  the younger generation has 
+    attended the best business school of them all - that conducted by 
+    mrs. b and louie - and their training is evident in their 
+    performance.
+    
+         last year nfms net sales increased by $14.3 million, 
+    bringing the total to $115 million, all from the one store in 
+    omaha.  that is by far the largest volume produced by a single 
+    home furnishings store in the united states.  in fact, the gain 
+    in sales last year was itself greater than the annual volume of 
+    many good-sized successful stores.  the business achieves this 
+    success because it deserves this success.  a few figures will 
+    tell you why.
+    
+         in its fiscal 1984 10-k, the largest independent specialty 
+    retailer of home furnishings in the country, levitz furniture, 
+    described its prices as generally lower than the prices charged 
+    by conventional furniture stores in its trading area.  levitz, 
+    in that year, operated at a gross margin of 44.4% (that is, on 
+    average, customers paid it $100 for merchandise that had cost it 
+    $55.60 to buy).  the gross margin at nfm is not much more than 
+    half of that.  nfms low mark-ups are possible because of its 
+    exceptional efficiency: operating expenses (payroll, occupancy, 
+    advertising, etc.) are about 16.5% of sales versus 35.6% at 
+    levitz.
+    
+         none of this is in criticism of levitz, which has a well-
+    managed operation.  but the nfm operation is simply extraordinary 
+    (and, remember, it all comes from a $500 investment by mrs. b in 
+    1937).  by unparalleled efficiency and astute volume purchasing, 
+    nfm is able to earn excellent returns on capital while saving its 
+    customers at least $30 million annually from what, on average, it 
+    would cost them to buy the same merchandise at stores maintaining 
+    typical mark-ups.  such savings enable nfm to constantly widen 
+    its geographical reach and thus to enjoy growth well beyond the 
+    natural growth of the omaha market.
+    
+         i have been asked by a number of people just what secrets 
+    the blumkins bring to their business.  these are not very 
+    esoteric.  all members of the family: (1) apply themselves with 
+    an enthusiasm and energy that would make ben franklin and horatio 
+    alger look like dropouts; (2) define with extraordinary realism 
+    their area of special competence and act decisively on all 
+    matters within it; (3) ignore even the most enticing propositions 
+    failing outside of that area of special competence; and, (4) 
+    unfailingly behave in a high-grade manner with everyone they deal 
+    with. (mrs.  b boils it down to sell cheap and tell the truth.)
+    
+         our evaluation of the integrity of mrs. b and her family was 
+    demonstrated when we purchased 90% of the business: nfm had never 
+    had an audit and we did not request one; we did not take an 
+    inventory nor verify the receivables; we did not check property 
+    titles.  we gave mrs. b a check for $55 million and she gave us 
+    her word.  that made for an even exchange.
+    
+         you and i are fortunate to be in partnership with the 
+    blumkin family.
+    
+    **sees candy shops, inc.**
+    
+         below is our usual recap of sees performance since the time 
+    of purchase by blue chip stamps:
+    _
+      52-53 week year                     operating     number of    number of
+        ended about           sales        profits      pounds of   stores open
+        december 31         revenues     after taxes   candy sold   at year end_
+    -------------------   ------------   -----------   ----------   -----------
+    1984 ..............   $135,946,000   $13,380,000   24,759,000       214
+    1983 (53 weeks) ...    133,531,000    13,699,000   24,651,000       207
+    1982 ..............    123,662,000    11,875,000   24,216,000       202
+    1981 ..............    112,578,000    10,779,000   24,052,000       199
+    1980 ..............     97,715,000     7,547,000   24,065,000       191
+    1979 ..............     87,314,000     6,330,000   23,985,000       188
+    1978 ..............     73,653,000     6,178,000   22,407,000       182
+    1977 ..............     62,886,000     6,154,000   20,921,000       179
+    1976 (53 weeks) ...     56,333,000     5,569,000   20,553,000       173
+    1975 ..............     50,492,000     5,132,000   19,134,000       172
+    1974 ..............     41,248,000     3,021,000   17,883,000       170
+    1973 ..............     35,050,000     1,940,000   17,813,000       169
+    1972 ..............     31,337,000     2,083,000   16,954,000       167
+    
+         this performance has not been produced by a generally rising 
+    tide.  to the contrary, many well-known participants in the 
+    boxed-chocolate industry either have lost money in this same 
+    period or have been marginally profitable.  to our knowledge, 
+    only one good-sized competitor has achieved high profitability.  
+    the success of sees reflects the combination of an exceptional 
+    product and an exceptional manager, chuck huggins.
+    
+         during 1984 we increased prices considerably less than has 
+    been our practice in recent years: per-pound realization was 
+    $5.49, up only 1.4% from 1983.  fortunately, we made good 
+    progress on cost control, an area that has caused us problems in 
+    recent years.  per-pound costs - other than those for raw 
+    materials, a segment of expense largely outside of our control - 
+    increased by only 2.2% last year.
+    
+         our cost-control problem has been exacerbated by the problem 
+    of modestly declining volume (measured by pounds, not dollars) on 
+    a same-store basis.  total pounds sold through shops in recent 
+    years has been maintained at a roughly constant level only by the 
+    net addition of a few shops annually.  this more-shops-to-get-
+    the-same-volume situation naturally puts heavy pressure on per-
+    pound selling costs.
+    
+         in 1984, same-store volume declined 1.1%. total shop volume, 
+    however, grew 0.6% because of an increase in stores. (both 
+    percentages are adjusted to compensate for a 53-week fiscal year 
+    in 1983.)
+    
+         sees business tends to get a bit more seasonal each year.  
+    in the four weeks prior to christmas, we do 40% of the years 
+    volume and earn about 75% of the years profits.  we also earn 
+    significant sums in the easter and valentines day periods, but 
+    pretty much tread water the rest of the year.  in recent years, 
+    shop volume at christmas has grown in relative importance, and so 
+    have quantity orders and mail orders.  the increased 
+    concentration of business in the christmas period produces a 
+    multitude of managerial problems, all of which have been handled 
+    by chuck and his associates with exceptional skill and grace.
+    
+         their solutions have in no way involved compromises in 
+    either quality of service or quality of product.  most of our 
+    larger competitors could not say the same.  though faced with 
+    somewhat less extreme peaks and valleys in demand than we, they 
+    add preservatives or freeze the finished product in order to 
+    smooth the production cycle and thereby lower unit costs.  we 
+    reject such techniques, opting, in effect, for production 
+    headaches rather than product modification.
+    
+         our mall stores face a host of new food and snack vendors 
+    that provide particularly strong competition at non-holiday 
+    periods.  we need new products to fight back and during 1984 we 
+    introduced six candy bars that, overall, met with a good 
+    reception.  further product introductions are planned.
+    
+         in 1985 we will intensify our efforts to keep per-pound cost 
+    increases below the rate of inflation.  continued success in 
+    these efforts, however, will require gains in same-store 
+    poundage.  prices in 1985 should average 6% - 7% above those of 
+    1984.  assuming no change in same-store volume, profits should 
+    show a moderate gain.
+    
+    **buffalo evening news**
+    
+         profits at the news in 1984 were considerably greater than 
+    we expected.  as at sees, excellent progress was made in 
+    controlling costs.  excluding hours worked in the newsroom, total 
+    hours worked decreased by about 2.8%. with this productivity 
+    improvement, overall costs increased only 4.9%. this performance 
+    by stan lipsey and his management team was one of the best in the 
+    industry.
+    
+         however, we now face an acceleration in costs.  in mid-1984 
+    we entered into new multi-year union contracts that provided for 
+    a large catch-up wage increase.  this catch-up is entirely 
+    appropriate: the cooperative spirit of our unions during the 
+    unprofitable 1977-1982 period was an important factor in our 
+    success in remaining cost competitive with the courier-express.  
+    had we not kept costs down, the outcome of that struggle might 
+    well have been different.
+    
+         because our new union contracts took effect at varying 
+    dates, little of the catch-up increase was reflected in our 1984 
+    costs.  but the increase will be almost totally effective in 1985 
+    and, therefore, our unit labor costs will rise this year at a 
+    rate considerably greater than that of the industry.  we expect 
+    to mitigate this increase by continued small gains in 
+    productivity, but we cannot avoid significantly higher wage costs 
+    this year.  newsprint price trends also are less favorable now 
+    than they were in 1984.  primarily because of these two factors, 
+    we expect at least a minor contraction in margins at the news.
+    
+         working in our favor at the news are two factors of major 
+    economic importance:
+    
+         (1) our circulation is concentrated to an unusual degree 
+             in the area of maximum utility to our advertisers.  
+             regional newspapers with wide-ranging circulation, on 
+             the other hand, have a significant portion of their 
+             circulation in areas that are of negligible utility to 
+             most advertisers.  a subscriber several hundred miles 
+             away is not much of a prospect for the puppy you are 
+             offering to sell via a classified ad - nor for the 
+             grocer with stores only in the metropolitan area.  
+             wasted circulation - as the advertisers call it - 
+             hurts profitability: expenses of a newspaper are 
+             determined largely by gross circulation while 
+             advertising revenues (usually 70% - 80% of total 
+             revenues) are responsive only to useful circulation; 
+    
+         (2) our penetration of the buffalo retail market is 
+             exceptional; advertisers can reach almost all of their 
+             potential customers using only the news.
+    
+         last year i told you about this unusual reader acceptance: 
+    among the 100 largest newspapers in the country, we were then 
+    number one, daily, and number three, sunday, in penetration.  the 
+    most recent figures show us number one in penetration on weekdays 
+    and number two on sunday.  (even so, the number of households in 
+    buffalo has declined, so our current weekday circulation is down 
+    slightly; on sundays it is unchanged.)
+    
+         i told you also that one of the major reasons for this 
+    unusual acceptance by readers was the unusual quantity of news 
+    that we delivered to them: a greater percentage of our paper is 
+    devoted to news than is the case at any other dominant paper in 
+    our size range.  in 1984 our news hole ratio was 50.9%, (versus 
+    50.4% in 1983), a level far above the typical 35% - 40%.  we will 
+    continue to maintain this ratio in the 50% area.  also, though we 
+    last year reduced total hours worked in other departments, we 
+    maintained the level of employment in the newsroom and, again, 
+    will continue to do so.  newsroom costs advanced 9.1% in 1984, a 
+    rise far exceeding our overall cost increase of 4.9%.
+    
+         our news hole policy costs us significant extra money for 
+    newsprint.  as a result, our news costs (newsprint for the news 
+    hole plus payroll and expenses of the newsroom) as a percentage 
+    of revenue run higher than those of most dominant papers of our 
+    size.  there is adequate room, however, for our paper or any 
+    other dominant paper to sustain these costs: the difference 
+    between high and low news costs at papers of comparable size 
+    runs perhaps three percentage points while pre-tax profit margins 
+    are often ten times that amount.
+    
+         the economics of a dominant newspaper are excellent, among 
+    the very best in the business world.  owners, naturally, would 
+    like to believe that their wonderful profitability is achieved 
+    only because they unfailingly turn out a wonderful product.  that 
+    comfortable theory wilts before an uncomfortable fact.  while 
+    first-class newspapers make excellent profits, the profits of 
+    third-rate papers are as good or better - as long as either class 
+    of paper is dominant within its community.  of course, product 
+    quality may have been crucial to the paper in achieving 
+    dominance.  we believe this was the case at the news, in very 
+    large part because of people such as alfred kirchhofer who 
+    preceded us.
+    
+         once dominant, the newspaper itself, not the marketplace, 
+    determines just how good or how bad the paper will be.  good or 
+    bad, it will prosper.  that is not true of most businesses: 
+    inferior quality generally produces inferior economics.  but even 
+    a poor newspaper is a bargain to most citizens simply because of 
+    its bulletin board value.  other things being equal, a poor 
+    product will not achieve quite the level of readership achieved 
+    by a first-class product.  a poor product, however, will still 
+    remain essential to most citizens, and what commands their 
+    attention will command the attention of advertisers.
+    
+         since high standards are not imposed by the marketplace, 
+    management must impose its own.  our commitment to an above-
+    average expenditure for news represents an important quantitative 
+    standard.  we have confidence that stan lipsey and murray light 
+    will continue to apply the far-more important qualitative 
+    standards.  charlie and i believe that newspapers are very 
+    special institutions in society.  we are proud of the news, and 
+    intend an even greater pride to be justified in the years ahead.
+    
+    **insurance operations**
+    
+         shown below is an updated version of our usual table listing 
+    two key figures for the insurance industry:
+    _
+                                        yearly change       combined ratio
+                                         in premiums      after policy-holder
+                                         written (%)           dividends_
+                                        -------------     -------------------
+    1972 ..............................     10.2                  96.2
+    1973 ..............................      8.0                  99.2
+    1974 ..............................      6.2                 105.4
+    1975 ..............................     11.0                 107.9
+    1976 ..............................     21.9                 102.4
+    1977 ..............................     19.8                  97.2
+    1978 ..............................     12.8                  97.5
+    1979 ..............................     10.3                 100.6
+    1980 ..............................      6.0                 103.1
+    1981 ..............................      3.9                 106.0
+    1982 ..............................      4.4                 109.7
+    1983 (revised) ....................      4.5                 111.9
+    1984 (estimated) ..................      8.1                 117.7
+    source: bests aggregates and averages
+    
+         bests data reflect the experience of practically the entire 
+    industry, including stock, mutual, and reciprocal companies.  the 
+    combined ratio represents total insurance costs (losses incurred 
+    plus expenses) compared to revenue from premiums; a ratio below 
+    100 indicates an underwriting profit, and one above 100 indicates 
+    a loss.
+    
+         for a number of years, we have told you that an annual 
+    increase by the industry of about 10% per year in premiums 
+    written is necessary for the combined ratio to remain roughly 
+    unchanged.  we assumed in making that assertion that expenses as 
+    a percentage of premium volume would stay relatively stable and 
+    that losses would grow at about 10% annually because of the 
+    combined influence of unit volume increases, inflation, and 
+    judicial rulings that expand what is covered by the insurance 
+    policy.
+    
+         our opinion is proving dismayingly accurate: a premium 
+    increase of 10% per year since 1979 would have produced an 
+    aggregate increase through 1984 of 61% and a combined ratio in 
+    1984 almost identical to the 100.6 of 1979.  instead, the 
+    industry had only a 30% increase in premiums and a 1984 combined 
+    ratio of 117.7. today, we continue to believe that the key index 
+    to the trend of underwriting profitability is the year-to-year 
+    percentage change in industry premium volume.
+    
+         it now appears that premium volume in 1985 will grow well 
+    over 10%.  therefore, assuming that catastrophes are at a 
+    normal level, we would expect the combined ratio to begin 
+    easing downward toward the end of the year.  however, under our 
+    industrywide loss assumptions (i.e., increases of 10% annually), 
+    five years of 15%-per-year increases in premiums would be 
+    required to get the combined ratio back to 100.  this would mean 
+    a doubling of industry volume by 1989, an outcome that seems 
+    highly unlikely to us.  instead, we expect several years of 
+    premium gains somewhat above the 10% level, followed by highly-
+    competitive pricing that generally will produce combined ratios 
+    in the 108-113 range.
+    
+         our own combined ratio in 1984 was a humbling 134. (here, as 
+    throughout this report, we exclude structured settlements and the 
+    assumption of loss reserves in reporting this ratio.  much 
+    additional detail, including the effect of discontinued 
+    operations on the ratio, appears on pages 42-43).  this is the 
+    third year in a row that our underwriting performance has been 
+    far poorer than that of the industry.  we expect an improvement 
+    in the combined ratio in 1985, and also expect our improvement to 
+    be substantially greater than that of the industry.  mike 
+    goldberg has corrected many of the mistakes i made before he took 
+    over insurance operations.  moreover, our business is 
+    concentrated in lines that have experienced poorer-than-average 
+    results during the past several years, and that circumstance has 
+    begun to subdue many of our competitors and even eliminate some.  
+    with the competition shaken, we were able during the last half of 
+    1984 to raise prices significantly in certain important lines 
+    with little loss of business.
+    
+         for some years i have told you that there could be a day 
+    coming when our premier financial strength would make a real 
+    difference in the competitive position of our insurance 
+    operation.  that day may have arrived.  we are almost without 
+    question the strongest property/casualty insurance operation in 
+    the country, with a capital position far superior to that of 
+    well-known companies of much greater size.
+    
+         equally important, our corporate policy is to retain that 
+    superiority.  the buyer of insurance receives only a promise in 
+    exchange for his cash.  the value of that promise should be 
+    appraised against the possibility of adversity, not prosperity.  
+    at a minimum, the promise should appear able to withstand a 
+    prolonged combination of depressed financial markets and 
+    exceptionally unfavorable underwriting results.  our insurance 
+    subsidiaries are both willing and able to keep their promises in 
+    any such environment - and not too many other companies clearly 
+    are.
+    
+         our financial strength is a particular asset in the business 
+    of structured settlements and loss reserve assumptions that we 
+    reported on last year.  the claimant in a structured settlement 
+    and the insurance company that has reinsured loss reserves need 
+    to be completely confident that payments will be forthcoming for 
+    decades to come.  very few companies in the property/casualty 
+    field can meet this test of unquestioned long-term strength. (in 
+    fact, only a handful of companies exists with which we will 
+    reinsure our own liabilities.)
+    
+         we have grown in these new lines of business: funds that we 
+    hold to offset assumed liabilities grew from $16.2 million to 
+    $30.6 million during the year.  we expect growth to continue and 
+    perhaps to greatly accelerate.  to support this projected growth 
+    we have added substantially to the capital of columbia insurance 
+    company, our reinsurance unit specializing in structured 
+    settlements and loss reserve assumptions.  while these businesses 
+    are very competitive, returns should be satisfactory.
+    
+         at geico the news, as usual, is mostly good.  that company 
+    achieved excellent unit growth in its primary insurance business 
+    during 1984, and the performance of its investment portfolio 
+    continued to be extraordinary.  though underwriting results 
+    deteriorated late in the year, they still remain far better than 
+    those of the industry.  our ownership in geico at yearend 
+    amounted to 36% and thus our interest in their direct 
+    property/casualty volume of $885 million amounted to $320 
+    million, or well over double our own premium volume.
+    
+         i have reported to you in the past few years that the 
+    performance of geicos stock has considerably exceeded that 
+    companys business performance, brilliant as the latter has been.  
+    in those years, the carrying value of our geico investment on our 
+    balance sheet grew at a rate greater than the growth in geicos 
+    intrinsic business value.  i warned you that over performance by 
+    the stock relative to the performance of the business obviously 
+    could not occur every year, and that in some years the stock must 
+    under perform the business.  in 1984 that occurred and the 
+    carrying value of our interest in geico changed hardly at all, 
+    while the intrinsic business value of that interest increased 
+    substantially.  since 27% of berkshires net worth at the 
+    beginning of 1984 was represented by geico, its static market 
+    value had a significant impact upon our rate of gain for the 
+    year.  we are not at all unhappy with such a result: we would far 
+    rather have the business value of geico increase by x during the 
+    year, while market value decreases, than have the intrinsic value 
+    increase by only 1/2 x with market value soaring.  in geicos 
+    case, as in all of our investments, we look to business 
+    performance, not market performance.  if we are correct in 
+    expectations regarding the business, the market eventually will 
+    follow along.
+    
+         you, as shareholders of berkshire, have benefited in 
+    enormous measure from the talents of geicos jack byrne, bill 
+    snyder, and lou simpson.  in its core business - low-cost auto 
+    and homeowners insurance - geico has a major, sustainable 
+    competitive advantage.  that is a rare asset in business 
+    generally, and its almost non-existent in the field of financial 
+    services. (geico, itself, illustrates this point: despite the 
+    companys excellent management, superior profitability has eluded 
+    geico in all endeavors other than its core business.) in a large 
+    industry, a competitive advantage such as geicos provides the 
+    potential for unusual economic rewards, and jack and bill 
+    continue to exhibit great skill in realizing that potential.
+    
+         most of the funds generated by geicos core insurance 
+    operation are made available to lou for investment.  lou has the 
+    rare combination of temperamental and intellectual 
+    characteristics that produce outstanding long-term investment 
+    performance.  operating with below-average risk, he has generated 
+    returns that have been by far the best in the insurance industry.  
+    i applaud and appreciate the efforts and talents of these three 
+    outstanding managers.
+    
+    **errors in loss reserving**
+    
+         any shareholder in a company with important interests in the 
+    property/casualty insurance business should have some 
+    understanding of the weaknesses inherent in the reporting of 
+    current earnings in that industry.  phil graham, when publisher 
+    of the washington post, described the daily newspaper as a first 
+    rough draft of history.  unfortunately, the financial statements 
+    of a property/casualty insurer provide, at best, only a first 
+    rough draft of earnings and financial condition.
+    
+         the determination of costs is the main problem.  most of an 
+    insurers costs result from losses on claims, and many of the 
+    losses that should be charged against the current years revenue 
+    are exceptionally difficult to estimate.  sometimes the extent of 
+    these losses, or even their existence, is not known for decades.
+    
+         the loss expense charged in a property/casualty companys 
+    current income statement represents: (1) losses that occurred and 
+    were paid during the year; (2) estimates for losses that occurred 
+    and were reported to the insurer during the year, but which have 
+    yet to be settled; (3) estimates of ultimate dollar costs for 
+    losses that occurred during the year but of which the insurer is 
+    unaware (termed ibnr: incurred but not reported); and (4) the 
+    net effect of revisions this year of similar estimates for (2) 
+    and (3) made in past years.
+    
+         such revisions may be long delayed, but eventually any 
+    estimate of losses that causes the income for year x to be 
+    misstated must be corrected, whether it is in year x + 1, or     
+    x + 10.  this, perforce, means that earnings in the year of 
+    correction also are misstated.  for example, assume a claimant 
+    was injured by one of our insureds in 1979 and we thought a 
+    settlement was likely to be made for $10,000.  that year we would 
+    have charged $10,000 to our earnings statement for the estimated 
+    cost of the loss and, correspondingly, set up a liability reserve 
+    on the balance sheet for that amount.  if we settled the claim in 
+    1984 for $100,000, we would charge earnings with a loss cost of 
+    $90,000 in 1984, although that cost was truly an expense of 1979.  
+    and if that piece of business was our only activity in 1979, we 
+    would have badly misled ourselves as to costs, and you as to 
+    earnings.
+    
+         the necessarily-extensive use of estimates in assembling the 
+    figures that appear in such deceptively precise form in the 
+    income statement of property/casualty companies means that some 
+    error must seep in, no matter how proper the intentions of 
+    management.  in an attempt to minimize error, most insurers use 
+    various statistical techniques to adjust the thousands of 
+    individual loss evaluations (called case reserves) that comprise 
+    the raw data for estimation of aggregate liabilities.  the extra 
+    reserves created by these adjustments are variously labeled 
+    bulk, development, or supplemental reserves.  the goal of 
+    the adjustments should be a loss-reserve total that has a 50-50 
+    chance of being proved either slightly too high or slightly too 
+    low when all losses that occurred prior to the date of the 
+    financial statement are ultimately paid.
+    
+         at berkshire, we have added what we thought were appropriate 
+    supplemental reserves but in recent years they have not been 
+    adequate.  it is important that you understand the magnitude of 
+    the errors that have been involved in our reserving.  you can 
+    thus see for yourselves just how imprecise the process is, and 
+    also judge whether we may have some systemic bias that should 
+    make you wary of our current and future figures.
+    
+         the following table shows the results from insurance 
+    underwriting as we have reported them to you in recent years, and 
+    also gives you calculations a year later on an if-we-knew-then-
+    what-we think-we-know-now basis.  i say what we think we know 
+    now because the adjusted figures still include a great many 
+    estimates for losses that occurred in the earlier years.  
+    however, many claims from the earlier years have been settled so 
+    that our one-year-later estimate contains less guess work than 
+    our earlier estimate:
+    _
+                    underwriting results       corrected figures
+                        as reported            after one years
+         year              to you                 experience
+         ----       --------------------       -----------------_
+         1980           $  6,738,000             $ 14,887,000
+         1981              1,478,000               (1,118,000)
+         1982            (21,462,000)             (25,066,000)
+         1983            (33,192,000)             (50,974,000)
+         1984            (45,413,000)                  ?
+    
+         _our structured settlement and loss-reserve assumption 
+         businesses are not included in this table.  important 
+         additional information on loss reserve experience appears 
+         on pages 43-45._
+    
+         to help you understand this table, here is an explanation of 
+    the most recent figures: 1984s reported pre-tax underwriting 
+    loss of $45.4 million consists of $27.6 million we estimate that 
+    we lost on 1984s business, plus the increased loss of $17.8 
+    million reflected in the corrected figure for 1983.
+    
+         as you can see from reviewing the table, my errors in 
+    reporting to you have been substantial and recently have always 
+    presented a better underwriting picture than was truly the case.  
+    this is a source of particular chagrin to me because: (1) i like 
+    for you to be able to count on what i say; (2) our insurance 
+    managers and i undoubtedly acted with less urgency than we would 
+    have had we understood the full extent of our losses; and (3) we 
+    paid income taxes calculated on overstated earnings and thereby 
+    gave the government money that we didnt need to.  (these 
+    overpayments eventually correct themselves, but the delay is long 
+    and we dont receive interest on the amounts we overpaid.)
+    
+         because our business is weighted toward casualty and 
+    reinsurance lines, we have more problems in estimating loss costs 
+    than companies that specialize in property insurance. (when a 
+    building that you have insured burns down, you get a much faster 
+    fix on your costs than you do when an employer you have insured 
+    finds out that one of his retirees has contracted a disease 
+    attributable to work he did decades earlier.) but i still find 
+    our errors embarrassing.  in our direct business, we have far 
+    underestimated the mushrooming tendency of juries and courts to 
+    make the deep pocket pay, regardless of the factual situation 
+    and the past precedents for establishment of liability.  we also 
+    have underestimated the contagious effect that publicity 
+    regarding giant awards has on juries.  in the reinsurance area, 
+    where we have had our worst experience in under reserving, our 
+    customer insurance companies have made the same mistakes.  since 
+    we set reserves based on information they supply us, their 
+    mistakes have become our mistakes.
+    
+         i heard a story recently that is applicable to our insurance 
+    accounting problems: a man was traveling abroad when he received 
+    a call from his sister informing him that their father had died 
+    unexpectedly.  it was physically impossible for the brother to 
+    get back home for the funeral, but he told his sister to take 
+    care of the funeral arrangements and to send the bill to him.  
+    after returning home he received a bill for several thousand 
+    dollars, which he promptly paid.  the following month another 
+    bill came along for $15, and he paid that too.  another month 
+    followed, with a similar bill.  when, in the next month, a third 
+    bill for $15 was presented, he called his sister to ask what was 
+    going on.  oh, she said.  i forgot to tell you.  we buried dad 
+    in a rented suit.
+    
+         if youve been in the insurance business in recent years - 
+    particularly the reinsurance business - this story hurts.  we 
+    have tried to include all of our rented suit liabilities in our 
+    current financial statement, but our record of past error should 
+    make us humble, and you suspicious.  i will continue to report to 
+    you the errors, plus or minus, that surface each year.
+    
+         not all reserving errors in the industry have been of the 
+    innocent-but-dumb variety.  with underwriting results as bad as 
+    they have been in recent years - and with managements having as 
+    much discretion as they do in the presentation of financial 
+    statements - some unattractive aspects of human nature have 
+    manifested themselves.  companies that would be out of business 
+    if they realistically appraised their loss costs have, in some 
+    cases, simply preferred to take an extraordinarily optimistic 
+    view about these yet-to-be-paid sums.  others have engaged in 
+    various transactions to hide true current loss costs.
+    
+         both of these approaches can work for a considerable time: 
+    external auditors cannot effectively police the financial 
+    statements of property/casualty insurers.  if liabilities of an 
+    insurer, correctly stated, would exceed assets, it falls to the 
+    insurer to volunteer this morbid information.  in other words, 
+    the corpse is supposed to file the death certificate.  under this 
+    honor system of mortality, the corpse sometimes gives itself 
+    the benefit of the doubt.
+    
+         in most businesses, of course, insolvent companies run out 
+    of cash.  insurance is different: you can be broke but flush.  
+    since cash comes in at the inception of an insurance policy and 
+    losses are paid much later, insolvent insurers dont run out of 
+    cash until long after they have run out of net worth.  in fact, 
+    these walking dead often redouble their efforts to write 
+    business, accepting almost any price or risk, simply to keep the 
+    cash flowing in.  with an attitude like that of an embezzler who 
+    has gambled away his purloined funds, these companies hope that 
+    somehow they can get lucky on the next batch of business and 
+    thereby cover up earlier shortfalls.  even if they dont get 
+    lucky, the penalty to managers is usually no greater for a $100 
+    million shortfall than one of $10 million; in the meantime, while 
+    the losses mount, the managers keep their jobs and perquisites.
+    
+         the loss-reserving errors of other property/casualty 
+    companies are of more than academic interest to berkshire.  not 
+    only does berkshire suffer from sell-at-any-price competition by 
+    the walking dead, but we also suffer when their insolvency is 
+    finally acknowledged.  through various state guarantee funds that 
+    levy assessments, berkshire ends up paying a portion of the 
+    insolvent insurers asset deficiencies, swollen as they usually 
+    are by the delayed detection that results from wrong reporting.  
+    there is even some potential for cascading trouble.  the 
+    insolvency of a few large insurers and the assessments by state 
+    guarantee funds that would follow could imperil weak-but-
+    previously-solvent insurers.  such dangers can be mitigated if 
+    state regulators become better at prompt identification and 
+    termination of insolvent insurers, but progress on that front has 
+    been slow.
+    
+    **washington public power supply system**
+    
+         from october, 1983 through june, 1984 berkshires insurance 
+    subsidiaries continuously purchased large quantities of bonds of 
+    projects 1, 2, and 3 of washington public power supply system 
+    (wppss).  this is the same entity that, on july 1, 1983, 
+    defaulted on $2.2 billion of bonds issued to finance partial 
+    construction of the now-abandoned projects 4 and 5. while there 
+    are material differences in the obligors, promises, and 
+    properties underlying the two categories of bonds, the problems 
+    of projects 4 and 5 have cast a major cloud over projects 1, 2, 
+    and 3, and might possibly cause serious problems for the latter 
+    issues.  in addition, there have been a multitude of problems 
+    related directly to projects 1, 2, and 3 that could weaken or 
+    destroy an otherwise strong credit position arising from 
+    guarantees by bonneville power administration.
+    
+         despite these important negatives, charlie and i judged the 
+    risks _at the time we purchased the bonds and at the prices 
+    berkshire paid_ (much lower than present prices) to be 
+    considerably more than compensated for by prospects of profit.
+    
+         as you know, we buy marketable stocks for our insurance 
+    companies based upon the criteria we would apply in the purchase 
+    of an entire business.  this business-valuation approach is not 
+    widespread among professional money managers and is scorned by 
+    many academics.  nevertheless, it has served its followers well 
+    (to which the academics seem to say, well, it may be all right 
+    in practice, but it will never work in theory.) simply put, we 
+    feel that if we can buy small pieces of businesses with 
+    satisfactory underlying economics at a fraction of the per-share 
+    value of the entire business, something good is likely to happen 
+    to us - particularly if we own a group of such securities.
+    
+         we extend this business-valuation approach even to bond 
+    purchases such as wppss.  we compare the $139 million cost of our 
+    yearend investment in wppss to a similar $139 million investment 
+    in an operating business.  in the case of wppss, the business 
+    contractually earns $22.7 million after tax (via the interest 
+    paid on the bonds), and those earnings are available to us 
+    currently in cash.  we are unable to buy operating businesses 
+    with economics close to these.  only a relatively few businesses 
+    earn the 16.3% after tax on unleveraged capital that our wppss 
+    investment does and those businesses, when available for 
+    purchase, sell at large premiums to that capital.  in the average 
+    negotiated business transaction, unleveraged corporate earnings 
+    of $22.7 million after-tax (equivalent to about $45 million pre-
+    tax) might command a price of $250 - $300 million (or sometimes 
+    far more).  for a business we understand well and strongly like, 
+    we will gladly pay that much.  but it is double the price we paid 
+    to realize the same earnings from wppss bonds.
+    
+         however, in the case of wppss, there is what we view to be a 
+    very slight risk that the business could be worth nothing 
+    within a year or two.  there also is the risk that interest 
+    payments might be interrupted for a considerable period of time.  
+    furthermore, the most that the business could be worth is about 
+    the $205 million face value of the bonds that we own, an amount 
+    only 48% higher than the price we paid.
+    
+         this ceiling on upside potential is an important minus.  it 
+    should be realized, however, that the great majority of operating 
+    businesses have a limited upside potential also unless more 
+    capital is continuously invested in them.  that is so because 
+    most businesses are unable to significantly improve their average 
+    returns on equity - even under inflationary conditions, though 
+    these were once thought to automatically raise returns.
+    
+         (lets push our bond-as-a-business example one notch 
+    further: if you elect to retain the annual earnings of a 12% 
+    bond by using the proceeds from coupons to buy more bonds, 
+    earnings of that bond business will grow at a rate comparable 
+    to that of most operating businesses that similarly reinvest all 
+    earnings.  in the first instance, a 30-year, zero-coupon, 12% 
+    bond purchased today for $10 million will be worth $300 million 
+    in 2015.  in the second, a $10 million business that regularly 
+    earns 12% on equity and retains all earnings to grow, will also 
+    end up with $300 million of capital in 2015.  both the business 
+    and the bond will earn over $32 million in the final year.)
+    
+         our approach to bond investment - treating it as an unusual 
+    sort of business with special advantages and disadvantages - 
+    may strike you as a bit quirky.  however, we believe that many 
+    staggering errors by investors could have been avoided if they 
+    had viewed bond investment with a businessmans perspective.  for 
+    example, in 1946, 20-year aaa tax-exempt bonds traded at slightly 
+    below a 1% yield.  in effect, the buyer of those bonds at that 
+    time bought a business that earned about 1% on book value 
+    (and that, moreover, could never earn a dime more than 1% on 
+    book), and paid 100 cents on the dollar for that abominable 
+    business.
+    
+         if an investor had been business-minded enough to think in 
+    those terms - and that was the precise reality of the bargain 
+    struck - he would have laughed at the proposition and walked 
+    away.  for, at the same time, businesses with excellent future 
+    prospects could have been bought at, or close to, book value 
+    while earning 10%, 12%, or 15% after tax on book.  probably no 
+    business in america changed hands in 1946 at book value that the 
+    buyer believed lacked the ability to earn more than 1% on book.  
+    but investors with bond-buying habits eagerly made economic 
+    commitments throughout the year on just that basis.  similar, 
+    although less extreme, conditions prevailed for the next two 
+    decades as bond investors happily signed up for twenty or thirty 
+    years on terms outrageously inadequate by business standards. 
+    (in what i think is by far the best book on investing ever 
+    written - the intelligent investor, by ben graham - the last 
+    section of the last chapter begins with, investment is most 
+    intelligent when it is most businesslike. this section is called 
+    a final word, and it is appropriately titled.)
+    
+         we will emphasize again that there is unquestionably some 
+    risk in the wppss commitment.  it is also the sort of risk that 
+    is difficult to evaluate.  were charlie and i to deal with 50 
+    similar evaluations over a lifetime, we would expect our judgment 
+    to prove reasonably satisfactory.  but we do not get the chance 
+    to make 50 or even 5 such decisions in a single year.  even 
+    though our long-term results may turn out fine, in any given year 
+    we run a risk that we will look extraordinarily foolish. (thats 
+    why all of these sentences say charlie and i, or we.)
+    
+         most managers have very little incentive to make the 
+    intelligent-but-with-some-chance-of-looking-like-an-idiot 
+    decision.  their personal gain/loss ratio is all too obvious: if 
+    an unconventional decision works out well, they get a pat on the 
+    back and, if it works out poorly, they get a pink slip. (failing 
+    conventionally is the route to go; as a group, lemmings may have 
+    a rotten image, but no individual lemming has ever received bad 
+    press.)
+    
+         our equation is different.  with 47% of berkshires stock, 
+    charlie and i dont worry about being fired, and we receive our 
+    rewards as owners, not managers.  thus we behave with berkshires 
+    money as we would with our own.  that frequently leads us to 
+    unconventional behavior both in investments and general business 
+    management.
+    
+         we remain unconventional in the degree to which we 
+    concentrate the investments of our insurance companies, including 
+    those in wppss bonds.  this concentration makes sense only 
+    because our insurance business is conducted from a position of 
+    exceptional financial strength.  for almost all other insurers, a 
+    comparable degree of concentration (or anything close to it) 
+    would be totally inappropriate.  their capital positions are not 
+    strong enough to withstand a big error, no matter how attractive 
+    an investment opportunity might appear when analyzed on the basis 
+    of probabilities.
+    
+         with our financial strength we can own large blocks of a few 
+    securities that we have thought hard about and bought at 
+    attractive prices. (billy rose described the problem of over-
+    diversification: if you have a harem of forty women, you never 
+    get to know any of them very well.) over time our policy of 
+    concentration should produce superior results, though these will 
+    be tempered by our large size.  when this policy produces a 
+    really bad year, as it must, at least you will know that our 
+    money was committed on the same basis as yours.
+    
+         we made the major part of our wppss investment at different 
+    prices and under somewhat different factual circumstances than 
+    exist at present.  if we decide to change our position, we will 
+    not inform shareholders until long after the change has been 
+    completed. (we may be buying or selling as you read this.) the 
+    buying and selling of securities is a competitive business, and 
+    even a modest amount of added competition on either side can cost 
+    us a great deal of money.  our wppss purchases illustrate this 
+    principle.  from october, 1983 through june, 1984, we attempted 
+    to buy almost all the bonds that we could of projects 1, 2, and 
+    3. yet we purchased less than 3% of the bonds outstanding.  had 
+    we faced even a few additional well-heeled investors, stimulated 
+    to buy because they knew we were, we could have ended up with a 
+    materially smaller amount of bonds, purchased at a materially 
+    higher price. (a couple of coat-tail riders easily could have 
+    cost us $5 million.) for this reason, we will not comment about 
+    our activities in securities - neither to the press, nor 
+    shareholders, nor to anyone else - unless legally required to do 
+    so.
+    
+         one final observation regarding our wppss purchases: we 
+    dislike the purchase of most long-term bonds under most 
+    circumstances and have bought very few in recent years.  thats 
+    because bonds are as sound as a dollar - and we view the long-
+    term outlook for dollars as dismal.  we believe substantial 
+    inflation lies ahead, although we have no idea what the average 
+    rate will turn out to be.  furthermore, we think there is a 
+    small, but not insignificant, chance of runaway inflation.
+    
+         such a possibility may seem absurd, considering the rate to 
+    which inflation has dropped.  but we believe that present fiscal 
+    policy - featuring a huge deficit - is both extremely dangerous 
+    and difficult to reverse. (so far, most politicians in both 
+    parties have followed charlie browns advice: no problem is so 
+    big that it cant be run away from.) without a reversal, high 
+    rates of inflation may be delayed (perhaps for a long time), but 
+    will not be avoided.  if high rates materialize, they bring with 
+    them the potential for a runaway upward spiral.
+    
+         while there is not much to choose between bonds and stocks 
+    (as a class) when annual inflation is in the 5%-10% range, 
+    runaway inflation is a different story.  in that circumstance, a 
+    diversified stock portfolio would almost surely suffer an 
+    enormous loss in real value.  but bonds already outstanding would 
+    suffer far more.  thus, we think an all-bond portfolio carries a 
+    small but unacceptable wipe out risk, and we require any 
+    purchase of long-term bonds to clear a special hurdle.  only when 
+    bond purchases appear decidedly superior to other business 
+    opportunities will we engage in them.  those occasions are likely 
+    to be few and far between.
+    
+    **dividend policy**
+    
+         dividend policy is often reported to shareholders, but 
+    seldom explained.  a company will say something like, our goal 
+    is to pay out 40% to 50% of earnings and to increase dividends at 
+    a rate at least equal to the rise in the cpi.  and thats it - 
+    no analysis will be supplied as to why that particular policy is 
+    best for the owners of the business.  yet, allocation of capital 
+    is crucial to business and investment management.  because it is, 
+    we believe managers and owners should think hard about the 
+    circumstances under which earnings should be retained and under 
+    which they should be distributed.
+    
+         the first point to understand is that all earnings are not 
+    created equal.  in many businesses particularly those that have 
+    high asset/profit ratios - inflation causes some or all of the 
+    reported earnings to become ersatz.  the ersatz portion - lets 
+    call these earnings restricted - cannot, if the business is to 
+    retain its economic position, be distributed as dividends.  were 
+    these earnings to be paid out, the business would lose ground in 
+    one or more of the following areas: its ability to maintain its 
+    unit volume of sales, its long-term competitive position, its 
+    financial strength.  no matter how conservative its payout ratio, 
+    a company that consistently distributes restricted earnings is 
+    destined for oblivion unless equity capital is otherwise infused.
+    
+         restricted earnings are seldom valueless to owners, but they 
+    often must be discounted heavily.  in effect, they are 
+    conscripted by the business, no matter how poor its economic 
+    potential. (this retention-no-matter-how-unattractive-the-return 
+    situation was communicated unwittingly in a marvelously ironic 
+    way by consolidated edison a decade ago.  at the time, a punitive 
+    regulatory policy was a major factor causing the companys stock 
+    to sell as low as one-fourth of book value; i.e., every time a 
+    dollar of earnings was retained for reinvestment in the business, 
+    that dollar was transformed into only 25 cents of market value.  
+    but, despite this gold-into-lead process, most earnings were 
+    reinvested in the business rather than paid to owners.  
+    meanwhile, at construction and maintenance sites throughout new 
+    york, signs proudly proclaimed the corporate slogan, dig we 
+    must.)
+    
+         restricted earnings need not concern us further in this 
+    dividend discussion.  lets turn to the much-more-valued 
+    unrestricted variety.  these earnings may, with equal 
+    feasibility, be retained or distributed.  in our opinion, 
+    management should choose whichever course makes greater sense for 
+    the owners of the business.
+    
+         this principle is not universally accepted.  for a number of 
+    reasons managers like to withhold unrestricted, readily 
+    distributable earnings from shareholders - to expand the 
+    corporate empire over which the managers rule, to operate from a 
+    position of exceptional financial comfort, etc.  but we believe 
+    there is only one valid reason for retention.  unrestricted 
+    earnings should be retained only when there is a reasonable 
+    prospect - backed preferably by historical evidence or, when 
+    appropriate, by a thoughtful analysis of the future - that _for 
+    every dollar retained by the corporation, at least one dollar of 
+    market value will be created for owners._  this will happen only 
+    if the capital retained produces incremental earnings equal to, 
+    or above, those generally available to investors.
+    
+         to illustrate, lets assume that an investor owns a risk-
+    free 10% perpetual bond with one very unusual feature.  each year 
+    the investor can elect either to take his 10% coupon in cash, or 
+    to reinvest the coupon in more 10% bonds with identical terms; 
+    i.e., a perpetual life and coupons offering the same cash-or-
+    reinvest option.  if, in any given year, the prevailing interest 
+    rate on long-term, risk-free bonds is 5%, it would be foolish for 
+    the investor to take his coupon in cash since the 10% bonds he 
+    could instead choose would be worth considerably more than 100 
+    cents on the dollar.  under these circumstances, the investor 
+    wanting to get his hands on cash should take his coupon in 
+    additional bonds and then immediately sell them.  by doing that, 
+    he would realize more cash than if he had taken his coupon 
+    directly in cash.  assuming all bonds were held by rational 
+    investors, no one would opt for cash in an era of 5% interest 
+    rates, not even those bondholders needing cash for living 
+    purposes.
+    
+         if, however, interest rates were 15%, no rational investor 
+    would want his money invested for him at 10%.  instead, the 
+    investor would choose to take his coupon in cash, even if his 
+    personal cash needs were nil.  the opposite course - reinvestment 
+    of the coupon - would give an investor additional bonds with 
+    market value far less than the cash he could have elected.  if he 
+    should want 10% bonds, he can simply take the cash received 
+    and buy them in the market, where they will be available at a 
+    large discount.
+    
+         an analysis similar to that made by our hypothetical 
+    bondholder is appropriate for owners in thinking about whether a 
+    companys unrestricted earnings should be retained or paid out.  
+    of course, the analysis is much more difficult and subject to 
+    error because the rate earned on reinvested earnings is not a 
+    contractual figure, as in our bond case, but rather a fluctuating 
+    figure.  owners must guess as to what the rate will average over 
+    the intermediate future.  however, once an informed guess is 
+    made, the rest of the analysis is simple: you should wish your 
+    earnings to be reinvested if they can be expected to earn high 
+    returns, and you should wish them paid to you if low returns are 
+    the likely outcome of reinvestment.
+    
+         many corporate managers reason very much along these lines 
+    in determining whether subsidiaries should distribute earnings to 
+    their parent company.  at that level,. the managers have no 
+    trouble thinking like intelligent owners.  but payout decisions 
+    at the parent company level often are a different story.  here 
+    managers frequently have trouble putting themselves in the shoes 
+    of their shareholder-owners.
+    
+         with this schizoid approach, the ceo of a multi-divisional 
+    company will instruct subsidiary a, whose earnings on incremental 
+    capital may be expected to average 5%, to distribute all 
+    available earnings in order that they may be invested in 
+    subsidiary b, whose earnings on incremental capital are expected 
+    to be 15%.  the ceos business school oath will allow no lesser 
+    behavior.  but if his own long-term record with incremental 
+    capital is 5% - and market rates are 10% - he is likely to impose 
+    a dividend policy on shareholders of the parent company that 
+    merely follows some historical or industry-wide payout pattern.  
+    furthermore, he will expect managers of subsidiaries to give him 
+    a full account as to why it makes sense for earnings to be 
+    retained in their operations rather than distributed to the 
+    parent-owner.  but seldom will he supply his owners with a 
+    similar analysis pertaining to the whole company.
+    
+         in judging whether managers should retain earnings, 
+    shareholders should not simply compare total incremental earnings 
+    in recent years to total incremental capital because that 
+    relationship may be distorted by what is going on in a core 
+    business.  during an inflationary period, companies with a core 
+    business characterized by extraordinary economics can use small 
+    amounts of incremental capital in that business at very high 
+    rates of return (as was discussed in last years section on 
+    goodwill).  but, unless they are experiencing tremendous unit 
+    growth, outstanding businesses by definition generate large 
+    amounts of excess cash.  if a company sinks most of this money in 
+    other businesses that earn low returns, the companys overall 
+    return on retained capital may nevertheless appear excellent 
+    because of the extraordinary returns being earned by the portion 
+    of earnings incrementally invested in the core business.  the 
+    situation is analogous to a pro-am golf event: even if all of the 
+    amateurs are hopeless duffers, the teams best-ball score will be 
+    respectable because of the dominating skills of the professional.
+    
+         many corporations that consistently show good returns both 
+    on equity and on overall incremental capital have, indeed, 
+    employed a large portion of their retained earnings on an 
+    economically unattractive, even disastrous, basis.  their 
+    marvelous core businesses, however, whose earnings grow year 
+    after year, camouflage repeated failures in capital allocation 
+    elsewhere (usually involving high-priced acquisitions of 
+    businesses that have inherently mediocre economics).  the 
+    managers at fault periodically report on the lessons they have 
+    learned from the latest disappointment.  they then usually seek 
+    out future lessons. (failure seems to go to their heads.)
+    
+         in such cases, shareholders would be far better off if 
+    earnings were retained only to expand the high-return business, 
+    with the balance paid in dividends or used to repurchase stock 
+    (an action that increases the owners interest in the exceptional 
+    business while sparing them participation in subpar businesses).  
+    managers of high-return businesses who consistently employ much 
+    of the cash thrown off by those businesses in other ventures with 
+    low returns should be held to account for those allocation 
+    decisions, regardless of how profitable the overall enterprise 
+    is.
+    
+         nothing in this discussion is intended to argue for 
+    dividends that bounce around from quarter to quarter with each 
+    wiggle in earnings or in investment opportunities.  shareholders 
+    of public corporations understandably prefer that dividends be 
+    consistent and predictable.  payments, therefore, should reflect 
+    long-term expectations for both earnings and returns on 
+    incremental capital.  since the long-term corporate outlook 
+    changes only infrequently, dividend patterns should change no 
+    more often.  but over time distributable earnings that have been 
+    withheld by managers should earn their keep.  if earnings have 
+    been unwisely retained, it is likely that managers, too, have 
+    been unwisely retained.
+    
+         lets now turn to berkshire hathaway and examine how these 
+    dividend principles apply to it.  historically, berkshire has 
+    earned well over market rates on retained earnings, thereby 
+    creating over one dollar of market value for every dollar 
+    retained.  under such circumstances, any distribution would have 
+    been contrary to the financial interest of shareholders, large or 
+    small.
+    
+         in fact, significant distributions in the early years might 
+    have been disastrous, as a review of our starting position will 
+    show you.  charlie and i then controlled and managed three 
+    companies, berkshire hathaway inc., diversified retailing 
+    company, inc., and blue chip stamps (all now merged into our 
+    present operation).  blue chip paid only a small dividend, 
+    berkshire and drc paid nothing.  if, instead, the companies had 
+    paid out their entire earnings, we almost certainly would have no 
+    earnings at all now - and perhaps no capital as well.  the three 
+    companies each originally made their money from a single 
+    business: (1) textiles at berkshire; (2) department stores at 
+    diversified; and (3) trading stamps at blue chip.  these 
+    cornerstone businesses (carefully chosen, it should be noted, by 
+    your chairman and vice chairman) have, respectively, (1) survived 
+    but earned almost nothing, (2) shriveled in size while incurring 
+    large losses, and (3) shrunk in sales volume to about 5% its size 
+    at the time of our entry.  (who says you cant lose em all?) 
+    only by committing available funds to much better businesses were 
+    we able to overcome these origins. (its been like overcoming a 
+    misspent youth.) clearly, diversification has served us well.
+    
+         we expect to continue to diversify while also supporting the 
+    growth of current operations though, as weve pointed out, our 
+    returns from these efforts will surely be below our historical 
+    returns.  but as long as prospective returns are above the rate 
+    required to produce a dollar of market value per dollar retained, 
+    we will continue to retain all earnings.  should our estimate of 
+    future returns fall below that point, we will distribute all 
+    unrestricted earnings that we believe can not be effectively 
+    used.  in making that judgment, we will look at both our 
+    historical record and our prospects.  because our year-to-year 
+    results are inherently volatile, we believe a five-year rolling 
+    average to be appropriate for judging the historical record.
+    
+         our present plan is to use our retained earnings to further 
+    build the capital of our insurance companies.  most of our 
+    competitors are in weakened financial condition and reluctant to 
+    expand substantially.  yet large premium-volume gains for the 
+    industry are imminent, amounting probably to well over $15 
+    billion in 1985 versus less than $5 billion in 1983.  these 
+    circumstances could produce major amounts of profitable business 
+    for us.  of course, this result is no sure thing, but prospects 
+    for it are far better than they have been for many years.
+    
+    **miscellaneous**
+    
+         this is the spot where each year i run my small business 
+    wanted ad.  in 1984 john loomis, one of our particularly 
+    knowledgeable and alert shareholders, came up with a company that 
+    met all of our tests.  we immediately pursued this idea, and only 
+    a chance complication prevented a deal.  since our ad is pulling, 
+    we will repeat it in precisely last years form:
+    
+         we prefer:
+         (1) large purchases (at least $5 million of after-tax 
+             earnings),
+         (2) demonstrated consistent earning power (future 
+             projections are of little interest to us, nor are 
+             turn-around situations),
+         (3) businesses earning good returns on equity while 
+             employing little or no debt,
+         (4) management in place (we cant supply it),
+         (5) simple businesses (if theres lots of technology, we 
+             wont understand it),
+         (6) an offering price (we dont want to waste our time or 
+             that of the seller by talking, even preliminarily, 
+             about a transaction when price is unknown).
+    
+         we will not engage in unfriendly takeovers.  we can promise 
+    complete confidentiality and a very fast answer - customarily 
+    within five minutes - as to whether were interested.  we prefer 
+    to buy for cash, but will consider issuance of stock when we 
+    receive as much in intrinsic business value as we give.  we 
+    invite potential sellers to check us out by contacting people 
+    with whom we have done business in the past.  for the right 
+    business - and the right people - we can provide a good home.
+    
+                               *  *  *
+    
+         a record 97.2% of all eligible shares participated in 
+    berkshires 1984 shareholder-designated contributions program.  
+    total contributions made through this program were $3,179,000, 
+    and 1,519 charities were recipients.  our proxy material for the 
+    annual meeting will allow you to cast an advisory vote expressing 
+    your views about this program - whether you think we should 
+    continue it and, if so, at what per-share level. (you may be 
+    interested to learn that we were unable to find a precedent for 
+    an advisory vote in which management seeks the opinions of 
+    shareholders about owner-related corporate policies.  managers 
+    who put their trust in capitalism seem in no hurry to put their 
+    trust in capitalists.)
+    
+         we urge new shareholders to read the description of our 
+    shareholder-designated contributions program that appears on 
+    pages 60 and 61.  if you wish to participate in future programs, 
+    we strongly urge that you immediately make sure that your shares 
+    are registered in the name of the actual owner, not in street 
+    name or nominee name.  shares not so registered on september 30, 
+    1985 will be ineligible for the 1985 program.
+    
+                               *  *  *
+    
+         our annual meeting will be on may 21, 1985 in omaha, and i 
+    hope that you attend.  many annual meetings are a waste of time, 
+    both for shareholders and for management.  sometimes that is true 
+    because management is reluctant to open up on matters of business 
+    substance.  more often a nonproductive session is the fault of 
+    shareholder participants who are more concerned about their own 
+    moment on stage than they are about the affairs of the 
+    corporation.  what should be a forum for business discussion 
+    becomes a forum for theatrics, spleen-venting and advocacy of 
+    issues. (the deal is irresistible: for the price of one share you 
+    get to tell a captive audience your ideas as to how the world 
+    should be run.) under such circumstances, the quality of the 
+    meeting often deteriorates from year to year as the antics of 
+    those interested in themselves discourage attendance by those 
+    interested in the business.
+    
+         berkshires meetings are a different story.  the number of 
+    shareholders attending grows a bit each year and we have yet to 
+    experience a silly question or an ego-inspired commentary.  
+    instead, we get a wide variety of thoughtful questions about the 
+    business.  because the annual meeting is the time and place for 
+    these, charlie and i are happy to answer them all, no matter how 
+    long it takes. (we cannot, however, respond to written or phoned 
+    questions at other times of the year; one-person-at-a time 
+    reporting is a poor use of management time in a company with 3000 
+    shareholders.) the only business matters that are off limits at 
+    the annual meeting are those about which candor might cost our 
+    company real money.  our activities in securities would be the 
+    main example.
+    
+         we always have bragged a bit on these pages about the 
+    quality of our shareholder-partners.  come to the annual meeting 
+    and you will see why.  out-of-towners should schedule a stop at 
+    nebraska furniture mart.  if you make some purchases, youll save 
+    far more than enough to pay for your trip, and youll enjoy the 
+    experience.
+    
+                                               warren e. buffett
+    february 25, 1985                          chairman of the board
+    
+         subsequent event: on march 18, a week after copy for this 
+    report went to the typographer but shortly before production, we 
+    agreed to purchase three million shares of capital cities 
+    communications, inc. at $172.50 per share.  our purchase is 
+    contingent upon the acquisition of american broadcasting 
+    companies, inc. by capital cities, and will close when that 
+    transaction closes.  at the earliest, that will be very late in 
+    1985.  our admiration for the management of capital cities, led 
+    by tom murphy and dan burke, has been expressed several times in 
+    previous annual reports.  quite simply, they are tops in both 
+    ability and integrity.  we will have more to say about this 
+    investment in next years report.
+    
+    
+

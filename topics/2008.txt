@@ -1,0 +1,1453 @@
+berkshire’s corporate performance vs. the s&p 500
+
+year
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+...................................................
+
+compounded annual gain – 1965-2008 . . . . . . . . . . . . . . . . . . . . . . .
+overall gain – 1964-2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+annual percentage change
+in per-share
+in s&p 500
+book value of
+with dividends
+berkshire
+included
+(1)
+(2)
+23.8
+10.0
+20.3
+(11.7)
+11.0
+30.9
+19.0
+11.0
+16.2
+(8.4)
+12.0
+3.9
+16.4
+14.6
+21.7
+18.9
+4.7
+(14.8)
+5.5
+(26.4)
+21.9
+37.2
+59.3
+23.6
+31.9
+(7.4)
+24.0
+6.4
+35.7
+18.2
+19.3
+32.3
+31.4
+(5.0)
+40.0
+21.4
+32.3
+22.4
+13.6
+6.1
+48.2
+31.6
+26.1
+18.6
+19.5
+5.1
+20.1
+16.6
+44.4
+31.7
+7.4
+(3.1)
+39.6
+30.5
+20.3
+7.6
+14.3
+10.1
+13.9
+1.3
+43.1
+37.6
+31.8
+23.0
+34.1
+33.4
+48.3
+28.6
+.5
+21.0
+6.5
+(9.1)
+(6.2)
+(11.9)
+10.0
+(22.1)
+21.0
+28.7
+10.5
+10.9
+6.4
+4.9
+18.4
+15.8
+11.0
+5.5
+(9.6)
+(37.0)
+20.3%
+362,319%
+
+8.9%
+4,276%
+
+relative
+results
+(1)-(2)
+13.8
+32.0
+(19.9)
+8.0
+24.6
+8.1
+1.8
+2.8
+19.5
+31.9
+(15.3)
+35.7
+39.3
+17.6
+17.5
+(13.0)
+36.4
+18.6
+9.9
+7.5
+16.6
+7.5
+14.4
+3.5
+12.7
+10.5
+9.1
+12.7
+4.2
+12.6
+5.5
+8.8
+.7
+19.7
+(20.5)
+15.6
+5.7
+32.1
+(7.7)
+(.4)
+1.5
+2.6
+5.5
+27.4
+11.4
+
+notes: data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended
+12/31.
+starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market
+rather than at the lower of cost or market, which was previously the requirement. in this table, berkshire’s results
+through 1978 have been restated to conform to the changed rules. in all other respects, the results are calculated using
+the numbers originally reported.
+the s&p 500 numbers are pre-tax whereas the berkshire numbers are after-tax. if a corporation such as berkshire
+were simply to have owned the s&p 500 and accrued the appropriate taxes, its results would have lagged the s&p 500
+in years when that index showed a positive return, but would have exceeded the s&p 500 in years when the index
+showed a negative return. over the years, the tax costs would have caused the aggregate lag to be substantial.
+
+2
+
+berkshire hathaway inc.
+to the shareholders of berkshire hathaway inc.:
+our decrease in net worth during 2008 was $11.5 billion, which reduced the per-share book value of
+both our class a and class b stock by 9.6%. over the last 44 years (that is, since present management took over)
+book value has grown from $19 to $70,530, a rate of 20.3% compounded annually.*
+the table on the preceding page, recording both the 44-year performance of berkshire’s book value
+and the s&p 500 index, shows that 2008 was the worst year for each. the period was devastating as well for
+corporate and municipal bonds, real estate and commodities. by yearend, investors of all stripes were bloodied
+and confused, much as if they were small birds that had strayed into a badminton game.
+as the year progressed, a series of life-threatening problems within many of the world’s great financial
+institutions was unveiled. this led to a dysfunctional credit market that in important respects soon turned
+non-functional. the watchword throughout the country became the creed i saw on restaurant walls when i was
+young: “in god we trust; all others pay cash.”
+by the fourth quarter, the credit crisis, coupled with tumbling home and stock prices, had produced a
+paralyzing fear that engulfed the country. a freefall in business activity ensued, accelerating at a pace that i have
+never before witnessed. the u.s. – and much of the world – became trapped in a vicious negative-feedback
+cycle. fear led to business contraction, and that in turn led to even greater fear.
+this debilitating spiral has spurred our government to take massive action. in poker terms, the treasury
+and the fed have gone “all in.” economic medicine that was previously meted out by the cupful has recently
+been dispensed by the barrel. these once-unthinkable dosages will almost certainly bring on unwelcome
+aftereffects. their precise nature is anyone’s guess, though one likely consequence is an onslaught of inflation.
+moreover, major industries have become dependent on federal assistance, and they will be followed by cities
+and states bearing mind-boggling requests. weaning these entities from the public teat will be a political
+challenge. they won’t leave willingly.
+whatever the downsides may be, strong and immediate action by government was essential last year if
+the financial system was to avoid a total breakdown. had one occurred, the consequences for every area of our
+economy would have been cataclysmic. like it or not, the inhabitants of wall street, main street and the various
+side streets of america were all in the same boat.
+amid this bad news, however, never forget that our country has faced far worse travails in the past. in
+the 20th century alone, we dealt with two great wars (one of which we initially appeared to be losing); a dozen or
+so panics and recessions; virulent inflation that led to a 21 1⁄ 2% prime rate in 1980; and the great depression of
+the 1930s, when unemployment ranged between 15% and 25% for many years. america has had no shortage of
+challenges.
+without fail, however, we’ve overcome them. in the face of those obstacles – and many others – the
+real standard of living for americans improved nearly seven-fold during the 1900s, while the dow jones
+industrials rose from 66 to 11,497. compare the record of this period with the dozens of centuries during which
+humans secured only tiny gains, if any, in how they lived. though the path has not been smooth, our economic
+system has worked extraordinarily well over time. it has unleashed human potential as no other system has, and it
+will continue to do so. america’s best days lie ahead.
+*all per-share figures used in this report apply to berkshire’s a shares. figures for the b shares are
+1/30th of those shown for a.
+
+3
+
+take a look again at the 44-year table on page 2. in 75% of those years, the s&p stocks recorded a
+gain. i would guess that a roughly similar percentage of years will be positive in the next 44. but neither charlie
+munger, my partner in running berkshire, nor i can predict the winning and losing years in advance. (in our
+usual opinionated view, we don’t think anyone else can either.) we’re certain, for example, that the economy will
+be in shambles throughout 2009 – and, for that matter, probably well beyond – but that conclusion does not tell
+us whether the stock market will rise or fall.
+in good years and bad, charlie and i simply focus on four goals:
+(1)
+
+maintaining berkshire’s gibraltar-like financial position, which features huge amounts of
+excess liquidity, near-term obligations that are modest, and dozens of sources of earnings
+and cash;
+
+(2)
+
+widening the “moats” around our operating businesses that give them durable competitive
+advantages;
+
+(3)
+
+acquiring and developing new and varied streams of earnings;
+
+(4)
+
+expanding and nurturing the cadre of outstanding operating managers who, over the years,
+have delivered berkshire exceptional results.
+
+berkshire in 2008
+most of the berkshire businesses whose results are significantly affected by the economy earned below
+their potential last year, and that will be true in 2009 as well. our retailers were hit particularly hard, as were our
+operations tied to residential construction. in aggregate, however, our manufacturing, service and retail
+businesses earned substantial sums and most of them – particularly the larger ones – continue to strengthen their
+competitive positions. moreover, we are fortunate that berkshire’s two most important businesses – our
+insurance and utility groups – produce earnings that are not correlated to those of the general economy. both
+businesses delivered outstanding results in 2008 and have excellent prospects.
+as predicted in last year’s report, the exceptional underwriting profits that our insurance businesses
+realized in 2007 were not repeated in 2008. nevertheless, the insurance group delivered an underwriting gain for
+the sixth consecutive year. this means that our $58.5 billion of insurance “float” – money that doesn’t belong to
+us but that we hold and invest for our own benefit – cost us less than zero. in fact, we were paid $2.8 billion to
+hold our float during 2008. charlie and i find this enjoyable.
+over time, most insurers experience a substantial underwriting loss, which makes their economics far
+different from ours. of course, we too will experience underwriting losses in some years. but we have the best
+group of managers in the insurance business, and in most cases they oversee entrenched and valuable franchises.
+considering these strengths, i believe that we will earn an underwriting profit over the years and that our float
+will therefore cost us nothing. our insurance operation, the core business of berkshire, is an economic
+powerhouse.
+charlie and i are equally enthusiastic about our utility business, which had record earnings last year
+and is poised for future gains. dave sokol and greg abel, the managers of this operation, have achieved results
+unmatched elsewhere in the utility industry. i love it when they come up with new projects because in this
+capital-intensive business these ventures are often large. such projects offer berkshire the opportunity to put out
+substantial sums at decent returns.
+
+4
+
+things also went well on the capital-allocation front last year. berkshire is always a buyer of both
+businesses and securities, and the disarray in markets gave us a tailwind in our purchases. when investing,
+pessimism is your friend, euphoria the enemy.
+in our insurance portfolios, we made three large investments on terms that would be unavailable in
+normal markets. these should add about $1 1⁄ 2 billion pre-tax to berkshire’s annual earnings and offer
+possibilities for capital gains as well. we also closed on our marmon acquisition (we own 64% of the company
+now and will purchase its remaining stock over the next six years). additionally, certain of our subsidiaries made
+“tuck-in” acquisitions that will strengthen their competitive positions and earnings.
+that’s the good news. but there’s another less pleasant reality: during 2008 i did some dumb things in
+investments. i made at least one major mistake of commission and several lesser ones that also hurt. i will tell
+you more about these later. furthermore, i made some errors of omission, sucking my thumb when new facts
+came in that should have caused me to re-examine my thinking and promptly take action.
+additionally, the market value of the bonds and stocks that we continue to hold suffered a significant
+decline along with the general market. this does not bother charlie and me. indeed, we enjoy such price declines
+if we have funds available to increase our positions. long ago, ben graham taught me that “price is what you
+pay; value is what you get.” whether we’re talking about socks or stocks, i like buying quality merchandise
+when it is marked down.
+yardsticks
+berkshire has two major areas of value. the first is our investments: stocks, bonds and cash
+equivalents. at yearend those totaled $122 billion (not counting the investments held by our finance and utility
+operations, which we assign to our second bucket of value). about $58.5 billion of that total is funded by our
+insurance float.
+berkshire’s second component of value is earnings that come from sources other than investments and
+insurance. these earnings are delivered by our 67 non-insurance companies, itemized on page 96. we exclude
+our insurance earnings from this calculation because the value of our insurance operation comes from the
+investable funds it generates, and we have already included this factor in our first bucket.
+in 2008, our investments fell from $90,343 per share of berkshire (after minority interest) to $77,793, a
+decrease that was caused by a decline in market prices, not by net sales of stocks or bonds. our second segment
+of value fell from pre-tax earnings of $4,093 per berkshire share to $3,921 (again after minority interest).
+both of these performances are unsatisfactory. over time, we need to make decent gains in each area if
+we are to increase berkshire’s intrinsic value at an acceptable rate. going forward, however, our focus will be on
+the earnings segment, just as it has been for several decades. we like buying underpriced securities, but we like
+buying fairly-priced operating businesses even more.
+now, let’s take a look at the four major operating sectors of berkshire. each of these has vastly
+different balance sheet and income account characteristics. therefore, lumping them together, as is done in
+standard financial statements, impedes analysis. so we’ll present them as four separate businesses, which is how
+charlie and i view them.
+
+5
+
+regulated utility business
+berkshire has an 87.4% (diluted) interest in midamerican energy holdings, which owns a wide
+variety of utility operations. the largest of these are (1) yorkshire electricity and northern electric, whose
+3.8 million end users make it the u.k.’s third largest distributor of electricity; (2) midamerican energy, which
+serves 723,000 electric customers, primarily in iowa; (3) pacific power and rocky mountain power, serving
+about 1.7 million electric customers in six western states; and (4) kern river and northern natural pipelines,
+which carry about 9% of the natural gas consumed in the u.s.
+our partners in ownership of midamerican are its two terrific managers, dave sokol and greg abel,
+and my long-time friend, walter scott. it’s unimportant how many votes each party has; we make major moves
+only when we are unanimous in thinking them wise. nine years of working with dave, greg and walter have
+reinforced my original belief: berkshire couldn’t have better partners.
+somewhat incongruously, midamerican also owns the second largest real estate brokerage firm in the
+u.s., homeservices of america. this company operates through 21 locally-branded firms that have 16,000
+agents. last year was a terrible year for home sales, and 2009 looks no better. we will continue, however, to
+acquire quality brokerage operations when they are available at sensible prices.
+here are some key figures on midamerican’s operations:
+earnings (in millions)
+2008
+2007
+u.k. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+western utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+pipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+homeservices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+other (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+operating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . .
+constellation energy* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+interest, other than to berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+interest on berkshire junior debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+income tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$
+
+339
+425
+703
+595
+(45)
+186
+2,203
+1,092
+(332)
+(111)
+(1,002)
+
+$
+
+337
+412
+692
+473
+42
+130
+2,086
+–
+(312)
+(108)
+(477)
+
+net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 1,850
+
+$ 1,189
+
+earnings applicable to berkshire** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+debt owed to others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+debt owed to berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$ 1,704
+19,145
+1,087
+
+$ 1,114
+19,002
+821
+
+*consists of a breakup fee of $175 million and a profit on our investment of $917 million.
+**includes interest earned by berkshire (net of related income taxes) of $72 in 2008 and $70 in 2007.
+midamerican’s record in operating its regulated electric utilities and natural gas pipelines is truly
+outstanding. here’s some backup for that claim.
+our two pipelines, kern river and northern natural, were both acquired in 2002. a firm called mastio
+regularly ranks pipelines for customer satisfaction. among the 44 rated, kern river came in 9th when we
+purchased it and northern natural ranked 39th. there was work to do.
+in mastio’s 2009 report, kern river ranked 1st and northern natural 3rd. charlie and i couldn’t be more
+proud of this performance. it came about because hundreds of people at each operation committed themselves to
+a new culture and then delivered on their commitment.
+achievements at our electric utilities have been equally impressive. in 1995, midamerican became the
+major provider of electricity in iowa. by judicious planning and a zeal for efficiency, the company has kept
+electric prices unchanged since our purchase and has promised to hold them steady through 2013.
+6
+
+midamerican has maintained this extraordinary price stability while making iowa number one among
+all states in the percentage of its generation capacity that comes from wind. since our purchase, midamerican’s
+wind-based facilities have grown from zero to almost 20% of total capacity.
+similarly, when we purchased pacificorp in 2006, we moved aggressively to expand wind generation.
+wind capacity was then 33 megawatts. it’s now 794, with more coming. (arriving at pacificorp, we found
+“wind” of a different sort: the company had 98 committees that met frequently. now there are 28. meanwhile,
+we generate and deliver considerably more electricity, doing so with 2% fewer employees.)
+in 2008 alone, midamerican spent $1.8 billion on wind generation at our two operations, and today the
+company is number one in the nation among regulated utilities in ownership of wind capacity. by the way,
+compare that $1.8 billion to the $1.1 billion of pre-tax earnings of pacificorp (shown in the table as “western”)
+and iowa. in our utility business, we spend all we earn, and then some, in order to fulfill the needs of our service
+areas. indeed, midamerican has not paid a dividend since berkshire bought into the company in early 2000. its
+earnings have instead been reinvested to develop the utility systems our customers require and deserve. in
+exchange, we have been allowed to earn a fair return on the huge sums we have invested. it’s a great partnership
+for all concerned.
+************
+our long-avowed goal is to be the “buyer of choice” for businesses – particularly those built and owned
+by families. the way to achieve this goal is to deserve it. that means we must keep our promises; avoid
+leveraging up acquired businesses; grant unusual autonomy to our managers; and hold the purchased companies
+through thick and thin (though we prefer thick and thicker).
+our record matches our rhetoric. most buyers competing against us, however, follow a different path.
+for them, acquisitions are “merchandise.” before the ink dries on their purchase contracts, these operators are
+contemplating “exit strategies.” we have a decided advantage, therefore, when we encounter sellers who truly
+care about the future of their businesses.
+some years back our competitors were known as “leveraged-buyout operators.” but lbo became a
+bad name. so in orwellian fashion, the buyout firms decided to change their moniker. what they did not change,
+though, were the essential ingredients of their previous operations, including their cherished fee structures and
+love of leverage.
+their new label became “private equity,” a name that turns the facts upside-down: a purchase of a
+business by these firms almost invariably results in dramatic reductions in the equity portion of the acquiree’s
+capital structure compared to that previously existing. a number of these acquirees, purchased only two to three
+years ago, are now in mortal danger because of the debt piled on them by their private-equity buyers. much of
+the bank debt is selling below 70¢ on the dollar, and the public debt has taken a far greater beating. the privateequity firms, it should be noted, are not rushing in to inject the equity their wards now desperately need. instead,
+they’re keeping their remaining funds very private.
+in the regulated utility field there are no large family-owned businesses. here, berkshire hopes to be
+the “buyer of choice” of regulators. it is they, rather than selling shareholders, who judge the fitness of
+purchasers when transactions are proposed.
+there is no hiding your history when you stand before these regulators. they can – and do – call their
+counterparts in other states where you operate and ask how you have behaved in respect to all aspects of the
+business, including a willingness to commit adequate equity capital.
+
+7
+
+when midamerican proposed its purchase of pacificorp in 2005, regulators in the six new states we
+would be serving immediately checked our record in iowa. they also carefully evaluated our financing plans and
+capabilities. we passed this examination, just as we expect to pass future ones.
+there are two reasons for our confidence. first, dave sokol and greg abel are going to run any
+businesses with which they are associated in a first-class manner. they don’t know of any other way to operate.
+beyond that is the fact that we hope to buy more regulated utilities in the future – and we know that our business
+behavior in jurisdictions where we are operating today will determine how we are welcomed by new jurisdictions
+tomorrow.
+insurance
+our insurance group has propelled berkshire’s growth since we first entered the business in 1967. this
+happy result has not been due to general prosperity in the industry. during the 25 years ending in 2007, return on
+net worth for insurers averaged 8.5% versus 14.0% for the fortune 500. clearly our insurance ceos have not
+had the wind at their back. yet these managers have excelled to a degree charlie and i never dreamed possible in
+the early days. why do i love them? let me count the ways.
+at geico, tony nicely – now in his 48th year at the company after joining it when he was 18 –
+continues to gobble up market share while maintaining disciplined underwriting. when tony became ceo in
+1993, geico had 2.0% of the auto insurance market, a level at which the company had long been stuck. now we
+have a 7.7% share, up from 7.2% in 2007.
+the combination of new business gains and an improvement in the renewal rate on existing business
+has moved geico into the number three position among auto insurers. in 1995, when berkshire purchased
+control, geico was number seven. now we trail only state farm and allstate.
+geico grows because it saves money for motorists. no one likes to buy auto insurance. but virtually
+everyone likes to drive. so, sensibly, drivers look for the lowest-cost insurance consistent with first-class service.
+efficiency is the key to low cost, and efficiency is tony’s specialty. five years ago the number of policies per
+employee was 299. in 2008, the number was 439, a huge increase in productivity.
+as we view geico’s current opportunities, tony and i feel like two hungry mosquitoes in a nudist
+camp. juicy targets are everywhere. first, and most important, our new business in auto insurance is now
+exploding. americans are focused on saving money as never before, and they are flocking to geico. in january
+2009, we set a monthly record – by a wide margin – for growth in policyholders. that record will last exactly 28
+days: as we go to press, it’s clear february’s gain will be even better.
+beyond this, we are gaining ground in allied lines. last year, our motorcycle policies increased by
+23.4%, which raised our market share from about 6% to more than 7%. our rv and atv businesses are also
+growing rapidly, albeit from a small base. and, finally, we recently began insuring commercial autos, a big
+market that offers real promise.
+geico is now saving money for millions of americans. go to geico.com or call 1-800-847-7536
+and see if we can save you money as well.
+general re, our large international reinsurer, also had an outstanding year in 2008. some time back,
+the company had serious problems (which i totally failed to detect when we purchased it in late 1998). by 2001,
+when joe brandon took over as ceo, assisted by his partner, tad montross, general re’s culture had further
+deteriorated, exhibiting a loss of discipline in underwriting, reserving and expenses. after joe and tad took
+charge, these problems were decisively and successfully addressed. today general re has regained its luster.
+last spring joe stepped down, and tad became ceo. charlie and i are grateful to joe for righting the ship and
+are certain that, with tad, general re’s future is in the best of hands.
+
+8
+
+reinsurance is a business of long-term promises, sometimes extending for fifty years or more. this
+past year has retaught clients a crucial principle: a promise is no better than the person or institution making it.
+that’s where general re excels: it is the only reinsurer that is backed by an aaa corporation. ben franklin once
+said, “it’s difficult for an empty sack to stand upright.” that’s no worry for general re clients.
+our third major insurance operation is ajit jain’s reinsurance division, headquartered in stamford and
+staffed by only 31 employees. this may be one of the most remarkable businesses in the world, hard to
+characterize but easy to admire.
+from year to year, ajit’s business is never the same. it features very large transactions, incredible
+speed of execution and a willingness to quote on policies that leave others scratching their heads. when there is a
+huge and unusual risk to be insured, ajit is almost certain to be called.
+ajit came to berkshire in 1986. very quickly, i realized that we had acquired an extraordinary talent.
+so i did the logical thing: i wrote his parents in new delhi and asked if they had another one like him at home.
+of course, i knew the answer before writing. there isn’t anyone like ajit.
+our smaller insurers are just as outstanding in their own way as the “big three,” regularly delivering
+valuable float to us at a negative cost. we aggregate their results below under “other primary.” for space
+reasons, we don’t discuss these insurers individually. but be assured that charlie and i appreciate the
+contribution of each.
+here is the record for the four legs to our insurance stool. the underwriting profits signify that all four
+provided funds to berkshire last year without cost, just as they did in 2007. and in both years our underwriting
+profitability was considerably better than that achieved by the industry. of course, we ourselves will periodically
+have a terrible year in insurance. but, overall, i expect us to average an underwriting profit. if so, we will be
+using free funds of large size for the indefinite future.
+
+insurance operations
+
+underwriting profit
+yearend float
+(in millions)
+2008
+2007
+2008
+2007
+
+general re . . . . . . . . . . . . . . . . . . . . . .
+bh reinsurance . . . . . . . . . . . . . . . . . .
+geico . . . . . . . . . . . . . . . . . . . . . . . . .
+other primary . . . . . . . . . . . . . . . . . . .
+
+$ 342
+1,324
+916
+210
+
+$ 555
+1,427
+1,113
+279
+
+$21,074
+24,221
+8,454
+4,739
+
+$23,009
+23,692
+7,768
+4,229
+
+$2,792
+
+$3,374
+
+$58,488
+
+$58,698
+
+manufacturing, service and retailing operations
+our activities in this part of berkshire cover the waterfront. let’s look, though, at a summary balance sheet
+and earnings statement for the entire group.
+balance sheet 12/31/08 (in millions)
+assets
+cash and equivalents . . . . . . . . . . . . . . . . .
+accounts and notes receivable . . . . . . . . . .
+inventory . . . . . . . . . . . . . . . . . . . . . . . . . .
+other current assets . . . . . . . . . . . . . . . . . .
+
+$ 2,497
+5,047
+7,500
+752
+
+total current assets . . . . . . . . . . . . . . . . . . .
+
+15,796
+
+goodwill and other intangibles . . . . . . . . .
+fixed assets . . . . . . . . . . . . . . . . . . . . . . . .
+other assets . . . . . . . . . . . . . . . . . . . . . . . .
+
+16,515
+16,338
+1,248
+
+liabilities and equity
+notes payable . . . . . . . . . . . . . . . . . . . . . . .
+other current liabilities . . . . . . . . . . . . . . .
+
+$ 2,212
+8,087
+
+total current liabilities . . . . . . . . . . . . . . . .
+
+10,299
+
+deferred taxes . . . . . . . . . . . . . . . . . . . . . .
+term debt and other liabilities . . . . . . . . . .
+equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2,786
+6,033
+30,779
+$49,897
+
+$49,897
+9
+
+earnings statement (in millions)
+2008
+
+2007
+
+2006
+
+revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $66,099 $59,100 $52,660
+operating expenses (including depreciation of $1,280 in 2008, $955 in 2007 and
+$823 in 2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61,937
+55,026
+49,002
+interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+139
+127
+132
+pre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+income taxes and minority interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4,023*
+1,740
+$ 2,283
+
+3,947*
+1,594
+$ 2,353
+
+3,526*
+1,395
+$ 2,131
+
+*does not include purchase-accounting adjustments.
+this motley group, which sells products ranging from lollipops to motor homes, earned an impressive
+17.9% on average tangible net worth last year. it’s also noteworthy that these operations used only minor
+financial leverage in achieving that return. clearly we own some terrific businesses. we purchased many of
+them, however, at large premiums to net worth – a point reflected in the goodwill item shown on our balance
+sheet – and that fact reduces the earnings on our average carrying value to 8.1%.
+though the full-year result was satisfactory, earnings of many of the businesses in this group hit the
+skids in last year’s fourth quarter. prospects for 2009 look worse. nevertheless, the group retains strong earning
+power even under today’s conditions and will continue to deliver significant cash to the parent company. overall,
+these companies improved their competitive positions last year, partly because our financial strength let us make
+advantageous tuck-in acquisitions. in contrast, many competitors were treading water (or sinking).
+the most noteworthy of these acquisitions was iscar’s late-november purchase of tungaloy, a leading
+japanese producer of small tools. charlie and i continue to look with astonishment – and appreciation! – at the
+accomplishments of iscar’s management. to secure one manager like eitan wertheimer, jacob harpaz or danny
+goldman when we acquire a company is a blessing. getting three is like winning the triple crown. iscar’s
+growth since our purchase has exceeded our expectations – which were high – and the addition of tungaloy will
+move performance to the next level.
+mitek, benjamin moore, acme brick, forest river, marmon and ctb also made one or more
+acquisitions during the year. ctb, which operates worldwide in the agriculture equipment field, has now picked
+up six small firms since we purchased it in 2002. at that time, we paid $140 million for the company. last year
+its pre-tax earnings were $89 million. vic mancinelli, its ceo, followed berkshire-like operating principles long
+before our arrival. he focuses on blocking and tackling, day by day doing the little things right and never getting
+off course. ten years from now, vic will be running a much larger operation and, more important, will be
+earning excellent returns on invested capital.
+finance and financial products
+i will write here at some length about the mortgage operation of clayton homes and skip any financial
+commentary, which is summarized in the table at the end of this section. i do this because clayton’s recent
+experience may be useful in the public-policy debate about housing and mortgages. but first a little background.
+clayton is the largest company in the manufactured home industry, delivering 27,499 units last year.
+this came to about 34% of the industry’s 81,889 total. our share will likely grow in 2009, partly because much
+of the rest of the industry is in acute distress. industrywide, units sold have steadily declined since they hit a peak
+of 372,843 in 1998.
+
+10
+
+at that time, much of the industry employed sales practices that were atrocious. writing about the
+period somewhat later, i described it as involving “borrowers who shouldn’t have borrowed being financed by
+lenders who shouldn’t have lent.”
+to begin with, the need for meaningful down payments was frequently ignored. sometimes fakery was
+involved. (“that certainly looks like a $2,000 cat to me” says the salesman who will receive a $3,000
+commission if the loan goes through.) moreover, impossible-to-meet monthly payments were being agreed to by
+borrowers who signed up because they had nothing to lose. the resulting mortgages were usually packaged
+(“securitized”) and sold by wall street firms to unsuspecting investors. this chain of folly had to end badly, and
+it did.
+clayton, it should be emphasized, followed far more sensible practices in its own lending throughout
+that time. indeed, no purchaser of the mortgages it originated and then securitized has ever lost a dime of
+principal or interest. but clayton was the exception; industry losses were staggering. and the hangover continues
+to this day.
+this 1997-2000 fiasco should have served as a canary-in-the-coal-mine warning for the far-larger
+conventional housing market. but investors, government and rating agencies learned exactly nothing from the
+manufactured-home debacle. instead, in an eerie rerun of that disaster, the same mistakes were repeated with
+conventional homes in the 2004-07 period: lenders happily made loans that borrowers couldn’t repay out of their
+incomes, and borrowers just as happily signed up to meet those payments. both parties counted on “house-price
+appreciation” to make this otherwise impossible arrangement work. it was scarlett o’hara all over again: “i’ll
+think about it tomorrow.” the consequences of this behavior are now reverberating through every corner of our
+economy.
+clayton’s 198,888 borrowers, however, have continued to pay normally throughout the housing crash,
+handing us no unexpected losses. this is not because these borrowers are unusually creditworthy, a point proved
+by fico scores (a standard measure of credit risk). their median fico score is 644, compared to a national
+median of 723, and about 35% are below 620, the segment usually designated “sub-prime.” many disastrous
+pools of mortgages on conventional homes are populated by borrowers with far better credit, as measured by
+fico scores.
+yet at yearend, our delinquency rate on loans we have originated was 3.6%, up only modestly from
+2.9% in 2006 and 2.9% in 2004. (in addition to our originated loans, we’ve also bought bulk portfolios of various
+types from other financial institutions.) clayton’s foreclosures during 2008 were 3.0% of originated loans
+compared to 3.8% in 2006 and 5.3% in 2004.
+why are our borrowers – characteristically people with modest incomes and far-from-great credit
+scores – performing so well? the answer is elementary, going right back to lending 101. our borrowers simply
+looked at how full-bore mortgage payments would compare with their actual – not hoped-for – income and then
+decided whether they could live with that commitment. simply put, they took out a mortgage with the intention
+of paying it off, whatever the course of home prices.
+just as important is what our borrowers did not do. they did not count on making their loan payments
+by means of refinancing. they did not sign up for “teaser” rates that upon reset were outsized relative to their
+income. and they did not assume that they could always sell their home at a profit if their mortgage payments
+became onerous. jimmy stewart would have loved these folks.
+of course, a number of our borrowers will run into trouble. they generally have no more than minor
+savings to tide them over if adversity hits. the major cause of delinquency or foreclosure is the loss of a job, but
+death, divorce and medical expenses all cause problems. if unemployment rates rise – as they surely will in
+2009 – more of clayton’s borrowers will have troubles, and we will have larger, though still manageable, losses.
+but our problems will not be driven to any extent by the trend of home prices.
+
+11
+
+commentary about the current housing crisis often ignores the crucial fact that most foreclosures do
+not occur because a house is worth less than its mortgage (so-called “upside-down” loans). rather, foreclosures
+take place because borrowers can’t pay the monthly payment that they agreed to pay. homeowners who have
+made a meaningful down-payment – derived from savings and not from other borrowing – seldom walk away
+from a primary residence simply because its value today is less than the mortgage. instead, they walk when they
+can’t make the monthly payments.
+home ownership is a wonderful thing. my family and i have enjoyed my present home for 50 years,
+with more to come. but enjoyment and utility should be the primary motives for purchase, not profit or refi
+possibilities. and the home purchased ought to fit the income of the purchaser.
+the present housing debacle should teach home buyers, lenders, brokers and government some simple
+lessons that will ensure stability in the future. home purchases should involve an honest-to-god down payment
+of at least 10% and monthly payments that can be comfortably handled by the borrower’s income. that income
+should be carefully verified.
+putting people into homes, though a desirable goal, shouldn’t be our country’s primary objective.
+keeping them in their homes should be the ambition.
+************
+clayton’s lending operation, though not damaged by the performance of its borrowers, is nevertheless
+threatened by an element of the credit crisis. funders that have access to any sort of government guarantee –
+banks with fdic-insured deposits, large entities with commercial paper now backed by the federal reserve, and
+others who are using imaginative methods (or lobbying skills) to come under the government’s umbrella – have
+money costs that are minimal. conversely, highly-rated companies, such as berkshire, are experiencing
+borrowing costs that, in relation to treasury rates, are at record levels. moreover, funds are abundant for the
+government-guaranteed borrower but often scarce for others, no matter how creditworthy they may be.
+this unprecedented “spread” in the cost of money makes it unprofitable for any lender who doesn’t
+enjoy government-guaranteed funds to go up against those with a favored status. government is determining the
+“haves” and “have-nots.” that is why companies are rushing to convert to bank holding companies, not a course
+feasible for berkshire.
+though berkshire’s credit is pristine – we are one of only seven aaa corporations in the country – our
+cost of borrowing is now far higher than competitors with shaky balance sheets but government backing. at the
+moment, it is much better to be a financial cripple with a government guarantee than a gibraltar without one.
+today’s extreme conditions may soon end. at worst, we believe we will find at least a partial solution
+that will allow us to continue much of clayton’s lending. clayton’s earnings, however, will surely suffer if we
+are forced to compete for long against government-favored lenders.
+pre-tax earnings
+(in millions)
+2008
+2007
+net investment income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+life and annuity operation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+leasing operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+manufactured-housing finance (clayton) . . . . . . . . . . . . . . . . . . . . . . . .
+other* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+$330
+23
+87
+206
+141
+
+$ 272
+(60)
+111
+526
+157
+
+income before investment and derivatives gains or losses . . . . . . . . . . .
+
+$787
+
+$1,006
+
+*includes $92 million in 2008 and $85 million in 2007 of fees that berkshire charges clayton for the
+use of berkshire’s credit.
+
+12
+
+tax-exempt bond insurance
+early in 2008, we activated berkshire hathaway assurance company (“bhac”) as an insurer of the
+tax-exempt bonds issued by states, cities and other local entities. bhac insures these securities for issuers both
+at the time their bonds are sold to the public (primary transactions) and later, when the bonds are already owned
+by investors (secondary transactions).
+by yearend 2007, the half dozen or so companies that had been the major players in this business had
+all fallen into big trouble. the cause of their problems was captured long ago by mae west: “i was snow white,
+but i drifted.”
+the monolines (as the bond insurers are called) initially insured only tax-exempt bonds that were
+low-risk. but over the years competition for this business intensified, and rates fell. faced with the prospect of
+stagnating or declining earnings, the monoline managers turned to ever-riskier propositions. some of these
+involved the insuring of residential mortgage obligations. when housing prices plummeted, the monoline
+industry quickly became a basket case.
+early in the year, berkshire offered to assume all of the insurance issued on tax-exempts that was on
+the books of the three largest monolines. these companies were all in life-threatening trouble (though they said
+otherwise.) we would have charged a 1 1⁄ 2% rate to take over the guarantees on about $822 billion of bonds. if
+our offer had been accepted, we would have been required to pay any losses suffered by investors who owned
+these bonds – a guarantee stretching for 40 years in some cases. ours was not a frivolous proposal: for reasons
+we will come to later, it involved substantial risk for berkshire.
+the monolines summarily rejected our offer, in some cases appending an insult or two. in the end,
+though, the turndowns proved to be very good news for us, because it became apparent that i had severely
+underpriced our offer.
+thereafter, we wrote about $15.6 billion of insurance in the secondary market. and here’s the punch
+line: about 77% of this business was on bonds that were already insured, largely by the three aforementioned
+monolines. in these agreements, we have to pay for defaults only if the original insurer is financially unable to do
+so.
+we wrote this “second-to-pay” insurance for rates averaging 3.3%. that’s right; we have been paid far
+more for becoming the second to pay than the 1.5% we would have earlier charged to be the first to pay. in one
+extreme case, we actually agreed to be fourth to pay, nonetheless receiving about three times the 1% premium
+charged by the monoline that remains first to pay. in other words, three other monolines have to first go broke
+before we need to write a check.
+two of the three monolines to which we made our initial bulk offer later raised substantial capital.
+this, of course, directly helps us, since it makes it less likely that we will have to pay, at least in the near term,
+any claims on our second-to-pay insurance because these two monolines fail. in addition to our book of
+secondary business, we have also written $3.7 billion of primary business for a premium of $96 million. in
+primary business, of course, we are first to pay if the issuer gets in trouble.
+we have a great many more multiples of capital behind the insurance we write than does any other
+monoline. consequently, our guarantee is far more valuable than theirs. this explains why many sophisticated
+investors have bought second-to-pay insurance from us even though they were already insured by another
+monoline. bhac has become not only the insurer of preference, but in many cases the sole insurer acceptable to
+bondholders.
+nevertheless, we remain very cautious about the business we write and regard it as far from a sure
+thing that this insurance will ultimately be profitable for us. the reason is simple, though i have never seen even
+a passing reference to it by any financial analyst, rating agency or monoline ceo.
+
+13
+
+the rationale behind very low premium rates for insuring tax-exempts has been that defaults have
+historically been few. but that record largely reflects the experience of entities that issued uninsured bonds.
+insurance of tax-exempt bonds didn’t exist before 1971, and even after that most bonds remained uninsured.
+a universe of tax-exempts fully covered by insurance would be certain to have a somewhat different
+loss experience from a group of uninsured, but otherwise similar bonds, the only question being how different.
+to understand why, let’s go back to 1975 when new york city was on the edge of bankruptcy. at the time its
+bonds – virtually all uninsured – were heavily held by the city’s wealthier residents as well as by new york
+banks and other institutions. these local bondholders deeply desired to solve the city’s fiscal problems. so before
+long, concessions and cooperation from a host of involved constituencies produced a solution. without one, it
+was apparent to all that new york’s citizens and businesses would have experienced widespread and severe
+financial losses from their bond holdings.
+now, imagine that all of the city’s bonds had instead been insured by berkshire. would similar belttightening, tax increases, labor concessions, etc. have been forthcoming? of course not. at a minimum, berkshire
+would have been asked to “share” in the required sacrifices. and, considering our deep pockets, the required
+contribution would most certainly have been substantial.
+local governments are going to face far tougher fiscal problems in the future than they have to date.
+the pension liabilities i talked about in last year’s report will be a huge contributor to these woes. many cities
+and states were surely horrified when they inspected the status of their funding at yearend 2008. the gap between
+assets and a realistic actuarial valuation of present liabilities is simply staggering.
+when faced with large revenue shortfalls, communities that have all of their bonds insured will be
+more prone to develop “solutions” less favorable to bondholders than those communities that have uninsured
+bonds held by local banks and residents. losses in the tax-exempt arena, when they come, are also likely to be
+highly correlated among issuers. if a few communities stiff their creditors and get away with it, the chance that
+others will follow in their footsteps will grow. what mayor or city council is going to choose pain to local
+citizens in the form of major tax increases over pain to a far-away bond insurer?
+insuring tax-exempts, therefore, has the look today of a dangerous business – one with similarities, in
+fact, to the insuring of natural catastrophes. in both cases, a string of loss-free years can be followed by a
+devastating experience that more than wipes out all earlier profits. we will try, therefore, to proceed carefully in
+this business, eschewing many classes of bonds that other monolines regularly embrace.
+************
+the type of fallacy involved in projecting loss experience from a universe of non-insured bonds onto a
+deceptively-similar universe in which many bonds are insured pops up in other areas of finance. “back-tested”
+models of many kinds are susceptible to this sort of error. nevertheless, they are frequently touted in financial
+markets as guides to future action. (if merely looking up past financial data would tell you what the future holds,
+the forbes 400 would consist of librarians.)
+indeed, the stupefying losses in mortgage-related securities came in large part because of flawed,
+history-based models used by salesmen, rating agencies and investors. these parties looked at loss experience
+over periods when home prices rose only moderately and speculation in houses was negligible. they then made
+this experience a yardstick for evaluating future losses. they blissfully ignored the fact that house prices had
+recently skyrocketed, loan practices had deteriorated and many buyers had opted for houses they couldn’t afford.
+in short, universe “past” and universe “current” had very different characteristics. but lenders, government and
+media largely failed to recognize this all-important fact.
+
+14
+
+investors should be skeptical of history-based models. constructed by a nerdy-sounding priesthood
+using esoteric terms such as beta, gamma, sigma and the like, these models tend to look impressive. too often,
+though, investors forget to examine the assumptions behind the symbols. our advice: beware of geeks bearing
+formulas.
+************
+a final post-script on bhac: who, you may wonder, runs this operation? while i help set policy, all
+of the heavy lifting is done by ajit and his crew. sure, they were already generating $24 billion of float along
+with hundreds of millions of underwriting profit annually. but how busy can that keep a 31-person group?
+charlie and i decided it was high time for them to start doing a full day’s work.
+investments
+because of accounting rules, we divide our large holdings of common stocks this year into two
+categories. the table below, presenting the first category, itemizes investments that are carried on our balance
+sheet at market value and that had a yearend value of more than $500 million.
+12/31/08
+percentage of
+company
+owned
+
+shares
+
+company
+
+151,610,700
+200,000,000
+84,896,273
+30,009,591
+130,272,500
+3,947,554
+91,941,010
+22,111,966
+11,262,000
+227,307,000
+75,145,426
+19,944,300
+1,727,765
+304,392,068
+
+american express company . . . . . . . . . . . . . . . . . . . .
+the coca-cola company . . . . . . . . . . . . . . . . . . . . . . .
+conocophillips . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+johnson & johnson . . . . . . . . . . . . . . . . . . . . . . . . . . .
+kraft foods inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+posco . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+the procter & gamble company . . . . . . . . . . . . . . . . .
+sanofi-aventis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+swiss re . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+u.s. bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+wal-mart stores, inc. . . . . . . . . . . . . . . . . . . . . . . . . . .
+the washington post company . . . . . . . . . . . . . . . . . .
+wells fargo & company . . . . . . . . . . . . . . . . . . . . . . .
+others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+total common stocks carried at market . . . . . . . . . .
+
+13.1
+8.6
+5.7
+1.1
+8.9
+5.2
+3.1
+1.7
+3.2
+2.9
+4.3
+0.5
+18.4
+7.2
+
+cost*
+market
+(in millions)
+$ 1,287
+$ 2,812
+1,299
+9,054
+7,008
+4,398
+1,847
+1,795
+4,330
+3,498
+768
+1,191
+643
+5,684
+1,827
+1,404
+773
+530
+1,326
+1,193
+2,337
+1,879
+942
+1,118
+11
+674
+6,702
+8,973
+6,035
+4,870
+$37,135
+
+$49,073
+
+*this is our actual purchase price and also our tax basis; gaap “cost” differs in a few cases because of
+write-ups or write-downs that have been required.
+in addition, we have holdings in moody’s and burlington northern santa fe that we now carry at
+“equity value” – our cost plus retained earnings since our purchase, minus the tax that would be paid if those
+earnings were paid to us as dividends. this accounting treatment is usually required when ownership of an
+investee company reaches 20%.
+we purchased 15% of moody’s some years ago and have not since bought a share. moody’s, though,
+has repurchased its own shares and, by late 2008, those repurchases reduced its outstanding shares to the point
+that our holdings rose above 20%. burlington northern has also repurchased shares, but our increase to 20%
+primarily occurred because we continued to buy this stock.
+
+15
+
+unless facts or rules change, you will see these holdings reflected in our balance sheet at “equity
+accounting” values, whatever their market prices. you will also see our share of their earnings (less applicable
+taxes) regularly included in our quarterly and annual earnings.
+i told you in an earlier part of this report that last year i made a major mistake of commission (and
+maybe more; this one sticks out). without urging from charlie or anyone else, i bought a large amount of
+conocophillips stock when oil and gas prices were near their peak. i in no way anticipated the dramatic fall in
+energy prices that occurred in the last half of the year. i still believe the odds are good that oil sells far higher in
+the future than the current $40-$50 price. but so far i have been dead wrong. even if prices should rise,
+moreover, the terrible timing of my purchase has cost berkshire several billion dollars.
+i made some other already-recognizable errors as well. they were smaller, but unfortunately not that
+small. during 2008, i spent $244 million for shares of two irish banks that appeared cheap to me. at yearend we
+wrote these holdings down to market: $27 million, for an 89% loss. since then, the two stocks have declined
+even further. the tennis crowd would call my mistakes “unforced errors.”
+on the plus side last year, we made purchases totaling $14.5 billion in fixed-income securities issued
+by wrigley, goldman sachs and general electric. we very much like these commitments, which carry high
+current yields that, in themselves, make the investments more than satisfactory. but in each of these three
+purchases, we also acquired a substantial equity participation as a bonus. to fund these large purchases, i had to
+sell portions of some holdings that i would have preferred to keep (primarily johnson & johnson, procter &
+gamble and conocophillips). however, i have pledged – to you, the rating agencies and myself – to always run
+berkshire with more than ample cash. we never want to count on the kindness of strangers in order to meet
+tomorrow’s obligations. when forced to choose, i will not trade even a night’s sleep for the chance of extra
+profits.
+the investment world has gone from underpricing risk to overpricing it. this change has not been
+minor; the pendulum has covered an extraordinary arc. a few years ago, it would have seemed unthinkable that
+yields like today’s could have been obtained on good-grade municipal or corporate bonds even while risk-free
+governments offered near-zero returns on short-term bonds and no better than a pittance on long-terms. when the
+financial history of this decade is written, it will surely speak of the internet bubble of the late 1990s and the
+housing bubble of the early 2000s. but the u.s. treasury bond bubble of late 2008 may be regarded as almost
+equally extraordinary.
+clinging to cash equivalents or long-term government bonds at present yields is almost certainly a
+terrible policy if continued for long. holders of these instruments, of course, have felt increasingly comfortable –
+in fact, almost smug – in following this policy as financial turmoil has mounted. they regard their judgment
+confirmed when they hear commentators proclaim “cash is king,” even though that wonderful cash is earning
+close to nothing and will surely find its purchasing power eroded over time.
+approval, though, is not the goal of investing. in fact, approval is often counter-productive because it
+sedates the brain and makes it less receptive to new facts or a re-examination of conclusions formed earlier.
+beware the investment activity that produces applause; the great moves are usually greeted by yawns.
+derivatives
+derivatives are dangerous. they have dramatically increased the leverage and risks in our financial
+system. they have made it almost impossible for investors to understand and analyze our largest commercial
+banks and investment banks. they allowed fannie mae and freddie mac to engage in massive misstatements of
+earnings for years. so indecipherable were freddie and fannie that their federal regulator, ofheo, whose more
+than 100 employees had no job except the oversight of these two institutions, totally missed their cooking of the
+books.
+
+16
+
+indeed, recent events demonstrate that certain big-name ceos (or former ceos) at major financial
+institutions were simply incapable of managing a business with a huge, complex book of derivatives. include
+charlie and me in this hapless group: when berkshire purchased general re in 1998, we knew we could not get
+our minds around its book of 23,218 derivatives contracts, made with 884 counterparties (many of which we had
+never heard of). so we decided to close up shop. though we were under no pressure and were operating in
+benign markets as we exited, it took us five years and more than $400 million in losses to largely complete the
+task. upon leaving, our feelings about the business mirrored a line in a country song: “i liked you better before i
+got to know you so well.”
+improved “transparency” – a favorite remedy of politicians, commentators and financial regulators for
+averting future train wrecks – won’t cure the problems that derivatives pose. i know of no reporting mechanism
+that would come close to describing and measuring the risks in a huge and complex portfolio of derivatives.
+auditors can’t audit these contracts, and regulators can’t regulate them. when i read the pages of “disclosure” in
+10-ks of companies that are entangled with these instruments, all i end up knowing is that i don’t know what is
+going on in their portfolios (and then i reach for some aspirin).
+for a case study on regulatory effectiveness, let’s look harder at the freddie and fannie example.
+these giant institutions were created by congress, which retained control over them, dictating what they could
+and could not do. to aid its oversight, congress created ofheo in 1992, admonishing it to make sure the two
+behemoths were behaving themselves. with that move, fannie and freddie became the most intensely-regulated
+companies of which i am aware, as measured by manpower assigned to the task.
+on june 15, 2003, ofheo (whose annual reports are available on the internet) sent its 2002 report to
+congress – specifically to its four bosses in the senate and house, among them none other than messrs. sarbanes
+and oxley. the report’s 127 pages included a self-congratulatory cover-line: “celebrating 10 years of
+excellence.” the transmittal letter and report were delivered nine days after the ceo and cfo of freddie had
+resigned in disgrace and the coo had been fired. no mention of their departures was made in the letter, even
+while the report concluded, as it always did, that “both enterprises were financially sound and well managed.”
+in truth, both enterprises had engaged in massive accounting shenanigans for some time. finally, in
+2006, ofheo issued a 340-page scathing chronicle of the sins of fannie that, more or less, blamed the fiasco on
+every party but – you guessed it – congress and ofheo.
+the bear stearns collapse highlights the counterparty problem embedded in derivatives transactions, a
+time bomb i first discussed in berkshire’s 2002 report. on april 3, 2008, tim geithner, then the able president of
+the new york fed, explained the need for a rescue: “the sudden discovery by bear’s derivative counterparties
+that important financial positions they had put in place to protect themselves from financial risk were no longer
+operative would have triggered substantial further dislocation in markets. this would have precipitated a rush by
+bear’s counterparties to liquidate the collateral they held against those positions and to attempt to replicate those
+positions in already very fragile markets.” this is fedspeak for “we stepped in to avoid a financial chain reaction
+of unpredictable magnitude.” in my opinion, the fed was right to do so.
+a normal stock or bond trade is completed in a few days with one party getting its cash, the other its
+securities. counterparty risk therefore quickly disappears, which means credit problems can’t accumulate. this
+rapid settlement process is key to maintaining the integrity of markets. that, in fact, is a reason for nyse and
+nasdaq shortening the settlement period from five days to three days in 1995.
+derivatives contracts, in contrast, often go unsettled for years, or even decades, with counterparties
+building up huge claims against each other. “paper” assets and liabilities – often hard to quantify – become
+important parts of financial statements though these items will not be validated for many years. additionally, a
+frightening web of mutual dependence develops among huge financial institutions. receivables and payables by
+the billions become concentrated in the hands of a few large dealers who are apt to be highly-leveraged in other
+ways as well. participants seeking to dodge troubles face the same problem as someone seeking to avoid venereal
+disease: it’s not just whom you sleep with, but also whom they are sleeping with.
+
+17
+
+sleeping around, to continue our metaphor, can actually be useful for large derivatives dealers because
+it assures them government aid if trouble hits. in other words, only companies having problems that can infect
+the entire neighborhood – i won’t mention names – are certain to become a concern of the state (an outcome, i’m
+sad to say, that is proper). from this irritating reality comes the first law of corporate survival for ambitious
+ceos who pile on leverage and run large and unfathomable derivatives books: modest incompetence simply
+won’t do; it’s mindboggling screw-ups that are required.
+considering the ruin i’ve pictured, you may wonder why berkshire is a party to 251 derivatives
+contracts (other than those used for operational purposes at midamerican and the few left over at gen re). the
+answer is simple: i believe each contract we own was mispriced at inception, sometimes dramatically so. i both
+initiated these positions and monitor them, a set of responsibilities consistent with my belief that the ceo of any
+large financial organization must be the chief risk officer as well. if we lose money on our derivatives, it will be
+my fault.
+our derivatives dealings require our counterparties to make payments to us when contracts are
+initiated. berkshire therefore always holds the money, which leaves us assuming no meaningful counterparty
+risk. as of yearend, the payments made to us less losses we have paid – our derivatives “float,” so to speak –
+totaled $8.1 billion. this float is similar to insurance float: if we break even on an underlying transaction, we will
+have enjoyed the use of free money for a long time. our expectation, though it is far from a sure thing, is that we
+will do better than break even and that the substantial investment income we earn on the funds will be frosting on
+the cake.
+only a small percentage of our contracts call for any posting of collateral when the market moves
+against us. even under the chaotic conditions existing in last year’s fourth quarter, we had to post less than 1% of
+our securities portfolio. (when we post collateral, we deposit it with third parties, meanwhile retaining the
+investment earnings on the deposited securities.) in our 2002 annual report, we warned of the lethal threat that
+posting requirements create, real-life illustrations of which we witnessed last year at a variety of financial
+institutions (and, for that matter, at constellation energy, which was within hours of bankruptcy when
+midamerican arrived to effect a rescue).
+our contracts fall into four major categories. with apologies to those who are not fascinated by
+financial instruments, i will explain them in excruciating detail.
+•
+
+we have added modestly to the “equity put” portfolio i described in last year’s report. some of our
+contracts come due in 15 years, others in 20. we must make a payment to our counterparty at
+maturity if the reference index to which the put is tied is then below what it was at the inception of
+the contract. neither party can elect to settle early; it’s only the price on the final day that counts.
+to illustrate, we might sell a $1 billion 15-year put contract on the s&p 500 when that index is at,
+say, 1300. if the index is at 1170 – down 10% – on the day of maturity, we would pay $100 million.
+if it is above 1300, we owe nothing. for us to lose $1 billion, the index would have to go to zero. in
+the meantime, the sale of the put would have delivered us a premium – perhaps $100 million to
+$150 million – that we would be free to invest as we wish.
+our put contracts total $37.1 billion (at current exchange rates) and are spread among four major
+indices: the s&p 500 in the u.s., the ftse 100 in the u.k., the euro stoxx 50 in europe, and the
+nikkei 225 in japan. our first contract comes due on september 9, 2019 and our last on january 24,
+2028. we have received premiums of $4.9 billion, money we have invested. we, meanwhile, have
+paid nothing, since all expiration dates are far in the future. nonetheless, we have used blackscholes valuation methods to record a yearend liability of $10 billion, an amount that will change
+on every reporting date. the two financial items – this estimated loss of $10 billion minus the $4.9
+billion in premiums we have received – means that we have so far reported a mark-to-market loss
+of $5.1 billion from these contracts.
+
+18
+
+we endorse mark-to-market accounting. i will explain later, however, why i believe the blackscholes formula, even though it is the standard for establishing the dollar liability for options,
+produces strange results when the long-term variety are being valued.
+one point about our contracts that is sometimes not understood: for us to lose the full $37.1 billion
+we have at risk, all stocks in all four indices would have to go to zero on their various termination
+dates. if, however – as an example – all indices fell 25% from their value at the inception of each
+contract, and foreign-exchange rates remained as they are today, we would owe about $9 billion,
+payable between 2019 and 2028. between the inception of the contract and those dates, we would
+have held the $4.9 billion premium and earned investment income on it.
+•
+
+the second category we described in last year’s report concerns derivatives requiring us to pay
+when credit losses occur at companies that are included in various high-yield indices. our standard
+contract covers a five-year period and involves 100 companies. we modestly expanded our position
+last year in this category. but, of course, the contracts on the books at the end of 2007 moved one
+year closer to their maturity. overall, our contracts now have an average life of 2 1⁄ 3 years, with the
+first expiration due to occur on september 20, 2009 and the last on december 20, 2013.
+by yearend we had received premiums of $3.4 billion on these contracts and paid losses of $542
+million. using mark-to-market principles, we also set up a liability for future losses that at yearend
+totaled $3.0 billion. thus we had to that point recorded a loss of about $100 million, derived from
+our $3.5 billion total in paid and estimated future losses minus the $3.4 billion of premiums we
+received. in our quarterly reports, however, the amount of gain or loss has swung wildly from a
+profit of $327 million in the second quarter of 2008 to a loss of $693 million in the fourth quarter of
+2008.
+surprisingly, we made payments on these contracts of only $97 million last year, far below the
+estimate i used when i decided to enter into them. this year, however, losses have accelerated
+sharply with the mushrooming of large bankruptcies. in last year’s letter, i told you i expected these
+contracts to show a profit at expiration. now, with the recession deepening at a rapid rate, the
+possibility of an eventual loss has increased. whatever the result, i will keep you posted.
+
+•
+
+in 2008 we began to write “credit default swaps” on individual companies. this is simply credit
+insurance, similar to what we write in bhac, except that here we bear the credit risk of
+corporations rather than of tax-exempt issuers.
+if, say, the xyz company goes bankrupt, and we have written a $100 million contract, we are
+obligated to pay an amount that reflects the shrinkage in value of a comparable amount of xyz’s
+debt. (if, for example, the company’s bonds are selling for 30 after default, we would owe $70
+million.) for the typical contract, we receive quarterly payments for five years, after which our
+insurance expires.
+at yearend we had written $4 billion of contracts covering 42 corporations, for which we receive
+annual premiums of $93 million. this is the only derivatives business we write that has any
+counterparty risk; the party that buys the contract from us must be good for the quarterly premiums
+it will owe us over the five years. we are unlikely to expand this business to any extent because
+most buyers of this protection now insist that the seller post collateral, and we will not enter into
+such an arrangement.
+
+•
+
+at the request of our customers, we write a few tax-exempt bond insurance contracts that are
+similar to those written at bhac, but that are structured as derivatives. the only meaningful
+difference between the two contracts is that mark-to-market accounting is required for derivatives
+whereas standard accrual accounting is required at bhac.
+
+19
+
+but this difference can produce some strange results. the bonds covered – in effect, insured – by
+these derivatives are largely general obligations of states, and we feel good about them. at yearend,
+however, mark-to-market accounting required us to record a loss of $631 million on these
+derivatives contracts. had we instead insured the same bonds at the same price in bhac, and used
+the accrual accounting required at insurance companies, we would have recorded a small profit for
+the year. the two methods by which we insure the bonds will eventually produce the same
+accounting result. in the short term, however, the variance in reported profits can be substantial.
+we have told you before that our derivative contracts, subject as they are to mark-to-market
+accounting, will produce wild swings in the earnings we report. the ups and downs neither cheer nor bother
+charlie and me. indeed, the “downs” can be helpful in that they give us an opportunity to expand a position on
+favorable terms. i hope this explanation of our dealings will lead you to think similarly.
+************
+the black-scholes formula has approached the status of holy writ in finance, and we use it when
+valuing our equity put options for financial statement purposes. key inputs to the calculation include a contract’s
+maturity and strike price, as well as the analyst’s expectations for volatility, interest rates and dividends.
+if the formula is applied to extended time periods, however, it can produce absurd results. in fairness,
+black and scholes almost certainly understood this point well. but their devoted followers may be ignoring
+whatever caveats the two men attached when they first unveiled the formula.
+it’s often useful in testing a theory to push it to extremes. so let’s postulate that we sell a 100- year $1
+billion put option on the s&p 500 at a strike price of 903 (the index’s level on 12/31/08). using the implied
+volatility assumption for long-dated contracts that we do, and combining that with appropriate interest and
+dividend assumptions, we would find the “proper” black-scholes premium for this contract to be $2.5 million.
+to judge the rationality of that premium, we need to assess whether the s&p will be valued a century
+from now at less than today. certainly the dollar will then be worth a small fraction of its present value (at only
+2% inflation it will be worth roughly 14¢). so that will be a factor pushing the stated value of the index higher.
+far more important, however, is that one hundred years of retained earnings will hugely increase the value of
+most of the companies in the index. in the 20th century, the dow-jones industrial average increased by about
+175-fold, mainly because of this retained-earnings factor.
+considering everything, i believe the probability of a decline in the index over a one-hundred-year
+period to be far less than 1%. but let’s use that figure and also assume that the most likely decline – should one
+occur – is 50%. under these assumptions, the mathematical expectation of loss on our contract would be $5
+million ($1 billion x 1% x 50%).
+but if we had received our theoretical premium of $2.5 million up front, we would have only had to
+invest it at 0.7% compounded annually to cover this loss expectancy. everything earned above that would have
+been profit. would you like to borrow money for 100 years at a 0.7% rate?
+let’s look at my example from a worst-case standpoint. remember that 99% of the time we would pay
+nothing if my assumptions are correct. but even in the worst case among the remaining 1% of possibilities – that
+is, one assuming a total loss of $1 billion – our borrowing cost would come to only 6.2%. clearly, either my
+assumptions are crazy or the formula is inappropriate.
+
+20
+
+the ridiculous premium that black-scholes dictates in my extreme example is caused by the inclusion
+of volatility in the formula and by the fact that volatility is determined by how much stocks have moved around
+in some past period of days, months or years. this metric is simply irrelevant in estimating the probabilityweighted range of values of american business 100 years from now. (imagine, if you will, getting a quote every
+day on a farm from a manic-depressive neighbor and then using the volatility calculated from these changing
+quotes as an important ingredient in an equation that predicts a probability-weighted range of values for the farm
+a century from now.)
+though historical volatility is a useful – but far from foolproof – concept in valuing short-term options,
+its utility diminishes rapidly as the duration of the option lengthens. in my opinion, the valuations that the blackscholes formula now place on our long-term put options overstate our liability, though the overstatement will
+diminish as the contracts approach maturity.
+even so, we will continue to use black-scholes when we are estimating our financial-statement
+liability for long-term equity puts. the formula represents conventional wisdom and any substitute that i might
+offer would engender extreme skepticism. that would be perfectly understandable: ceos who have concocted
+their own valuations for esoteric financial instruments have seldom erred on the side of conservatism. that club
+of optimists is one that charlie and i have no desire to join.
+the annual meeting
+our meeting this year will be held on saturday, may 2nd. as always, the doors will open at the qwest
+center at 7 a.m., and a new berkshire movie will be shown at 8:30. at 9:30 we will go directly to the
+question-and-answer period, which (with a break for lunch at the qwest’s stands) will last until 3:00. then, after
+a short recess, charlie and i will convene the annual meeting at 3:15. if you decide to leave during the day’s
+question periods, please do so while charlie is talking.
+the best reason to exit, of course, is to shop. we will help you do that by filling the 194,300-squarefoot hall that adjoins the meeting area with the products of berkshire subsidiaries. last year, the 31,000 people
+who came to the meeting did their part, and almost every location racked up record sales. but you can do better.
+(a friendly warning: if i find sales are lagging, i lock the exits.)
+this year clayton will showcase its new i-house that includes shaw flooring, johns manville insulation
+and mitek fasteners. this innovative “green” home, featuring solar panels and numerous other energy-saving
+products, is truly a home of the future. estimated costs for electricity and heating total only about $1 per day
+when the home is sited in an area like omaha. after purchasing the i-house, you should next consider the forest
+river rv and pontoon boat on display nearby. make your neighbors jealous.
+geico will have a booth staffed by a number of its top counselors from around the country, all of
+them ready to supply you with auto insurance quotes. in most cases, geico will be able to give you a
+shareholder discount (usually 8%). this special offer is permitted by 44 of the 50 jurisdictions in which we
+operate. (one supplemental point: the discount is not additive if you qualify for another, such as that given
+certain groups.) bring the details of your existing insurance and check out whether we can save you money. for
+at least 50% of you, i believe we can.
+on saturday, at the omaha airport, we will have the usual array of netjets aircraft available for your
+inspection. stop by the netjets booth at the qwest to learn about viewing these planes. come to omaha by bus;
+leave in your new plane. and take along – with no fear of a strip search – the ginsu knives that you’ve purchased
+at the exhibit of our quikut subsidiary.
+next, if you have any money left, visit the bookworm, which will be selling about 30 books and
+dvds. a shipping service will be available for those whose thirst for knowledge exceeds their carrying capacity.
+
+21
+
+finally, we will have three fascinating cars on the exhibition floor, including one from the past and one
+of the future. paul andrews, ceo of our subsidiary, tti, will bring his 1935 duesenberg, a car that once
+belonged to mrs. forrest mars, sr., parent and grandparent of our new partners in the wrigley purchase. the
+future will be represented by a new plug-in electric car developed by byd, an amazing chinese company in
+which we have a 10% interest.
+an attachment to the proxy material that is enclosed with this report explains how you can obtain the
+credential you will need for admission to the meeting and other events. as for plane, hotel and car reservations,
+we have again signed up american express (800-799-6634) to give you special help. carol pedersen, who
+handles these matters, does a terrific job for us each year, and i thank her for it. hotel rooms can be hard to find,
+but work with carol and you will get one.
+at nebraska furniture mart, located on a 77-acre site on 72nd street between dodge and pacific, we
+will again be having “berkshire weekend” discount pricing. we initiated this special event at nfm twelve years
+ago, and sales during the “weekend” grew from $5.3 million in 1997 to a record $33.3 million in 2008. on
+saturday of that weekend, we also set a single day record of $7.2 million. ask any retailer what he thinks of such
+volume.
+to obtain the berkshire discount, you must make your purchases between thursday, april 30th and
+monday, may 4th inclusive, and also present your meeting credential. the period’s special pricing will even
+apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting
+but which, in the spirit of our shareholder weekend, have made an exception for you. we appreciate their
+cooperation. nfm is open from 10 a.m. to 9 p.m. monday through saturday, and 10 a.m. to 6 p.m. on sunday.
+on saturday this year, from 5:30 p.m. to 8 p.m., nfm is having a western cookout to which you are all invited.
+at borsheims, we will again have two shareholder-only events. the first will be a cocktail reception
+from 6 p.m. to 10 p.m. on friday, may 1st. the second, the main gala, will be held on sunday, may 3rd, from 9
+a.m. to 4 p.m. on saturday, we will be open until 6 p.m.
+we will have huge crowds at borsheims throughout the weekend. for your convenience, therefore,
+shareholder prices will be available from monday, april 27th through saturday, may 9th. during that period,
+please identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that
+shows you are a berkshire holder.
+on sunday, in the mall outside of borsheims, a blindfolded patrick wolff, twice u.s. chess champion,
+will take on all comers – who will have their eyes wide open – in groups of six. nearby, norman beck, a
+remarkable magician from dallas, will bewilder onlookers. additionally, we will have bob hamman and sharon
+osberg, two of the world’s top bridge experts, available to play bridge with our shareholders on sunday
+afternoon.
+gorat’s will again be open exclusively for berkshire shareholders on sunday, may 3rd, and will be
+serving from 1 p.m. until 10 p.m. last year gorat’s, which seats 240, served 975 dinners on shareholder sunday.
+the three-day total was 2,448 including 702 t-bone steaks, the entrée preferred by the cognoscenti. please don’t
+embarrass me by ordering foie gras. remember: to come to gorat’s on that day, you must have a reservation. to
+make one, call 402-551-3733 on april 1st (but not before).
+we will again have a reception at 4 p.m. on saturday afternoon for shareholders who have come from
+outside north america. every year our meeting draws many people from around the globe, and charlie and i
+want to be sure we personally greet those who have come so far. last year we enjoyed meeting more than 700 of
+you from many dozens of countries. any shareholder who comes from outside the u.s. or canada will be given a
+special credential and instructions for attending this function.
+************
+
+22
+
+this year we will be making important changes in how we handle the meeting’s question periods. in
+recent years, we have received only a handful of questions directly related to berkshire and its operations. last
+year there were practically none. so we need to steer the discussion back to berkshire’s businesses.
+in a related problem, there has been a mad rush when the doors open at 7 a.m., led by people who wish
+to be first in line at the 12 microphones available for questioners. this is not desirable from a safety standpoint,
+nor do we believe that sprinting ability should be the determinant of who gets to pose questions. (at age 78, i’ve
+concluded that speed afoot is a ridiculously overrated talent.) again, a new procedure is desirable.
+in our first change, several financial journalists from organizations representing newspapers,
+magazines and television will participate in the question-and-answer period, asking charlie and me questions that
+shareholders have submitted by e-mail. the journalists and their e-mail addresses are: carol loomis, of fortune,
+who may be emailed at cloomis@fortunemail.com; becky quick, of cnbc, at berkshirequestions@cnbc.com,
+and andrew ross sorkin, of the new york times, at arsorkin@nytimes.com. from the questions submitted,
+each journalist will choose the dozen or so he or she decides are the most interesting and important. (in your
+e-mail, let the journalist know if you would like your name mentioned if your question is selected.)
+neither charlie nor i will get so much as a clue about the questions to be asked. we know the
+journalists will pick some tough ones and that’s the way we like it.
+in our second change, we will have a drawing at 8:15 at each microphone for those shareholders
+hoping to ask questions themselves. at the meeting, i will alternate the questions asked by the journalists with
+those from the winning shareholders. at least half the questions – those selected by the panel from your
+submissions – are therefore certain to be berkshire-related. we will meanwhile continue to get some good – and
+perhaps entertaining – questions from the audience as well.
+so join us at our woodstock for capitalists and let us know how you like the new format. charlie and i
+look forward to seeing you.
+february 27, 2009
+
+warren e. buffett
+chairman of the board
+
+23
+
+

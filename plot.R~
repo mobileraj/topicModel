@@ -1,0 +1,19 @@
+library(reshape2)
+library(ggplot2)
+
+data <-read.csv(text=readLines("/home/raj/projects/topicModels/output_csv/TopicsInDocs.csv")[-(1:1)],sep=",",header=F)
+d<-data.frame(substr(as.character(data$V2),39,42),data$V3,data$V5,data$V7)
+colnames(d)<-c("year","topic1","topic2","topic3")
+rownames(d)<-d$year
+
+ggplot() +
+geom_point(data=d,aes(x=year,y=topic1,col='1st topic'))+
+geom_point(data=d,aes(x=year,y=topic2,col='2nd topic'))+
+geom_point(data=d,aes(x=year,y=topic3,col='3rd topic'))+
+ylab('Topics')+xlab('Year')+labs(col="Legend")
+
+### Trying to reshape
+newd<-data.frame(substr(as.character(data$V2),39,42),data$V3,data$V4,data$V5,data$V6,data$V7,data$V8)
+colnames(newd)<-c("year","topic1","contrib1","topic2","contrib2","topic3","contrib3")
+head(newd)
+md<-melt(newd,id=c("year"))
